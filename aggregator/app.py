@@ -90,6 +90,16 @@ def log(msg):
         pass
 
 
+def load_blocklist():
+    """sources.json 里可配 block_urls（子串匹配），用于手动拉黑个别假直播/占位流。"""
+    try:
+        with open(SOURCES_FILE, encoding="utf-8") as f:
+            cfg = json.load(f)
+        return [b for b in cfg.get("block_urls", []) if b]
+    except (OSError, ValueError):
+        return []
+
+
 def load_sources():
     with open(SOURCES_FILE, encoding="utf-8") as f:
         cfg = json.load(f)
@@ -619,6 +629,13 @@ def run_once():
         if not entries:
             log("所有上游都没拿到条目，保留上一次结果")
             return
+
+        block = load_blocklist()
+        if block:
+            keep = [e for e in entries if not any(b in e["url"] for b in block)]
+            if len(keep) != len(entries):
+                log(f"黑名单：按 block_urls 剔除 {len(entries) - len(keep)} 条")
+            entries = keep
 
         # 先按 URL 去重再探测：上游之间重复地址很多，白测既慢又容易被服务器限流
         uniq = {}
