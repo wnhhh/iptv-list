@@ -1,0 +1,48 @@
+{
+ "updated": "2026-11-02 09:47:39",
+ "duration_s": 52.0,
+ "sources": {
+  "vbskycn/iptv": {
+   "entries": 306,
+   "alive": 157
+  },
+  "ssili126/tv": {
+   "entries": 104,
+   "alive": 29
+  },
+  "best-fan/iptv-sources": {
+   "entries": 142,
+   "alive": 53
+  },
+  "zwc456baby/iptv_alive": {
+   "entries": 30,
+   "alive": 18
+  },
+  "Supprise0901/TVBox_live": {
+   "entries": 298,
+   "alive": 212
+  },
+  "zhi35/iptv": {
+   "entries": 396,
+   "alive": 256
+  }
+ },
+ "failed_sources": [],
+ "tested": 1276,
+ "alive": 894,
+ "alive_raw": 1100,
+ "discarded": 176,
+ "channels": 725,
+ "groups": {
+  "央视频道": 82,
+  "卫视频道": 80,
+  "地方频道": 462,
+  "体育频道": 9,
+  "新闻财经": 30,
+  "电影频道": 23,
+  "纪录频道": 27,
+  "儿童频道": 10,
+  "音乐频道": 2
+ },
+ "median_ms": 119
+}
