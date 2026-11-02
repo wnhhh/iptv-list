@@ -1,0 +1,47 @@
+{
+  "sources": [
+    {
+      "name": "vbskycn/iptv",
+      "repo": "vbskycn/iptv",
+      "branch": "master",
+      "path": "tv/iptv4.txt",
+      "priority": 1
+    },
+    {
+      "name": "best-fan/iptv-sources",
+      "repo": "best-fan/iptv-sources",
+      "branch": "main",
+      "path": "cn_all_status.m3u8",
+      "priority": 3
+    },
+    {
+      "name": "zwc456baby/iptv_alive",
+      "repo": "zwc456baby/iptv_alive",
+      "branch": "master",
+      "path": "live.m3u",
+      "priority": 4
+    },
+    {
+      "name": "Supprise0901/TVBox_live",
+      "repo": "Supprise0901/TVBox_live",
+      "branch": "main",
+      "path": "live.txt",
+      "priority": 5
+    },
+    {
+      "name": "iptv-org/cn",
+      "repo": "iptv-org/iptv",
+      "branch": "master",
+      "path": "streams/cn.m3u",
+      "priority": 8,
+      "enabled": true
+    },
+    {
+      "name": "zilong7728/Collect-IPTV",
+      "repo": "zilong7728/Collect-IPTV",
+      "branch": "main",
+      "path": "best_sorted.m3u",
+      "priority": 7
+    }
+  ]
+}

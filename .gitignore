@@ -1,0 +1,9 @@
+# 运行时与敏感信息
+.env
+secrets/
+data/
+abdata/
+__pycache__/
+*.pyc
+*.bak
+*.bak.*
