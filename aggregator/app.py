@@ -459,6 +459,37 @@ def push_to_github():
     if not GITHUB_REPO:
         return
     remote = f"git@github.com:{GITHUB_REPO}.git"
+
+    def sync_remote(branch):
+        """对齐到远端最新。浅克隆里没有 origin/<branch> 引用，reset 必须用 FETCH_HEAD，
+        否则 reset 会静默失败、带着旧提交去 push，被 non-fast-forward 拒掉。"""
+        r = git(["fetch", "--depth", "1", "origin", branch])
+        if r.returncode != 0:
+            log("GitHub fetch 失败：" + (r.stderr or r.stdout).strip()[:300])
+            return False
+        r = git(["reset", "--hard", "FETCH_HEAD"])
+        if r.returncode != 0:
+            log("GitHub reset 失败：" + (r.stderr or r.stdout).strip()[:300])
+            return False
+        return True
+
+    def stage_and_commit():
+        """复制产物并提交。返回 True=已提交 / False=无变化 / None=提交失败"""
+        for f in PUBLISH_FILES:
+            src = os.path.join(DATA, f)
+            if os.path.exists(src):
+                shutil.copy(src, os.path.join(GIT_WORKDIR, f))
+        git(["add", "-A"])
+        if git(["diff", "--cached", "--quiet"]).returncode == 0:
+            return False
+        msg = f"chore: update playlist {now_cn():%Y-%m-%d %H:%M} (CST)"
+        r = git(["-c", "user.name=iptv-agg", "-c", "user.email=iptv-agg@users.noreply.github.com",
+                 "commit", "-m", msg])
+        if r.returncode != 0:
+            log("Git 提交失败：" + (r.stderr or r.stdout).strip()[:300])
+            return None
+        return True
+
     try:
         if not os.path.isdir(os.path.join(GIT_WORKDIR, ".git")):
             r = git(["clone", "--depth", "1", remote, GIT_WORKDIR], cwd=DATA)
@@ -472,26 +503,31 @@ def push_to_github():
         if branch == "HEAD":          # 空仓库时 rev-parse 返回 HEAD
             branch = "main"
         if git(["ls-remote", "--heads", "origin"]).stdout.strip():
-            r = git(["fetch", "--depth", "1", "origin", branch])
-            if r.returncode != 0:
-                log("GitHub fetch 失败：" + (r.stderr or r.stdout).strip()[:300])
+            if not sync_remote(branch):
                 return
-            git(["reset", "--hard", f"origin/{branch}"])
         else:
             log("仓库为空，本次将创建首个提交")
-        for f in PUBLISH_FILES:
-            src = os.path.join(DATA, f)
-            if os.path.exists(src):
-                shutil.copy(src, os.path.join(GIT_WORKDIR, f))
-        git(["add", "-A"])
-        if git(["diff", "--cached", "--quiet"]).returncode == 0:
+
+        state = stage_and_commit()
+        if state is False:
             log("GitHub 内容无变化，跳过提交")
             return
-        msg = f"chore: update playlist {now_cn():%Y-%m-%d %H:%M} (CST)"
-        r = git(["-c", "user.name=iptv-agg", "-c", "user.email=iptv-agg@users.noreply.github.com",
-                 "commit", "-m", msg])
-        if r.returncode != 0:
-            log("Git 提交失败：" + (r.stderr or r.stdout).strip()[:300])
+        if state is None:
+            return
+        r = git(["push", "origin", f"HEAD:{branch}"])
+        if r.returncode == 0:
+            log(f"已推送 GitHub {GITHUB_REPO}@{branch}")
+            return
+
+        # 远端在此期间被别处推过（比如手动提交代码）：重新对齐再来一次
+        log("推送被拒，重新对齐远端后重试：" + (r.stderr or r.stdout).strip()[:200])
+        if not sync_remote(branch):
+            return
+        state = stage_and_commit()
+        if state is False:
+            log("GitHub 内容无变化，跳过提交")
+            return
+        if state is None:
             return
         r = git(["push", "origin", f"HEAD:{branch}"])
         if r.returncode == 0:
