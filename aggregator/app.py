@@ -279,6 +279,52 @@ def norm(name):
     return re.sub(r"[\s\-_（）()]+", "", name).lower()
 
 
+# ---- 排序：让列表按"台号"排，而不是按延迟排 ----
+# 卫视按惯例的省份顺序（华北→东北→华东→中南→西南→西北），非省份台排后面
+PROV_ORDER = {p: i for i, p in enumerate([
+    "北京", "天津", "河北", "山西", "内蒙古", "辽宁", "吉林", "黑龙江",
+    "上海", "江苏", "浙江", "安徽", "福建", "江西", "山东", "河南",
+    "湖北", "湖南", "广东", "广西", "海南", "重庆", "四川", "贵州",
+    "云南", "西藏", "陕西", "甘肃", "青海", "宁夏", "新疆",
+    "深圳", "厦门", "三沙", "香港", "澳门", "台湾"])}
+# 台名不等于省份的卫视，映射到所在省
+SATELLITE_ALIAS = {
+    "东方": "上海", "东南": "福建", "大湾区": "广东", "南方": "广东", "岭南": "广东",
+    "海峡": "福建", "延边": "吉林", "兵团": "新疆", "康巴": "四川", "安多": "青海",
+}
+
+
+def natural_key(s):
+    """数字按数值比较，其余按小写字符串：CCTV-2 会排在 CCTV-10 前面"""
+    return [(0, int(t)) if t.isdigit() else (1, t.lower())
+            for t in re.split(r"(\d+)", s) if t]
+
+
+def order_key(group, name):
+    """分组内排序键。返回的元组形状只需在同一分组内可比即可。"""
+    if group == "央视频道":
+        m = re.match(r"(?i)^cctv[-_ ]?(\d{1,2})(\+?)(.*)$", name)
+        if m:
+            num, plus, rest = int(m.group(1)), 1 if m.group(2) else 0, m.group(3)
+            if rest.upper() == "K":                       # CCTV-4K / CCTV-8K 放本组末尾
+                return (4, num, plus, 9, "")
+            variant = {"": 0, "中文国际": 1, "欧洲": 2, "美洲": 3}.get(rest, 4)
+            return (0, num, plus, variant, "")
+        if name.upper().startswith("CGTN"):
+            return (2, 0, 0, 0, natural_key(name))
+        return (3, 0, 0, 0, natural_key(name))
+    if group == "卫视频道":
+        base = name
+        for suf in ("卫视", "频道", "台"):
+            if base.endswith(suf):
+                base = base[:-len(suf)]
+        prov = SATELLITE_ALIAS.get(base, base)
+        if prov in PROV_ORDER:
+            return (PROV_ORDER[prov], natural_key(name))
+        return (99, natural_key(name))
+    return (natural_key(name),)
+
+
 # ---- 台名规范化 ----
 # 各上游写法不统一：同一路 CCTV-1 可能叫 "CCTV-1" / "CCTV1综合" / "CCTV-1 (720p)"，
 # 不统一就会在列表里各占一行。这里把画质标记、CCTV 编号写法抹平。
@@ -297,15 +343,16 @@ def canon_name(raw):
     n = QUALITY_RE.sub("", raw).strip()
     n = TAIL_QUALITY_RE.sub("", n).strip()
     n = n.replace("（", "(").replace("）", ")")
-    n = re.sub(r"\s+", "", n)
-    m = re.match(r"(?i)^cctv[-_]?(\d{1,2})(\+?)(.*)$", n)
+    compact = re.sub(r"\s+", "", n)
+    m = re.match(r"(?i)^cctv[-_]?(\d{1,2})(\+?)(.*)$", compact)
     if m:
         num, plus, rest = m.group(1), m.group(2), m.group(3)
         # 中文描述后缀归并成编号写法；CCTV4欧洲/美洲、CCTV4K/8K 这类是不同频道，保留
         if rest == "" or rest in CCTV_DESC:
             return f"CCTV-{num}{plus}"
         return f"CCTV-{num}{plus}{rest}"
-    return n
+    # 非 CCTV 台名保留原空格（"Anhui TV" 不该变成 "AnhuiTV"），只压缩多余空白
+    return re.sub(r"\s{2,}", " ", n)
 
 
 def atomic_write(path, text):
@@ -639,6 +686,8 @@ def run_once():
                     e["urls"].append(x["url"])
         if len(merged) != len(final):
             log(f"同名归并：{len(final)} 条线路 -> {len(merged)} 个频道")
+        # 按台号排序（CCTV-1、CCTV-2…；卫视按省份顺序；其余按名称自然序），不再按延迟排
+        merged.sort(key=lambda x: (GROUPS.index(x["group"]), order_key(x["group"], x["name"])))
         final = merged
 
         for name, st in per_source.items():
