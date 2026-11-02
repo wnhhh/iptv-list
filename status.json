@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-02 16:25:18",
- "duration_s": 153.8,
+ "updated": "2026-11-02 16:30:08",
+ "duration_s": 162.1,
  "sources": {
   "vbskycn/iptv": {
    "entries": 556,
-   "alive": 306
+   "alive": 311
   },
   "best-fan/iptv-sources": {
    "entries": 142,
-   "alive": 17
+   "alive": 16
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 2
+   "alive": 1
   },
   "Supprise0901/TVBox_live": {
    "entries": 298,
-   "alive": 169
+   "alive": 164
   },
   "iptv-org/cn": {
    "entries": 517,
@@ -24,28 +24,28 @@
   },
   "zilong7728/Collect-IPTV": {
    "entries": 505,
-   "alive": 121
+   "alive": 110
   }
  },
  "failed_sources": [],
  "tested": 1666,
  "raw_entries": 2048,
  "deep_check": false,
- "alive": 1086,
- "alive_raw": 1086,
- "discarded": 580,
+ "alive": 1075,
+ "alive_raw": 1075,
+ "discarded": 591,
  "deep_rejected": 0,
- "channels": 682,
+ "channels": 669,
  "groups": {
   "央视频道": 37,
   "卫视频道": 48,
-  "地方频道": 500,
+  "地方频道": 490,
   "体育频道": 4,
-  "新闻财经": 41,
+  "新闻财经": 36,
   "电影频道": 21,
-  "纪录频道": 21,
-  "儿童频道": 9,
+  "纪录频道": 22,
+  "儿童频道": 10,
   "音乐频道": 1
  },
- "median_ms": 132
+ "median_ms": 137
 }
