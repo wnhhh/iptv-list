@@ -1,56 +1,84 @@
 {
- "updated": "2026-11-02 23:35:18",
- "duration_s": 93.9,
+ "updated": "2026-11-03 00:16:01",
+ "duration_s": 102.2,
  "sources": {
   "vbskycn/iptv": {
    "entries": 587,
-   "alive": 312
+   "alive": 309
   },
   "best-fan/iptv-sources": {
    "entries": 142,
-   "alive": 9
+   "alive": 4
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
    "alive": 1
   },
   "Supprise0901/TVBox_live": {
-   "entries": 298,
-   "alive": 126
+   "entries": 300,
+   "alive": 137
   },
   "iptv-org/cn": {
    "entries": 517,
-   "alive": 64
+   "alive": 62
   },
   "zilong7728/Collect-IPTV": {
    "entries": 709,
-   "alive": 150
+   "alive": 133
   },
   "niubihu1/tvbox": {
    "entries": 2075,
-   "alive": 554
+   "alive": 234
   }
  },
  "failed_sources": [],
- "tested": 3363,
- "raw_entries": 4352,
+ "tested": 3365,
+ "raw_entries": 4354,
  "deep_check": false,
- "alive": 2213,
- "alive_raw": 2213,
- "discarded": 1150,
+ "alive": 2204,
+ "alive_raw": 2204,
+ "discarded": 1161,
  "deep_rejected": 0,
- "channels": 1216,
+ "channels": 880,
  "groups": {
-  "央视频道": 63,
+  "央视频道": 62,
   "卫视频道": 46,
-  "地方频道": 922,
-  "体育频道": 9,
-  "新闻财经": 52,
-  "电影频道": 85,
-  "纪录频道": 21,
-  "儿童频道": 16,
-  "音乐频道": 2
+  "地方频道": 446,
+  "地方/北京": 2,
+  "地方/河北": 9,
+  "地方/山西": 1,
+  "地方/辽宁": 8,
+  "地方/吉林": 7,
+  "地方/黑龙江": 9,
+  "地方/江苏": 17,
+  "地方/浙江": 12,
+  "地方/安徽": 4,
+  "地方/福建": 6,
+  "地方/山东": 5,
+  "地方/河南": 1,
+  "地方/湖北": 1,
+  "地方/湖南": 4,
+  "地方/广东": 7,
+  "地方/广西": 4,
+  "地方/海南": 7,
+  "地方/四川": 6,
+  "地方/贵州": 1,
+  "地方/云南": 13,
+  "地方/陕西": 5,
+  "地方/甘肃": 2,
+  "地方/青海": 1,
+  "地方/香港": 4,
+  "地方/台湾": 6,
+  "体育频道": 8,
+  "新闻财经": 48,
+  "电影频道": 83,
+  "纪录频道": 20,
+  "儿童频道": 15,
+  "音乐频道": 2,
+  "国际/韩国": 6,
+  "国际/美国": 1,
+  "国际/日本": 1
  },
- "dead_known": 1133,
- "median_ms": 244
+ "dead_known": 1128,
+ "median_ms": 222
 }
