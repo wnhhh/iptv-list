@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 18:05:43",
- "duration_s": 229.4,
+ "updated": "2026-11-03 18:22:25",
+ "duration_s": 192.5,
  "sources": {
   "手动补充": {
    "entries": 3,
@@ -8,27 +8,27 @@
   },
   "vbskycn/iptv": {
    "entries": 568,
-   "alive": 337
+   "alive": 345
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1919,
-   "alive": 61
+   "alive": 59
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 10
+   "alive": 6
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
    "alive": 5
   },
   "Supprise0901/TVBox_live": {
-   "entries": 266,
-   "alive": 135
+   "entries": 267,
+   "alive": 134
   },
   "zilong7728/Collect-IPTV": {
    "entries": 669,
-   "alive": 122
+   "alive": 139
   },
   "iptv-org/cn": {
    "entries": 518,
@@ -36,11 +36,11 @@
   },
   "mavin521/syiptv": {
    "entries": 229,
-   "alive": 113
+   "alive": 122
   },
   "hdangezz/iptv-api": {
    "entries": 438,
-   "alive": 89
+   "alive": 88
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
@@ -48,33 +48,33 @@
   },
   "istevenweb/Live": {
    "entries": 94,
-   "alive": 38
+   "alive": 40
   }
  },
  "failed_sources": [],
- "tested": 4622,
- "raw_entries": 5670,
+ "tested": 4623,
+ "raw_entries": 5671,
  "excluded": 170,
  "deep_check": false,
- "alive": 2354,
- "alive_raw": 2354,
- "discarded": 2268,
+ "alive": 2402,
+ "alive_raw": 2402,
+ "discarded": 2221,
  "deep_rejected": 0,
- "channels": 944,
- "streams": 1193,
+ "channels": 969,
+ "streams": 1217,
  "groups": {
   "香港": 17,
-  "广东": 24,
-  "央视": 44,
+  "广东": 21,
+  "体育": 18,
+  "央视": 38,
   "卫视": 47,
   "山东": 12,
   "电影": 107,
   "浙江": 75,
   "广西": 8,
   "黑龙江": 16,
-  "数字": 1,
+  "国内其他": 215,
   "少儿": 10,
-  "国内其他": 189,
   "福建": 8,
   "韩国": 1,
   "重庆": 9,
@@ -82,33 +82,30 @@
   "上海": 3,
   "吉林": 37,
   "四川": 23,
-  "安徽": 22,
   "河北": 23,
   "新疆": 10,
-  "纪录": 11,
+  "安徽": 21,
   "北京": 5,
   "江苏": 42,
   "甘肃": 9,
   "云南": 8,
   "河南": 7,
   "湖北": 4,
-  "天津": 5,
+  "天津": 4,
   "海南": 12,
   "湖南": 10,
   "青海": 1,
   "江西": 2,
-  "陕西": 8,
-  "体育": 4,
-  "台湾": 29,
-  "音乐": 3,
-  "辽宁": 10,
-  "其他": 68,
+  "陕西": 7,
+  "辽宁": 9,
   "教育": 3,
+  "其他": 80,
+  "台湾": 30,
   "宁夏": 1,
-  "文旅": 1,
+  "美国": 1,
   "西藏": 1,
   "贵州": 3,
   "法国": 2
  },
- "median_ms": 244
+ "median_ms": 320
 }
