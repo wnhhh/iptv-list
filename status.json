@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 02:34:43",
- "duration_s": 272.1,
+ "updated": "2026-11-04 03:09:44",
+ "duration_s": 285.9,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,15 +8,15 @@
   },
   "vbskycn/iptv": {
    "entries": 499,
-   "alive": 241
+   "alive": 242
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1903,
-   "alive": 58
+   "alive": 60
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 7
+   "alive": 12
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
@@ -24,38 +24,38 @@
   },
   "Supprise0901/TVBox_live": {
    "entries": 264,
-   "alive": 131
+   "alive": 137
   },
   "zilong7728/Collect-IPTV": {
    "entries": 670,
-   "alive": 151
+   "alive": 133
   },
   "iptv-org/cn": {
    "entries": 518,
-   "alive": 65
+   "alive": 63
   },
   "mavin521/syiptv": {
    "entries": 229,
-   "alive": 119
+   "alive": 89
   },
   "hdangezz/iptv-api": {
-   "entries": 438,
-   "alive": 82
+   "entries": 437,
+   "alive": 77
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
-   "alive": 46
+   "alive": 44
   },
   "istevenweb/Live": {
    "entries": 94,
-   "alive": 6
+   "alive": 2
   }
  },
  "failed_sources": [],
- "tested": 4573,
- "raw_entries": 5429,
+ "tested": 4576,
+ "raw_entries": 5428,
  "excluded": 16,
- "frozen_removed": 254,
+ "frozen_removed": 235,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -216,10 +216,6 @@
   {
    "name": "可克达拉综合",
    "url": "http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8"
-  },
-  {
-   "name": "天祝综合",
-   "url": "https://play.kankanlive.com/live/1656487214793905.m3u8"
   },
   {
    "name": "嵊泗综合",
@@ -456,25 +452,30 @@
   {
    "name": "烟台公共",
    "url": "http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8"
+  },
+  {
+   "name": "烟台新闻综合",
+   "url": "http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8"
   }
  ],
  "deep_check": false,
- "alive": 2110,
- "alive_raw": 2364,
- "discarded": 2209,
+ "alive": 2054,
+ "alive_raw": 2289,
+ "discarded": 2287,
  "deep_rejected": 0,
- "channels": 824,
- "streams": 1032,
+ "channels": 768,
+ "streams": 972,
  "groups": {
   "香港": 15,
+  "体育": 15,
   "央视": 38,
-  "卫视": 46,
+  "卫视": 45,
   "山东": 9,
-  "电影": 78,
-  "其他": 73,
+  "电影": 73,
+  "其他": 63,
   "广西": 8,
-  "黑龙江": 15,
-  "国内其他": 174,
+  "黑龙江": 14,
+  "国内其他": 144,
   "少儿": 10,
   "福建": 8,
   "韩国": 1,
@@ -483,32 +484,29 @@
   "上海": 3,
   "浙江": 36,
   "吉林": 37,
-  "广东": 15,
-  "四川": 22,
+  "广东": 16,
+  "四川": 21,
   "河北": 23,
   "新疆": 9,
-  "安徽": 20,
+  "安徽": 19,
   "北京": 5,
   "江苏": 41,
-  "甘肃": 6,
+  "甘肃": 7,
   "河南": 6,
   "云南": 6,
   "湖北": 4,
   "天津": 4,
   "海南": 12,
-  "湖南": 25,
+  "湖南": 24,
   "青海": 1,
-  "江西": 1,
+  "江西": 2,
   "陕西": 7,
-  "体育": 15,
   "辽宁": 9,
   "教育": 3,
-  "台湾": 13,
+  "台湾": 7,
   "宁夏": 1,
-  "美国": 1,
   "西藏": 1,
-  "贵州": 3,
-  "法国": 2
+  "贵州": 3
  },
- "median_ms": 334
+ "median_ms": 287
 }
