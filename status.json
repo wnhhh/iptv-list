@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 21:48:37",
- "duration_s": 322.9,
+ "updated": "2026-11-03 22:24:22",
+ "duration_s": 325.4,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -11,51 +11,51 @@
    "alive": 268
   },
   "yanghanhanyingshi/iptv": {
-   "entries": 1919,
-   "alive": 56
+   "entries": 1903,
+   "alive": 59
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 17
+   "alive": 14
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 3
+   "alive": 4
   },
   "Supprise0901/TVBox_live": {
    "entries": 265,
-   "alive": 133
+   "alive": 130
   },
   "zilong7728/Collect-IPTV": {
    "entries": 669,
-   "alive": 123
+   "alive": 111
   },
   "iptv-org/cn": {
    "entries": 518,
-   "alive": 67
+   "alive": 64
   },
   "mavin521/syiptv": {
    "entries": 229,
-   "alive": 98
+   "alive": 115
   },
   "hdangezz/iptv-api": {
    "entries": 438,
-   "alive": 78
+   "alive": 75
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
-   "alive": 44
+   "alive": 49
   },
   "istevenweb/Live": {
    "entries": 94,
-   "alive": 8
+   "alive": 6
   }
  },
  "failed_sources": [],
- "tested": 4619,
- "raw_entries": 5584,
+ "tested": 4601,
+ "raw_entries": 5568,
  "excluded": 93,
- "frozen_removed": 255,
+ "frozen_removed": 254,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -102,6 +102,10 @@
    "url": "https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8"
   },
   {
+   "name": "人在囧途之泰囧",
+   "url": "https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8"
+  },
+  {
    "name": "人在囧途之港囧",
    "url": "https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8"
   },
@@ -124,6 +128,10 @@
   {
    "name": "我不是药神",
    "url": "https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8"
+  },
+  {
+   "name": "拆弹专家1",
+   "url": "https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8"
   },
   {
    "name": "拆弹专家2",
@@ -448,49 +456,41 @@
   {
    "name": "浙江经济",
    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?"
-  },
-  {
-   "name": "浙江经济生活",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8"
-  },
-  {
-   "name": "浙江经济生活",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
   }
  ],
  "deep_check": false,
- "alive": 2044,
- "alive_raw": 2299,
- "discarded": 2320,
+ "alive": 2110,
+ "alive_raw": 2364,
+ "discarded": 2237,
  "deep_rejected": 0,
- "channels": 804,
- "streams": 1007,
+ "channels": 808,
+ "streams": 1013,
  "groups": {
   "香港": 15,
   "体育": 16,
   "央视": 38,
-  "卫视": 47,
+  "卫视": 46,
   "山东": 9,
-  "电影": 97,
+  "电影": 95,
   "广西": 8,
   "黑龙江": 14,
-  "国内其他": 154,
+  "国内其他": 170,
   "少儿": 10,
   "福建": 8,
   "韩国": 1,
   "重庆": 9,
   "山西": 9,
   "上海": 3,
-  "浙江": 36,
+  "浙江": 37,
   "吉林": 37,
-  "广东": 16,
-  "四川": 21,
+  "广东": 17,
+  "四川": 20,
+  "安徽": 21,
   "河北": 23,
   "新疆": 9,
-  "安徽": 20,
   "北京": 5,
   "江苏": 41,
-  "甘肃": 7,
+  "甘肃": 6,
   "河南": 6,
   "云南": 7,
   "湖北": 4,
@@ -498,16 +498,17 @@
   "海南": 12,
   "湖南": 7,
   "青海": 1,
-  "辽宁": 10,
+  "江西": 2,
   "陕西": 7,
-  "江西": 1,
+  "辽宁": 9,
   "教育": 3,
-  "其他": 72,
-  "台湾": 11,
+  "其他": 62,
+  "台湾": 9,
   "宁夏": 1,
   "美国": 1,
   "西藏": 1,
-  "贵州": 3
+  "贵州": 3,
+  "法国": 2
  },
- "median_ms": 610
+ "median_ms": 520
 }
