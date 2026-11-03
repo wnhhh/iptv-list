@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 04:19:34",
- "duration_s": 293.8,
+ "updated": "2026-11-04 04:54:21",
+ "duration_s": 273.0,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,27 +8,27 @@
   },
   "vbskycn/iptv": {
    "entries": 499,
-   "alive": 240
+   "alive": 242
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1903,
    "alive": 60
   },
   "best-fan/iptv-sources": {
-   "entries": 128,
-   "alive": 9
+   "entries": 142,
+   "alive": 10
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 3
+   "alive": 4
   },
   "Supprise0901/TVBox_live": {
    "entries": 263,
-   "alive": 135
+   "alive": 125
   },
   "zilong7728/Collect-IPTV": {
    "entries": 670,
-   "alive": 148
+   "alive": 139
   },
   "iptv-org/cn": {
    "entries": 518,
@@ -44,18 +44,18 @@
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
-   "alive": 47
+   "alive": 43
   },
   "istevenweb/Live": {
    "entries": 94,
-   "alive": 7
+   "alive": 6
   }
  },
  "failed_sources": [],
- "tested": 4575,
- "raw_entries": 5427,
+ "tested": 4572,
+ "raw_entries": 5441,
  "excluded": 16,
- "frozen_removed": 242,
+ "frozen_removed": 253,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -218,6 +218,10 @@
    "url": "http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8"
   },
   {
+   "name": "天祝综合",
+   "url": "https://play.kankanlive.com/live/1656487214793905.m3u8"
+  },
+  {
    "name": "嵊泗综合",
    "url": "http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8"
   },
@@ -308,6 +312,10 @@
   {
    "name": "永嘉新闻综合",
    "url": "http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8"
+  },
+  {
+   "name": "永昌综合",
+   "url": "https://play.kankanlive.com/live/1652755738635915.m3u8"
   },
   {
    "name": "汶川新闻综合",
@@ -448,65 +456,58 @@
   {
    "name": "烟台公共",
    "url": "http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8"
-  },
-  {
-   "name": "烟台新闻综合",
-   "url": "http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8"
-  },
-  {
-   "name": "烟台经济科技",
-   "url": "http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8"
   }
  ],
  "deep_check": false,
- "alive": 2126,
- "alive_raw": 2368,
- "discarded": 2207,
+ "alive": 2099,
+ "alive_raw": 2352,
+ "discarded": 2220,
  "deep_rejected": 0,
- "channels": 794,
- "streams": 1000,
+ "channels": 783,
+ "streams": 990,
  "groups": {
   "香港": 15,
+  "体育": 15,
   "央视": 38,
   "卫视": 46,
   "山东": 9,
-  "电影": 76,
-  "其他": 74,
+  "电影": 77,
   "广西": 8,
   "黑龙江": 14,
-  "国内其他": 148,
+  "国内其他": 146,
   "少儿": 10,
   "福建": 8,
   "韩国": 1,
   "重庆": 9,
   "山西": 9,
   "上海": 3,
-  "浙江": 36,
+  "浙江": 37,
   "吉林": 37,
   "广东": 15,
-  "四川": 22,
+  "四川": 21,
   "河北": 23,
   "新疆": 9,
   "安徽": 19,
-  "北京": 4,
+  "北京": 5,
   "江苏": 41,
-  "甘肃": 9,
+  "甘肃": 7,
   "河南": 6,
-  "云南": 6,
+  "云南": 7,
   "湖北": 4,
   "天津": 4,
   "海南": 12,
-  "湖南": 24,
+  "湖南": 23,
   "青海": 1,
   "江西": 2,
   "陕西": 7,
-  "体育": 15,
   "辽宁": 9,
   "教育": 3,
-  "台湾": 13,
+  "其他": 65,
+  "台湾": 12,
   "宁夏": 1,
   "西藏": 1,
-  "贵州": 3
+  "贵州": 3,
+  "法国": 1
  },
- "median_ms": 381
+ "median_ms": 284
 }
