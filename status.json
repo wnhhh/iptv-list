@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 23:04:28",
- "duration_s": 587.1,
+ "updated": "2026-11-03 23:39:47",
+ "duration_s": 300.4,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,15 +8,15 @@
   },
   "vbskycn/iptv": {
    "entries": 561,
-   "alive": 272
+   "alive": 258
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1903,
-   "alive": 60
+   "alive": 59
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 6
+   "alive": 12
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
@@ -24,38 +24,38 @@
   },
   "Supprise0901/TVBox_live": {
    "entries": 265,
-   "alive": 134
+   "alive": 137
   },
   "zilong7728/Collect-IPTV": {
    "entries": 669,
-   "alive": 82
+   "alive": 129
   },
   "iptv-org/cn": {
    "entries": 518,
-   "alive": 64
+   "alive": 66
   },
   "mavin521/syiptv": {
    "entries": 229,
-   "alive": 82
+   "alive": 92
   },
   "hdangezz/iptv-api": {
    "entries": 438,
-   "alive": 77
+   "alive": 78
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
-   "alive": 36
+   "alive": 44
   },
   "istevenweb/Live": {
    "entries": 94,
-   "alive": 0
+   "alive": 8
   }
  },
  "failed_sources": [],
  "tested": 4601,
  "raw_entries": 5568,
  "excluded": 93,
- "frozen_removed": 178,
+ "frozen_removed": 251,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -148,6 +148,10 @@
   {
    "name": "浙江教科影视",
    "url": "http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8"
+  },
+  {
+   "name": "让子弹飞",
+   "url": "https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8"
   },
   {
    "name": "龙门飞甲",
@@ -452,29 +456,25 @@
   {
    "name": "浙江经济",
    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?"
-  },
-  {
-   "name": "浙江经济生活",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8"
   }
  ],
  "deep_check": false,
- "alive": 2043,
- "alive_raw": 2221,
- "discarded": 2380,
+ "alive": 2109,
+ "alive_raw": 2360,
+ "discarded": 2241,
  "deep_rejected": 0,
- "channels": 734,
- "streams": 931,
+ "channels": 800,
+ "streams": 1006,
  "groups": {
-  "香港": 13,
-  "体育": 18,
+  "香港": 15,
+  "体育": 16,
   "央视": 38,
   "卫视": 46,
   "山东": 9,
-  "电影": 96,
+  "电影": 95,
   "广西": 8,
   "黑龙江": 14,
-  "国内其他": 130,
+  "国内其他": 150,
   "少儿": 10,
   "福建": 8,
   "韩国": 1,
@@ -484,31 +484,29 @@
   "浙江": 36,
   "吉林": 37,
   "广东": 16,
-  "四川": 21,
+  "四川": 20,
+  "安徽": 21,
   "河北": 23,
   "新疆": 9,
-  "安徽": 20,
   "北京": 5,
   "江苏": 41,
-  "甘肃": 6,
+  "甘肃": 7,
   "河南": 6,
   "云南": 7,
   "湖北": 4,
   "天津": 4,
   "海南": 12,
-  "湖南": 8,
+  "湖南": 7,
   "青海": 1,
   "江西": 2,
   "陕西": 7,
   "辽宁": 9,
   "教育": 3,
-  "其他": 31,
-  "台湾": 6,
+  "其他": 74,
+  "台湾": 13,
   "宁夏": 1,
-  "美国": 1,
   "西藏": 1,
-  "贵州": 3,
-  "法国": 2
+  "贵州": 3
  },
- "median_ms": 250
+ "median_ms": 343
 }
