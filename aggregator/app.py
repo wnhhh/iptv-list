@@ -46,6 +46,7 @@ DEAD_TIMEOUT = float(os.environ.get("DEAD_TIMEOUT", 2))         # 死链单次
 DEAD_AFTER = int(os.environ.get("DEAD_AFTER", 3))               # 连续几轮失败认定死链
 HEAD_FIRST = os.environ.get("HEAD_FIRST", "1") == "1"           # 先用 HEAD 快速排除 404
 PROBE_STATE = os.path.join(DATA, "probe_stats.json")
+REPO_CACHE = os.path.join(DATA, "repo_age.json")
 HISTORY = {}
 LIVE_STATE = os.path.join(DATA, "liveness.json")
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -113,7 +114,54 @@ def load_sources():
             url = ("https://raw.githubusercontent.com/{repo}/refs/heads/{branch}/{path}"
                    .format(repo=s["repo"], branch=s.get("branch", "main"), path=s["path"]))
         out.append({"name": s.get("name") or s.get("repo") or url, "url": url,
-                    "priority": s.get("priority", 5)})
+                    "priority": s.get("priority", 5), "repo": s.get("repo", ""),
+                    "kind": s.get("kind"), "max_age": s.get("max_age")})
+    return out
+
+
+def repo_pushed_at(repo):
+    """仓库最后一次推送时间（epoch 秒）；6 小时缓存，避免每轮都请求 GitHub API。"""
+    if not repo:
+        return None
+    try:
+        with open(REPO_CACHE, encoding="utf-8") as f:
+            cache = json.load(f)
+    except (OSError, ValueError):
+        cache = {}
+    ent = cache.get(repo) or {}
+    if ent and time.time() - ent.get("checked", 0) < 6 * 3600:
+        return ent.get("ts")
+    try:
+        with requests.get(f"https://api.github.com/repos/{repo}", timeout=(4, 8),
+                          headers={"User-Agent": "iptv-agg"}) as r:
+            if r.status_code == 200:
+                ts = datetime.strptime(r.json()["pushed_at"], "%Y-%m-%dT%H:%M:%SZ") \
+                    .replace(tzinfo=timezone.utc).timestamp()
+                cache[repo] = {"ts": ts, "checked": time.time()}
+                atomic_write(REPO_CACHE, json.dumps(cache, ensure_ascii=False))
+                return ts
+    except (requests.RequestException, KeyError, ValueError):
+        pass
+    return None
+
+
+def parse_tvbox_lives(text, source):
+    """TVBox 订阅 JSON 里跟本服务有关的只有 lives（直播源地址）；
+    sites 是点播爬虫，聚合器不处理。"""
+    try:
+        cfg = json.loads(text)
+    except ValueError:
+        return []
+    out = []
+    for lv in (cfg.get("lives") or [])[:10]:
+        u = (lv.get("url") or "").strip()
+        if not u.startswith("http"):
+            continue
+        if re.search(r"//(127\.0\.0\.1|localhost|0\.0\.0\.0)[:/]", u):
+            continue          # 客户端本地代理地址，服务器上没意义
+        body = fetch(u)
+        if body:
+            out += parse_entries(body, source)
     return out
 
 
@@ -609,16 +657,31 @@ def run_once():
         log(f"开始抓取，共 {len(sources)} 个上游")
 
         def grab(s):
+            # 过期的源直接跳过：仓库 N 天没推送就不再爬（max_age 单位为天）
+            if s.get("max_age"):
+                ts = repo_pushed_at(s.get("repo", ""))
+                if ts is not None:
+                    age = (time.time() - ts) / 86400
+                    if age > s["max_age"]:
+                        return s, None, f"仓库 {age:.0f} 天未更新（阈值 {s['max_age']} 天）"
             text = fetch(s["url"])
-            return s, (parse_entries(text, s["name"]) if text else None)
+            if not text:
+                return s, None, "下载失败"
+            if s.get("kind") == "tvbox":
+                return s, parse_tvbox_lives(text, s["name"]), None
+            return s, parse_entries(text, s["name"]), None
 
         entries, per_source, failed_sources = [], {}, []
         with ThreadPoolExecutor(min(6, max(1, len(sources)))) as ex:
-            for s, items in ex.map(grab, sources):
+            for s, items, err in ex.map(grab, sources):
                 if items is None:
-                    failed_sources.append(s["name"])
-                    per_source[s["name"]] = {"entries": 0, "alive": 0, "error": "下载失败"}
-                    log(f"  下载失败: {s['name']}")
+                    if err and err != "下载失败":
+                        per_source[s["name"]] = {"entries": 0, "alive": 0, "skipped": err}
+                        log(f"  跳过 {s['name']}：{err}")
+                    else:
+                        failed_sources.append(s["name"])
+                        per_source[s["name"]] = {"entries": 0, "alive": 0, "error": "下载失败"}
+                        log(f"  下载失败: {s['name']}")
                     continue
                 for it in items:
                     it["priority"] = s["priority"]
@@ -777,19 +840,33 @@ def run_once():
 
 
 def next_run_time():
-    times = []
+    """支持两种写法：
+    - 固定时刻：SCHEDULE="03:20,15:20"
+    - 间隔：SCHEDULE="*/30"（每 30 分钟，按整点对齐）
+    两种混写时以间隔为准。"""
+    times, interval = [], None
     for part in SCHEDULE.split(","):
         part = part.strip()
         if not part:
+            continue
+        if part.startswith("*/"):
+            try:
+                interval = max(1, int(part[2:]))
+            except ValueError:
+                pass
             continue
         try:
             h, m = part.split(":")
             times.append((int(h), int(m)))
         except ValueError:
             continue
+    now = now_cn()
+    if interval:
+        base = now.replace(second=0, microsecond=0)
+        add = interval - (base.minute % interval)
+        return base + timedelta(minutes=add or interval), times
     if not times:
         times = [(3, 20)]
-    now = now_cn()
     today = [now.replace(hour=h, minute=m, second=0, microsecond=0) for h, m in times]
     future = [t for t in today if t > now]
     return (min(future) if future else min(today) + timedelta(days=1)), times
