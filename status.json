@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-03 14:07:23",
- "duration_s": 171.6,
+ "updated": "2026-11-03 14:12:17",
+ "duration_s": 171.0,
  "sources": {
   "vbskycn/iptv": {
    "entries": 560,
-   "alive": 336
+   "alive": 329
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1915,
-   "alive": 56
+   "alive": 55
   },
   "best-fan/iptv-sources": {
    "entries": 128,
@@ -16,11 +16,11 @@
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 3
+   "alive": 4
   },
   "Supprise0901/TVBox_live": {
-   "entries": 267,
-   "alive": 124
+   "entries": 268,
+   "alive": 125
   },
   "zilong7728/Collect-IPTV": {
    "entries": 667,
@@ -32,34 +32,33 @@
   },
   "mavin521/syiptv": {
    "entries": 229,
-   "alive": 97
+   "alive": 123
   },
   "hdangezz/iptv-api": {
    "entries": 434,
-   "alive": 75
+   "alive": 79
   }
  },
  "failed_sources": [],
- "tested": 3978,
- "raw_entries": 4918,
+ "tested": 3979,
+ "raw_entries": 4919,
  "excluded": 170,
  "deep_check": false,
- "alive": 2246,
- "alive_raw": 2246,
- "discarded": 1732,
+ "alive": 2272,
+ "alive_raw": 2272,
+ "discarded": 1707,
  "deep_rejected": 0,
- "channels": 894,
+ "channels": 918,
  "groups": {
-  "央视": 32,
+  "央视": 31,
   "卫视": 47,
   "山东": 12,
   "电影": 107,
   "浙江": 77,
   "广西": 8,
   "黑龙江": 15,
-  "广东": 11,
-  "国内其他": 160,
-  "少儿": 8,
+  "广东": 10,
+  "国内其他": 187,
   "福建": 8,
   "韩国": 1,
   "重庆": 10,
@@ -69,7 +68,6 @@
   "四川": 23,
   "河北": 24,
   "新疆": 11,
-  "纪录": 11,
   "安徽": 21,
   "北京": 5,
   "江苏": 47,
@@ -83,17 +81,19 @@
   "青海": 1,
   "江西": 2,
   "陕西": 8,
-  "体育": 4,
+  "纪录": 9,
+  "体育": 3,
+  "台湾": 15,
   "音乐": 3,
-  "香港": 13,
+  "香港": 10,
+  "少儿": 7,
   "辽宁": 11,
+  "其他": 78,
   "教育": 3,
-  "台湾": 10,
   "宁夏": 1,
   "文旅": 1,
-  "其他": 77,
   "西藏": 1,
   "贵州": 3
  },
- "median_ms": 162
+ "median_ms": 178
 }
