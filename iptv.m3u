@@ -1,92 +1,92 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV-1" group-title="央视频道",CCTV-1
-http://36.110.54.118:866/hls/1/index.m3u8
+http://183.129.255.66:8480/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" group-title="央视频道",CCTV-1
-http://play.kankanlive.com/live/1661761962676984.m3u8
+http://120.76.248.139/live/bfgd/4200000484.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" group-title="央视频道",CCTV-2
-http://58.57.40.22:9901/tsfile/live/1001_1.m3u8
+http://36.110.54.118:866/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" group-title="央视频道",CCTV-2
-https://play.kankanlive.com/live/1698234898628961.m3u8
+http://183.129.255.66:8480/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-3" group-title="央视频道",CCTV-3
 http://36.110.54.118:866/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-3" group-title="央视频道",CCTV-3
-http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
+http://183.129.255.66:8480/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-4" group-title="央视频道",CCTV-4
-http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
+http://119.125.131.73:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="CCTV-4" group-title="央视频道",CCTV-4
-http://183.11.239.36:808/hls/22/index.m3u8
+http://207.56.13.146:81/cdnlive/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV-4中文国际" group-title="央视频道",CCTV-4中文国际
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1793706300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2f25c6b9d351ac653b5d77b8ef403fcf&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-name="CCTV-4欧洲" group-title="央视频道",CCTV-4欧洲
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?msisdn=20261103100254853e09d29b874c7898e688d620ec61f9&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20261103100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=171.8.79.254&SecurityKey=20261103100254&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4eb90f0a2e143fb23c52fd451065c037
 #EXTINF:-1 tvg-name="CCTV-4欧洲" group-title="央视频道",CCTV-4欧洲
-http://113.98.11.46:3000/608807419
+http://www.ikerobot.com:1234/608807419
 #EXTINF:-1 tvg-name="CCTV-4美洲" group-title="央视频道",CCTV-4美洲
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4meihd/50/index.m3u8?msisdn=20261103100254e269fb6cd83f4aeda0108b3d10d6cb37&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20261103100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=171.8.79.254&SecurityKey=20261103100254&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9046258e2fda76ed64b36e226e85e8bd
 #EXTINF:-1 tvg-name="CCTV-4美洲" group-title="央视频道",CCTV-4美洲
-http://103.236.77.86:29824/608807416
+http://113.98.11.46:3000/608807416
 #EXTINF:-1 tvg-name="CCTV-5" group-title="央视频道",CCTV-5
 http://36.110.54.118:866/hls/5/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-5" group-title="央视频道",CCTV-5
-http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20261103100253e95d529531034f9da1c0bf573de70db0&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20261103100253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=171.8.79.254&SecurityKey=20261103100253&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e0b7d6b0500eca2993a2ef6172dc2d80
 #EXTINF:-1 tvg-name="CCTV-5+" group-title="央视频道",CCTV-5+
 http://36.110.54.118:866/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+" group-title="央视频道",CCTV-5+
-http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=2026110310025328d495c7d62443f1985abeb9742bf38b&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261103100253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=171.8.79.254&SecurityKey=20261103100253&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a12190ebeaabeb71e29cfe4931c0e7ff
 #EXTINF:-1 tvg-name="CCTV-6" group-title="央视频道",CCTV-6
 http://36.110.54.118:866/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" group-title="央视频道",CCTV-6
-http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?msisdn=2026110310011392490e690830437490e1c0ec58c5db05&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20261103100113&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=171.8.79.254&SecurityKey=20261103100113&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=be376d3987e10f0ed6b799615fee8d98
 #EXTINF:-1 tvg-name="CCTV-7" group-title="央视频道",CCTV-7
 http://36.110.54.118:866/hls/7/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" group-title="央视频道",CCTV-7
-http://8.138.7.223/tv/cctv7.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=2026110310011768cb4089980141438f298a3377c061bd&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20261103100117&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=171.8.79.254&SecurityKey=20261103100117&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=86f3db966e0010afdbcc7a8f4ce254c3
 #EXTINF:-1 tvg-name="CCTV-8" group-title="央视频道",CCTV-8
-http://61.136.172.236:9901/tsfile/live/0008_1.m3u8
+http://36.110.54.118:866/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" group-title="央视频道",CCTV-8
-http://183.11.239.36:808/hls/96/index.m3u8
+http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-9" group-title="央视频道",CCTV-9
 http://36.110.54.118:866/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-9" group-title="央视频道",CCTV-9
-http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
+http://112.92.129.95:9898/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-10" group-title="央视频道",CCTV-10
 http://36.110.54.118:866/hls/10/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-10" group-title="央视频道",CCTV-10
-http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
+http://120.76.248.139/live/bfgd/4200000129.m3u8
 #EXTINF:-1 tvg-name="CCTV-11" group-title="央视频道",CCTV-11
-http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
+http://112.92.129.95:9898/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-11" group-title="央视频道",CCTV-11
-http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20261103100131a14848fbb6014ea78690a1389578301d&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20261103100131&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=171.8.79.254&SecurityKey=20261103100131&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=01a4b53a2eb5c23c5c473ae6e6f85a86
 #EXTINF:-1 tvg-name="CCTV-12" group-title="央视频道",CCTV-12
 http://36.110.54.118:866/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-12" group-title="央视频道",CCTV-12
-http://183.129.255.66:8480/hls/13/index.m3u8
+http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-13" group-title="央视频道",CCTV-13
-http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=202611031002548bfc6cf1c78f46e3bc6344df91f6da27&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20261103100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=171.8.79.254&SecurityKey=20261103100254&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=461afe13656a078d56bd274b3a3d4b80
 #EXTINF:-1 tvg-name="CCTV-13" group-title="央视频道",CCTV-13
-http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
+http://183.129.255.66:8480/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-14" group-title="央视频道",CCTV-14
 http://36.110.54.118:866/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-14" group-title="央视频道",CCTV-14
-http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
+http://183.129.255.66:8480/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-15" group-title="央视频道",CCTV-15
-http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
+http://183.129.255.66:8480/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-15" group-title="央视频道",CCTV-15
-http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-16" group-title="央视频道",CCTV-16
-http://183.11.239.36:808/hls/169/index.m3u8
+http://120.76.248.139/live/bfgd/4200000133.m3u8
 #EXTINF:-1 tvg-name="CCTV-16" group-title="央视频道",CCTV-16
 http://gmxw.7766.org:808/hls/169/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-16" group-title="央视频道",CCTV-16
+http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-16奥林匹克" group-title="央视频道",CCTV-16奥林匹克
 http://183.129.255.66:8480/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-16奥林匹克" group-title="央视频道",CCTV-16奥林匹克
 http://112.92.129.95:9898/hls/127/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-17" group-title="央视频道",CCTV-17
-http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-17" group-title="央视频道",CCTV-17
 http://183.129.255.66:8480/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-17" group-title="央视频道",CCTV-17
+http://120.76.248.139/live/bfgd/4200000204.m3u8
 #EXTINF:-1 tvg-name="CGTN" group-title="央视频道",CGTN
-https://play.kankanlive.com/live/1698423645566913.m3u8
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 tvg-name="CGTN" group-title="央视频道",CGTN
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=20261103100256c4ae8373654845af8de80154167f4d20&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20261103100256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=171.8.79.254&SecurityKey=20261103100256&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fffbf5cbb63c8632fedd1e4d8aece209
 #EXTINF:-1 tvg-name="CGTN Documentary" group-title="央视频道",CGTN Documentary
@@ -96,57 +96,51 @@ https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-name="CGTN Spanish" group-title="央视频道",CGTN Spanish
 http://45.186.106.147:8880/play/a06f/index.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" group-title="央视频道",CGTN俄语
-http://103.236.77.86:29824/609006446
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?msisdn=2026110310025565d290cdcc83451f8048c1daaaf4f9b5&mdspid=&spid=699004&netType=0&sid=2200179332&pid=2028597139&timestamp=20261103100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006446&ParentNodeID=-99&assertID=2200179332&client_ip=171.8.79.254&SecurityKey=20261103100255&promotionId=&mvid=2200179332&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=353c1990d0fe94d1875946f8849888e4
 #EXTINF:-1 tvg-name="CGTN俄语" group-title="央视频道",CGTN俄语
 http://222.213.105.65:7788/609006446
 #EXTINF:-1 tvg-name="CGTN外语纪录" group-title="央视频道",CGTN外语纪录
 http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?msisdn=2026110310025446ec03ffb4ed457c98aaf52bcf6a663d&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20261103100254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=171.8.79.254&SecurityKey=20261103100254&promotionId=&mvid=2200179356&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e6cb9ef26840c296acafc74d76534a23
 #EXTINF:-1 tvg-name="CGTN外语纪录" group-title="央视频道",CGTN外语纪录
-http://222.213.105.65:7788/609006487
+http://113.98.11.46:3000/609006487
 #EXTINF:-1 tvg-name="CGTN法语" group-title="央视频道",CGTN法语
-http://103.236.77.86:29824/609006476
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=202611031002554746ccfc5c1e4fe1b0d1e65683e58ba5&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20261103100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=171.8.79.254&SecurityKey=20261103100255&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3d90ec9f788f0a45c4bccf427ce8c1bd
 #EXTINF:-1 tvg-name="CGTN法语" group-title="央视频道",CGTN法语
-http://222.213.105.65:7788/609006476
-#EXTINF:-1 tvg-name="CGTN纪录" group-title="央视频道",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" group-title="央视频道",CGTN纪录
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-name="CGTN英语" group-title="央视频道",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 tvg-name="CGTN西班牙语" group-title="央视频道",CGTN西班牙语
 http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=20261103100255f8c276d2fb084f919dfc7d905d89b99c&mdspid=&spid=699004&netType=0&sid=2200179337&pid=2028597139&timestamp=20261103100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006450&ParentNodeID=-99&assertID=2200179337&client_ip=171.8.79.254&SecurityKey=20261103100255&promotionId=&mvid=2200179337&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7746e9370a2ca6f1b812fe391540378c
 #EXTINF:-1 tvg-name="CGTN西班牙语" group-title="央视频道",CGTN西班牙语
-http://103.236.77.86:29824/609006450
+http://222.213.105.65:7788/609006450
 #EXTINF:-1 tvg-name="CGTN西语" group-title="央视频道",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" group-title="央视频道",CGTN阿拉伯语
 http://hlsztemgsplive.miguvideo.com:8080/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=20261103100255e5a0382e656849ad9be622f9d7cf4648&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20261103100255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=171.8.79.254&SecurityKey=20261103100255&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f42d6ea5a588edd10ebc126974725c80
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" group-title="央视频道",CGTN阿拉伯语
-http://103.236.77.86:29824/609154345
+http://113.98.11.46:3000/609154345
 #EXTINF:-1 tvg-name="CGTN阿语" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="CCTV-世界地理" group-title="央视频道",CCTV-世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-世界地理" group-title="央视频道",CCTV-世界地理
-http://192.151.150.154/live/sjdl.m3u8
+http://198.204.228.26/live/sjdl.m3u8
 #EXTINF:-1 tvg-name="CCTV-兵器科技" group-title="央视频道",CCTV-兵器科技
-http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+http://192.151.150.154/live/gfjs.m3u8
 #EXTINF:-1 tvg-name="CCTV-兵器科技" group-title="央视频道",CCTV-兵器科技
-http://107.150.60.122/live/gfjs.m3u8
+http://198.204.228.26/live/gfjs.m3u8
+#EXTINF:-1 tvg-name="CCTV-卫生健康" group-title="央视频道",CCTV-卫生健康
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-卫生健康" group-title="央视频道",CCTV-卫生健康
 http://107.150.60.122/live/wsjk.m3u8
-#EXTINF:-1 tvg-name="CCTV-卫生健康" group-title="央视频道",CCTV-卫生健康
-http://192.151.150.154/live/wsjk.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视台球" group-title="央视频道",CCTV-央视台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-央视台球" group-title="央视频道",CCTV-央视台球
-http://173.208.212.130:8181/720p/ystq.m3u8
+http://192.151.150.154/live/ystq.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视文化精品" group-title="央视频道",CCTV-央视文化精品
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-央视文化精品" group-title="央视频道",CCTV-央视文化精品
-http://173.208.212.130:8181/720p/ysjp.m3u8
+http://198.204.228.26/live/ysjp.m3u8
 #EXTINF:-1 tvg-name="CCTV-女性时尚" group-title="央视频道",CCTV-女性时尚
-http://192.151.150.154/live/nxss.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-女性时尚" group-title="央视频道",CCTV-女性时尚
 http://198.204.228.26/live/nxss.m3u8
 #EXTINF:-1 tvg-name="CCTV-怀旧剧场" group-title="央视频道",CCTV-怀旧剧场
@@ -156,67 +150,45 @@ http://198.204.228.26/live/hjjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-电视指南" group-title="央视频道",CCTV-电视指南
 http://107.150.60.122/live/dszn.m3u8
 #EXTINF:-1 tvg-name="CCTV-电视指南" group-title="央视频道",CCTV-电视指南
-http://192.151.150.154/live/dszn.m3u8
-#EXTINF:-1 tvg-name="CCTV-第一剧场" group-title="央视频道",CCTV-第一剧场
-http://198.204.228.26/live/dyjc.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-第一剧场" group-title="央视频道",CCTV-第一剧场
 http://173.208.212.130:8181/720p/dyjc.m3u8
+#EXTINF:-1 tvg-name="CCTV-第一剧场" group-title="央视频道",CCTV-第一剧场
+http://198.204.228.26/live/dyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云剧场" group-title="央视频道",CCTV-风云剧场
-http://192.151.150.154/live/fyjc.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-风云剧场" group-title="央视频道",CCTV-风云剧场
-http://107.150.60.122/live/fyjc.m3u8
+http://198.204.228.26/live/fyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云足球" group-title="央视频道",CCTV-风云足球
-http://192.151.150.154/live/fyzq.m3u8
+http://107.150.60.122/live/fyzq.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云足球" group-title="央视频道",CCTV-风云足球
 http://173.208.212.130:8181/720p/fyzq.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云音乐" group-title="央视频道",CCTV-风云音乐
-http://192.151.150.154/live/fyyy.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-风云音乐" group-title="央视频道",CCTV-风云音乐
-http://198.204.228.26/live/fyyy.m3u8
+http://107.150.60.122/live/fyyy.m3u8
 #EXTINF:-1 tvg-name="CCTV-高尔夫网球" group-title="央视频道",CCTV-高尔夫网球
 http://107.150.60.122/live/gefwq.m3u8
 #EXTINF:-1 tvg-name="CCTV-高尔夫网球" group-title="央视频道",CCTV-高尔夫网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="中央新影-发现之旅" group-title="央视频道",中央新影-发现之旅
-http://103.236.77.86:29824/624878970
+http://113.98.11.46:3000/624878970
 #EXTINF:-1 tvg-name="中央新影-发现之旅" group-title="央视频道",中央新影-发现之旅
-http://222.213.105.65:7788/624878970
+http://www.ikerobot.com:1234/624878970
 #EXTINF:-1 tvg-name="中央新影-老故事" group-title="央视频道",中央新影-老故事
-http://103.236.77.86:29824/884121956
+http://113.98.11.46:3000/884121956
 #EXTINF:-1 tvg-name="中央新影-老故事" group-title="央视频道",中央新影-老故事
-http://222.213.105.65:7788/884121956
+http://www.ikerobot.com:1234/884121956
 #EXTINF:-1 tvg-name="中央电视塔东" group-title="央视频道",中央电视塔东
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 #EXTINF:-1 tvg-name="中央电视塔南" group-title="央视频道",中央电视塔南
 https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
 #EXTINF:-1 tvg-name="中学生" group-title="央视频道",中学生
-http://103.236.77.86:29824/708869532
+http://222.213.105.65:7788/708869532
 #EXTINF:-1 tvg-name="中学生" group-title="央视频道",中学生
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=2026110310025661664f786f994973b16b599d6a13db50&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20261103100256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=171.8.79.254&SecurityKey=20261103100256&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1518f469439595ad1039a3705ed4ed68
-#EXTINF:-1 tvg-name="兵器科技" group-title="央视频道",兵器科技
-http://207.56.13.146:81/cdnlive/gfjs.m3u8
-#EXTINF:-1 tvg-name="央视台球" group-title="央视频道",央视台球
-http://207.56.13.146:81/cdnlive/ystq.m3u8
-#EXTINF:-1 tvg-name="央视台球" group-title="央视频道",央视台球
-http://107.150.60.122/live/ystq.m3u8
-#EXTINF:-1 tvg-name="女性时尚" group-title="央视频道",女性时尚
-http://207.56.13.146:81/cdnlive/nxss.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" group-title="央视频道",怀旧剧场
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
-#EXTINF:-1 tvg-name="风云剧场" group-title="央视频道",风云剧场
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="风云剧场" group-title="央视频道",风云剧场
-http://173.208.212.130:8181/720p/fyjc.m3u8
-#EXTINF:-1 tvg-name="风云足球" group-title="央视频道",风云足球
-http://207.56.13.146:81/cdnlive/fyzq.m3u8
-#EXTINF:-1 tvg-name="风云足球" group-title="央视频道",风云足球
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
-#EXTINF:-1 tvg-name="风云音乐" group-title="央视频道",风云音乐
-http://207.56.13.146:81/cdnlive/fyyy.m3u8
-#EXTINF:-1 tvg-name="风云音乐" group-title="央视频道",风云音乐
-http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="高尔夫网球" group-title="央视频道",高尔夫网球
-http://207.56.13.146:81/cdnlive/gefwq.m3u8
+#EXTINF:-1 tvg-name="熊猫直播" group-title="央视频道",熊猫直播
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793706300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-252b05f0a995158de6462258d01bb23b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
@@ -224,13 +196,13 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-8K" group-title="央视频道",CCTV-8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-8K" group-title="央视频道",CCTV-8K
-http://192.151.150.154/live/cctv8k.m3u8
+http://198.204.228.26/live/cctv8k.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://183.129.255.66:8480/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=2026110310005614b547d0115c4d4c9a50350a627a1e5e&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20261103100056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=171.8.79.254&SecurityKey=20261103100056&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b2811bc701752e34a7d818d054f49453
 #EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
 http://183.129.255.66:8480/hls/42/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
@@ -238,95 +210,97 @@ http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
 http://183.129.255.66:8480/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
-http://183.129.255.66:8480/hls/45/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
 http://genglei.8866.org:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
+http://183.129.255.66:8480/hls/45/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
-http://120.76.248.139/live/bfgd/4200000110.m3u8
+http://59.39.89.130:60901/tsfile/live/0125_21.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
 http://112.92.129.95:9898/hls/151/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
 http://by4.nty.tv189.cn/live/tm-dxlnws-4000k.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://183.129.255.66:8480/hls/46/index.m3u8
+http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
 http://by4.nty.tv189.cn/live/tm-ysjlws-4000k.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=202611031002584c4890b709c246de828c25c94cf870f0&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20261103100258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=171.8.79.254&SecurityKey=20261103100258&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=619769ec83e12dbdd79f4b22556bca5e
+http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="延边卫视" group-title="卫视频道",延边卫视
 http://120.76.248.139/live/bfgd/4200000117.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
 http://183.129.255.66:8480/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://112.92.129.95:9898/hls/42/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
 http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://118.122.144.115:8888/newlive/live/hls/29/live.m3u8
+http://124.228.160.112:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
 http://183.129.255.66:8480/hls/33/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://112.92.129.95:9898/hls/38/index.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=20261103080254f60b88d5a1af4cfdad941d09bc2074c9&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20261103080254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=171.8.79.254&SecurityKey=20261103080254&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e37965a80822579add515b7975a032ce
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://183.129.255.66:8480/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
+http://183.129.255.66:8480/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://183.11.239.36:808/hls/40/index.m3u8
+http://gmxw.7766.org:808/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://61.136.172.236:9901/tsfile/live/0137_1.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/50/20230724/index.m3u8?msisdn=20261103080254ccadabaeaea343d6b1617126555a5e7a&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20261103080254&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=171.8.79.254&SecurityKey=20261103080254&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f23dab28d0f728d78f341cbe1520a4c8
 #EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://118.122.144.115:8888/newlive/live/hls/20/live.m3u8
-#EXTINF:-1 tvg-name="海峡卫视" group-title="卫视频道",海峡卫视
-http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
+http://112.92.129.95:9898/hls/101/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" group-title="卫视频道",海峡卫视
 http://8.138.7.223/tv/hxws.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://183.129.255.66:8480/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" group-title="卫视频道",海峡卫视
+http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
 #EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
 http://by4.nty.tv189.cn/live/tm-ysjxws-4000k.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
+http://183.129.255.66:8480/hls/44/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://183.129.255.66:8480/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://112.92.129.95:9898/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://by4.nty.tv189.cn/live/tm-dxhenanws-4000k.m3u8
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=8e6a27236d0c254e4bd887ae2278805a&wsTime=1793689457
 #EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://183.129.255.66:8480/hls/38/index.m3u8
+http://by4.nty.tv189.cn/live/tm-dxhenanws-4000k.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
 http://by4.nty.tv189.cn/live/tm-dxhbws-4000k.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://61.136.172.236:9901/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://58.57.40.22:9901/tsfile/live/1028_1.m3u8
+http://183.129.255.66:8480/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 http://183.129.255.66:8480/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+http://112.92.129.95:9898/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="卫视频道",大湾区卫视
-http://gmxw.7766.org:808/hls/132/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2026110310025881c2df1a0a39482cad377ab77c83b1cf&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20261103100258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=171.8.79.254&SecurityKey=20261103100258&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eb3c2296edca76f75e6c74bc873663c7
 #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
 http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视
+http://183.129.255.66:8480/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://61.136.172.236:9901/tsfile/live/0113_1.m3u8
+http://112.92.129.95:9898/hls/64/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://120.76.248.139/live/bfgd/4200000116.m3u8
+http://36.136.38.87:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
 http://by4.nty.tv189.cn/live/tm-yshnws-4000k.m3u8
 #EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://183.11.239.36:808/hls/124/index.m3u8
+http://120.76.248.139/live/bfgd/4200000473.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=20261103100259f779e164332043a8adaf28ebd981b1a8&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20261103100259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=171.8.79.254&SecurityKey=20261103100259&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=96e70437d1b034b1ce235d1d31dfbbaa
+http://by4.nty.tv189.cn/live/tm-xpcqws-4000k.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://183.129.255.66:8480/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://58.57.40.22:9901/tsfile/live/1046_1.m3u8
+http://www.frankgb.cn:4022/udp/239.49.8.110:8000
 #EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://183.11.239.36:808/hls/50/index.m3u8
+http://120.198.95.220:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
 http://58.56.162.102:4466/newlive/live/hls/41/live.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
+http://120.198.95.220:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
 http://121.19.134.149:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
@@ -342,7 +316,7 @@ http://183.129.255.66:8480/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
 http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-http://cssbyd.imwork.net:8082/hls/48/index.m3u8
+http://113.25.252.226:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安多卫视" group-title="卫视频道",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
@@ -352,23 +326,23 @@ http://hlsztemgsplive.miguvideo.com:8080/envivo_w/2018/SD/qinghai/1000/index.m3u
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
 http://by4.nty.tv189.cn/tm-ysnxws-4000k.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
-http://112.92.129.95:9898/hls/68/index.m3u8
+http://120.76.248.139/live/bfgd/4200000118.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
 http://by4.nty.tv189.cn/live/tm-ysbtws-4000k.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=202611031002591d636f102819489595ecfbf0b494b2dc&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20261103100259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=171.8.79.254&SecurityKey=20261103100259&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1344d0fd75ab6399e6b4c8985c02801d
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
-http://by4.nty.tv189.cn/live/tm-dxxjws-4000k.m3u8
+http://59.39.89.130:60901/tsfile/live/0125_9.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
 http://genglei.8866.org:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
+http://59.39.89.130:60901/tsfile/live/0125_17.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
 http://183.129.255.66:8480/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+http://124.228.160.112:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
+http://192.151.150.154/live/xmws.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
-http://198.204.228.26/live/xmws.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20261103100259955320e7f6c4444ca886187cdf323c6e&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20261103100259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=171.8.79.254&SecurityKey=20261103100259&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=082e907a8949da0404e71cb59f0990c0
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
@@ -378,7 +352,7 @@ https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2
 #EXTINF:-1 tvg-name="东南卫视HD" group-title="卫视频道",东南卫视HD
 http://120.76.248.139/live/bfgd/4200000483.m3u8
 #EXTINF:-1 tvg-name="东南卫视HD" group-title="卫视频道",东南卫视HD
-http://198.204.228.26/live/dnwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="东方卫视4K" group-title="卫视频道",东方卫视4K
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="东方卫视HD" group-title="卫视频道",东方卫视HD
@@ -388,23 +362,21 @@ http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="中国农林卫视" group-title="卫视频道",中国农林卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=20261103100259d6dca8180248427fa0aae38064fcdf7f&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20261103100259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20261103100259&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fa5a3f1b4be3e02dae9ccab6b05a1081
 #EXTINF:-1 tvg-name="中国农林卫视" group-title="卫视频道",中国农林卫视
-http://103.236.77.86:29824/956904896
+http://222.213.105.65:7788/956904896
+#EXTINF:-1 tvg-name="云南卫视HD" group-title="卫视频道",云南卫视HD
+http://120.76.248.139/live/bfgd/4200000482.m3u8
 #EXTINF:-1 tvg-name="云南卫视HD" group-title="卫视频道",云南卫视HD
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="云南卫视HD" group-title="卫视频道",云南卫视HD
-http://107.150.60.122/live/ynwshd.m3u8
 #EXTINF:-1 tvg-name="人间卫视" group-title="卫视频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 #EXTINF:-1 tvg-name="人间卫视" group-title="卫视频道",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 tvg-name="农林卫视" group-title="卫视频道",农林卫视
 http://120.76.248.139/live/bfgd/4200000122.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="卫视频道",凤凰资讯
-http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-name="北京卫视HD" group-title="卫视频道",北京卫视HD
 http://120.76.248.139/live/bfgd/4200000083.m3u8
 #EXTINF:-1 tvg-name="北京卫视HD" group-title="卫视频道",北京卫视HD
-http://192.151.150.154/live/bjwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="吉林卫视HD" group-title="卫视频道",吉林卫视HD
 http://120.76.248.139/live/bfgd/4200000097.m3u8
 #EXTINF:-1 tvg-name="吉林卫视HD" group-title="卫视频道",吉林卫视HD
@@ -414,7 +386,7 @@ http://120.76.248.139/live/bfgd/4200000103.m3u8
 #EXTINF:-1 tvg-name="四川卫视HD" group-title="卫视频道",四川卫视HD
 http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="大湾区卫视(国际版)" group-title="卫视频道",大湾区卫视(国际版)
-http://107.150.60.122/live/gdgj.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="大湾区卫视(国际版)" group-title="卫视频道",大湾区卫视(国际版)
 http://192.151.150.154/live/gdgj.m3u8
 #EXTINF:-1 tvg-name="天津卫视HD" group-title="卫视频道",天津卫视HD
@@ -438,15 +410,15 @@ http://120.76.248.139/live/bfgd/4200000092.m3u8
 #EXTINF:-1 tvg-name="广东卫视HD" group-title="卫视频道",广东卫视HD
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广西卫视HD" group-title="卫视频道",广西卫视HD
-http://107.150.60.122/live/gxwshd.m3u8
+http://120.76.248.139/live/bfgd/4200000116.m3u8
 #EXTINF:-1 tvg-name="广西卫视HD" group-title="卫视频道",广西卫视HD
-http://198.204.228.26/live/gxwshd.m3u8
+http://107.150.60.122/live/gxwshd.m3u8
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="卫视频道",江苏卫视4K
 http://8.138.7.223/tv/jsws4k.php
 #EXTINF:-1 tvg-name="江苏卫视HD" group-title="卫视频道",江苏卫视HD
-http://107.150.60.122/live/jswshd.m3u8
+http://120.76.248.139/live/bfgd/4200000085.m3u8
 #EXTINF:-1 tvg-name="江苏卫视HD" group-title="卫视频道",江苏卫视HD
-http://198.204.228.26/live/jswshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="江西卫视HD" group-title="卫视频道",江西卫视HD
 http://120.76.248.139/live/bfgd/4200000098.m3u8
 #EXTINF:-1 tvg-name="江西卫视HD" group-title="卫视频道",江西卫视HD
@@ -464,9 +436,9 @@ http://120.76.248.139/live/bfgd/4200000094.m3u8
 #EXTINF:-1 tvg-name="浙江卫视HD" group-title="卫视频道",浙江卫视HD
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="深圳卫视HD" group-title="卫视频道",深圳卫视HD
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+http://120.76.248.139/live/bfgd/4200000100.m3u8
 #EXTINF:-1 tvg-name="深圳卫视HD" group-title="卫视频道",深圳卫视HD
-http://107.150.60.122/live/szwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="湖北卫视HD" group-title="卫视频道",湖北卫视HD
 http://120.76.248.139/live/bfgd/4200000102.m3u8
 #EXTINF:-1 tvg-name="湖北卫视HD" group-title="卫视频道",湖北卫视HD
@@ -478,23 +450,23 @@ http://107.150.60.122/live/hnwshd.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视HD" group-title="卫视频道",甘肃卫视HD
 http://120.76.248.139/live/bfgd/4200000119.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视HD" group-title="卫视频道",甘肃卫视HD
-http://107.150.60.122/live/gswshd.m3u8
+http://192.151.150.154/live/gswshd.m3u8
+#EXTINF:-1 tvg-name="贵州卫视HD" group-title="卫视频道",贵州卫视HD
+http://120.76.248.139/live/bfgd/4200000101.m3u8
 #EXTINF:-1 tvg-name="贵州卫视HD" group-title="卫视频道",贵州卫视HD
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="贵州卫视HD" group-title="卫视频道",贵州卫视HD
-http://198.204.228.26/live/gzwshd.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视HD" group-title="卫视频道",辽宁卫视HD
-http://120.76.248.139/live/bfgd/4200000141.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视HD" group-title="卫视频道",辽宁卫视HD
 http://120.76.248.139/live/bfgd/4200000058.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视HD" group-title="卫视频道",辽宁卫视HD
+http://120.76.248.139/live/bfgd/4200000185.m3u8
+#EXTINF:-1 tvg-name="重庆卫视HD" group-title="卫视频道",重庆卫视HD
+http://120.76.248.139/live/bfgd/4200000107.m3u8
 #EXTINF:-1 tvg-name="重庆卫视HD" group-title="卫视频道",重庆卫视HD
 http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="重庆卫视HD" group-title="卫视频道",重庆卫视HD
-http://107.150.60.122/live/cqwshd.m3u8
 #EXTINF:-1 tvg-name="陕西卫视HD" group-title="卫视频道",陕西卫视HD
-http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+http://120.76.248.139/live/bfgd/4200000512.m3u8
 #EXTINF:-1 tvg-name="陕西卫视HD" group-title="卫视频道",陕西卫视HD
-http://107.150.60.122/live/snwshd.m3u8
+http://198.204.228.26/live/snwshd.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视HD" group-title="卫视频道",黑龙江卫视HD
 http://120.76.248.139/live/bfgd/4200000095.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视HD" group-title="卫视频道",黑龙江卫视HD
@@ -502,9 +474,7 @@ http://107.150.60.122/live/hljwshd.m3u8
 #EXTINF:-1 tvg-name="24小时城市联赛轮播台" group-title="地方频道",24小时城市联赛轮播台
 http://hlsztemgsplive.miguvideo.com:8080/migu/lunbo/ouzhoubei/50/20240603/index.m3u8?msisdn=202611031002578f4d874eb0714822aef896cc0541d5ea&mdspid=&spid=800033&netType=0&sid=5910022136&pid=2028597139&timestamp=20261103100257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=915512915&ParentNodeID=-99&assertID=5910022136&client_ip=171.8.79.254&SecurityKey=20261103100257&promotionId=&mvid=5900006618&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=406e558d536027501083f50a1a161494
 #EXTINF:-1 tvg-name="24小时城市联赛轮播台" group-title="地方频道",24小时城市联赛轮播台
-http://103.236.77.86:29824/915512915
-#EXTINF:-1 tvg-name="2026-08-27 14:06:22" group-title="地方频道",2026-08-27 14:06:22
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+http://222.213.105.65:7788/915512915
 #EXTINF:-1 tvg-name="3030相声小品" group-title="地方频道",3030相声小品
 https://live.ottiptv.cc/douyu/9286868
 #EXTINF:-1 tvg-name="ABC News Live" group-title="地方频道",ABC News Live
@@ -513,16 +483,18 @@ https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-name="Anhui TV" group-title="地方频道",Anhui TV
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+#EXTINF:-1 tvg-name="Anshun Comprehensive News Channel" group-title="地方频道",Anshun Comprehensive News Channel
+https://hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 tvg-name="ANTV" group-title="地方频道",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 tvg-name="Arirang" group-title="地方频道",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Arirang" group-title="地方频道",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-name="Arirang Radio" group-title="地方频道",Arirang Radio
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Arirang" group-title="地方频道",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 #EXTINF:-1 tvg-name="Arirang Radio" group-title="地方频道",Arirang Radio
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Arirang Radio" group-title="地方频道",Arirang Radio
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="BBS" group-title="地方频道",BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 #EXTINF:-1 tvg-name="BBS Buddhist Broadcasting" group-title="地方频道",BBS Buddhist Broadcasting
@@ -538,17 +510,17 @@ http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 #EXTINF:-1 tvg-name="CBC News" group-title="地方频道",CBC News
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 tvg-name="CETV1" group-title="地方频道",CETV1
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=202611030803019e6068f84a8d4bf6ac67c1953eb7355d&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20261103080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=171.8.79.254&SecurityKey=20261103080301&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=064e0110a61e3b9e9f5685a8700d140b
-#EXTINF:-1 tvg-name="CETV1" group-title="地方频道",CETV1
 http://120.76.248.139/live/bfgd/4200000135.m3u8
+#EXTINF:-1 tvg-name="CETV1" group-title="地方频道",CETV1
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=202611030803019e6068f84a8d4bf6ac67c1953eb7355d&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20261103080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=171.8.79.254&SecurityKey=20261103080301&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=064e0110a61e3b9e9f5685a8700d140b
 #EXTINF:-1 tvg-name="CETV2" group-title="地方频道",CETV2
 http://113.98.11.46:3000/
 #EXTINF:-1 tvg-name="CETV2" group-title="地方频道",CETV2
-http://103.236.77.86:29824/923287211
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20261103080301f96e7011d13b4101aae9368df22fa556&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20261103080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20261103080301&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fd84e8f484c1d2c2d6652c6827b59e08
 #EXTINF:-1 tvg-name="CETV4" group-title="地方频道",CETV4
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=20261103080301e76bffebea484a48adbad5d8021c4a38&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20261103080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=171.8.79.254&SecurityKey=20261103080301&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=08ac2f6eff5a0b132cf7fda71a904a0b
 #EXTINF:-1 tvg-name="CETV4" group-title="地方频道",CETV4
-http://103.236.77.86:29824/923287339
+http://222.213.105.65:7788/923287339
 #EXTINF:-1 tvg-name="Chaozhou Public Channel" group-title="地方频道",Chaozhou Public Channel
 http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="Chifeng Comprehensive News Chanel" group-title="地方频道",Chifeng Comprehensive News Chanel
@@ -557,7 +529,7 @@ http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-name="Chuxiong News Channel [Not 24/7]" group-title="地方频道",Chuxiong News Channel [Not 24/7]
 http://hwapi.yntv.net/ew265l/848y54.m3u8
-#EXTINF:-1 tvg-name="CJ OnStyle" group-title="地方频道",CJ OnStyle
+#EXTINF:-1 tvg-name="CJ OnStyle (540p)" group-title="地方频道",CJ OnStyle (540p)
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 tvg-name="CJB" group-title="地方频道",CJB
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
@@ -567,16 +539,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-name="CPBC" group-title="地方频道",CPBC
 http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CTi News" group-title="地方频道",CTi News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-name="Discovering China" group-title="地方频道",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-name="Dongguan Comprehensive News Channel" group-title="地方频道",Dongguan Comprehensive News Channel
 http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
-#EXTINF:-1 tvg-name="DW" group-title="地方频道",DW
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-name="EBS1" group-title="地方频道",EBS1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS1" group-title="地方频道",EBS1
 http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS 2" group-title="地方频道",EBS 2
@@ -593,22 +561,22 @@ http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3
 http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBSi" group-title="地方频道",EBSi
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 tvg-name="ET Mall 60" group-title="地方频道",ET Mall 60
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 #EXTINF:-1 tvg-name="EWTN Africa Asia" group-title="地方频道",EWTN Africa Asia
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-name="EWTN Asia-Pacific" group-title="地方频道",EWTN Asia-Pacific
+#EXTINF:-1 tvg-name="EWTN Asia-Pacific [Not 24/7]" group-title="地方频道",EWTN Asia-Pacific [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="GCN24 Korean" group-title="地方频道",GCN24 Korean
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GCN教会" group-title="地方频道",GCN教会
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-#EXTINF:-1 tvg-name="Genius Go Go Go" group-title="地方频道",Genius Go Go Go
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-name="Guangxi Variety & Travel Channel" group-title="地方频道",Guangxi Variety & Travel Channel
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="Harbin Comprehensive News Channel" group-title="地方频道",Harbin Comprehensive News Channel
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+#EXTINF:-1 tvg-name="Harbin Movie Channel" group-title="地方频道",Harbin Movie Channel
+https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 tvg-name="Hebei TV" group-title="地方频道",Hebei TV
+https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-name="Hebei TV" group-title="地方频道",Hebei TV
 https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
 #EXTINF:-1 tvg-name="Home & Shopping" group-title="地方频道",Home & Shopping
@@ -631,20 +599,16 @@ https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 http://1.14.124.206:35455/huya/152698
 #EXTINF:-1 tvg-name="JJ斗地主" group-title="地方频道",JJ斗地主
 http://8.155.43.98:35455/huya/152698
-#EXTINF:-1 tvg-name="JP1" group-title="地方频道",JP1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 tvg-name="Kangba TV" group-title="地方频道",Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="KBS LiveCam DokDo" group-title="地方频道",KBS LiveCam DokDo
+#EXTINF:-1 tvg-name="KBS LiveCam DokDo (540p)" group-title="地方频道",KBS LiveCam DokDo (540p)
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="KCTV" group-title="地方频道",KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 tvg-name="KCTV" group-title="地方频道",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-name="KCTV 광주 CH05" group-title="地方频道",KCTV 광주 CH05
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+#EXTINF:-1 tvg-name="KCTV 광주 CH05 [Not 24/7]" group-title="地方频道",KCTV 광주 CH05 [Not 24/7]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-name="KPop" group-title="地方频道",KPop
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 tvg-name="Lanzhou Comprehensive News Channel" group-title="地方频道",Lanzhou Comprehensive News Channel
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-name="Lanzhou Culture & Tourism Channel" group-title="地方频道",Lanzhou Culture & Tourism Channel
@@ -653,34 +617,26 @@ https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 #EXTINF:-1 tvg-name="Lotte OneTV" group-title="地方频道",Lotte OneTV
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-#EXTINF:-1 tvg-name="MBC Andong" group-title="地方频道",MBC Andong
+#EXTINF:-1 tvg-name="MBC Andong (안동 MBC) (360p) [Not 24/7]" group-title="地方频道",MBC Andong (안동 MBC) (360p) [Not 24/7]
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Chuncheon" group-title="地方频道",MBC Chuncheon
+#EXTINF:-1 tvg-name="MBC Chuncheon (춘천 MBC) [Not 24/7]" group-title="地方频道",MBC Chuncheon (춘천 MBC) [Not 24/7]
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Jeju" group-title="地方频道",MBC Jeju
+#EXTINF:-1 tvg-name="MBC Jeju (제주 MBC) (352p) [Not 24/7]" group-title="地方频道",MBC Jeju (제주 MBC) (352p) [Not 24/7]
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Mokpo" group-title="地方频道",MBC Mokpo
+#EXTINF:-1 tvg-name="MBC Mokpo (목포 MBC) [Not 24/7]" group-title="地方频道",MBC Mokpo (목포 MBC) [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Momo 1" group-title="地方频道",Momo 1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-name="Momo 2" group-title="地方频道",Momo 2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 #EXTINF:-1 tvg-name="Nei Monggol TV 2 Mongolian Culture Channel [Not 24/7]" group-title="地方频道",Nei Monggol TV 2 Mongolian Culture Channel [Not 24/7]
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 tvg-name="NewKID2" group-title="地方频道",NewKID2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 #EXTINF:-1 tvg-name="NewKID4" group-title="地方频道",NewKID4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1 tvg-name="NewKID4" group-title="地方频道",NewKID4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
+#EXTINF:-1 tvg-name="NewKID4" group-title="地方频道",NewKID4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
 #EXTINF:-1 tvg-name="Newsmax" group-title="地方频道",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="NHTV" group-title="地方频道",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 tvg-name="NU" group-title="地方频道",NU
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 tvg-name="NU2" group-title="地方频道",NU2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 #EXTINF:-1 tvg-name="Pet Club TV" group-title="地方频道",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="QTV-1" group-title="地方频道",QTV-1
@@ -711,16 +667,16 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="RT News(英语国际)" group-title="地方频道",RT News(英语国际)
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="SBS CJB (540p) [Not 24/7]" group-title="地方频道",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Shopping NT" group-title="地方频道",Shopping NT
 https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 tvg-name="Siping TV" group-title="地方频道",Siping TV
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-#EXTINF:-1 tvg-name="Taiwan Plus TV" group-title="地方频道",Taiwan Plus TV
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-name="Tonghua TV" group-title="地方频道",Tonghua TV
-http://139.211.217.79:9004/hls/75/index.m3u8
 #EXTINF:-1 tvg-name="Tonghua TV" group-title="地方频道",Tonghua TV
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-name="Tonghua TV" group-title="地方频道",Tonghua TV
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-name="Trace Sports" group-title="地方频道",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="TV" group-title="地方频道",TV
@@ -731,10 +687,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-name="TVBS-Asia" group-title="地方频道",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBS亚洲" group-title="地方频道",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 tvg-name="TVBS亚洲" group-title="地方频道",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="tvchosun2" group-title="地方频道",tvchosun2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-name="tvN1" group-title="地方频道",tvN1
@@ -771,8 +723,6 @@ https://live.ottiptv.cc/douyu/9220456
 http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 #EXTINF:-1 tvg-name="三国演义" group-title="地方频道",三国演义
 https://live.ottiptv.cc/huya/11602081
-#EXTINF:-1 tvg-name="三国演义" group-title="地方频道",三国演义
-https://live.metshop.top/huya/11602081
 #EXTINF:-1 tvg-name="三明新闻综合" group-title="地方频道",三明新闻综合
 http://ls.qingting.fm/live/4885.m3u8
 #EXTINF:-1 tvg-name="三明新闻综合" group-title="地方频道",三明新闻综合
@@ -793,8 +743,6 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="与凤行" group-title="地方频道",与凤行
 https://live.ottiptv.cc/huya/26355866
-#EXTINF:-1 tvg-name="世界地理" group-title="地方频道",世界地理
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 #EXTINF:-1 tvg-name="东丰综合" group-title="地方频道",东丰综合
 http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
 #EXTINF:-1 tvg-name="东莞新闻综合" group-title="地方频道",东莞新闻综合
@@ -806,9 +754,9 @@ https://live.metshop.top/huya/11342413
 #EXTINF:-1 tvg-name="中华特产" group-title="地方频道",中华特产
 http://120.76.248.139/live/bfgd/4200000158.m3u8
 #EXTINF:-1 tvg-name="中国航天“逆袭”之路" group-title="地方频道",中国航天“逆袭”之路
-http://222.213.105.65:7788/713600957
+http://www.ikerobot.com:1234/713600957
 #EXTINF:-1 tvg-name="中国航天“逆袭”之路" group-title="地方频道",中国航天“逆袭”之路
-http://113.98.11.46:3000/713600957
+http://222.213.105.65:7788/713600957
 #EXTINF:-1 tvg-name="中视" group-title="地方频道",中视
 http://211.72.174.95:8113/0.ts
 #EXTINF:-1 tvg-name="丽江古城万古楼遥望玉龙雪山" group-title="地方频道",丽江古城万古楼遥望玉龙雪山
@@ -852,17 +800,21 @@ https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
 #EXTINF:-1 tvg-name="云南白沙远眺玉龙雪山" group-title="地方频道",云南白沙远眺玉龙雪山
 https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
 #EXTINF:-1 tvg-name="云和新闻综合" group-title="地方频道",云和新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="云和新闻综合" group-title="地方频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-#EXTINF:-1 tvg-name="云霄综合" group-title="地方频道",云霄综合
-http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+#EXTINF:-1 tvg-name="云和新闻综合" group-title="地方频道",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="云霄综合" group-title="地方频道",云霄综合
 http://live.zzyxxw.com:85/live/xwzh.m3u8
+#EXTINF:-1 tvg-name="云霄综合" group-title="地方频道",云霄综合
+https://live.zzyxxw.com:2443/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="五彩池" group-title="地方频道",五彩池
 https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 #EXTINF:-1 tvg-name="井研综合" group-title="地方频道",井研综合
 http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
+#EXTINF:-1 tvg-name="亳州农村" group-title="地方频道",亳州农村
+http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
+#EXTINF:-1 tvg-name="亳州农村" group-title="地方频道",亳州农村
+http://zbbf2.ahbztv.com/live/418.m3u8
 #EXTINF:-1 tvg-name="仁寿综合" group-title="地方频道",仁寿综合
 https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 #EXTINF:-1 tvg-name="仙剑奇侠传" group-title="地方频道",仙剑奇侠传
@@ -870,9 +822,9 @@ https://live.ottiptv.cc/yy/1382749903
 #EXTINF:-1 tvg-name="任丘综合" group-title="地方频道",任丘综合
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="伊犁哈萨克" group-title="地方频道",伊犁哈萨克
-http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
-#EXTINF:-1 tvg-name="伊犁哈萨克" group-title="地方频道",伊犁哈萨克
 http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 tvg-name="伊犁哈萨克" group-title="地方频道",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 #EXTINF:-1 tvg-name="伊犁经济法制" group-title="地方频道",伊犁经济法制
 http://110.153.180.106:55555/out_4/index.m3u8
 #EXTINF:-1 tvg-name="伊犁经济法制" group-title="地方频道",伊犁经济法制
@@ -886,15 +838,15 @@ https://live.ottiptv.cc/yy/1354936244
 #EXTINF:-1 tvg-name="体坛名栏汇" group-title="地方频道",体坛名栏汇
 http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/titanminglan/600/index.m3u8?msisdn=20261103100256590b31a6ebec4064953155a5ee36d30a&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20261103100256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=171.8.79.254&SecurityKey=20261103100256&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=43988f71d68daee1745fe63376cf158b
 #EXTINF:-1 tvg-name="体坛名栏汇" group-title="地方频道",体坛名栏汇
-http://103.236.77.86:29824/629943305
-#EXTINF:-1 tvg-name="信大" group-title="地方频道",信大
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+http://222.213.105.65:7788/629943305
+#EXTINF:-1 tvg-name="余姚综合" group-title="地方频道",余姚综合
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-name="八里沟风景区天界山玻璃栈道" group-title="地方频道",八里沟风景区天界山玻璃栈道
 https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 #EXTINF:-1 tvg-name="八里沟风景区桃花湾瀑布" group-title="地方频道",八里沟风景区桃花湾瀑布
 https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 #EXTINF:-1 tvg-name="公共频道" group-title="地方频道",公共频道
-http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=96ee130c2544084428c40695076dec86&wsTime=1793685843
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=279053af1016694a96779fdc27792ec4&wsTime=1793689457
 #EXTINF:-1 tvg-name="公视" group-title="地方频道",公视
 http://211.72.174.95:8116/0.ts
 #EXTINF:-1 tvg-name="六安公共" group-title="地方频道",六安公共
@@ -914,9 +866,9 @@ http://119.125.131.73:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="凤凰中文" group-title="地方频道",凤凰中文
 http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-name="凤凰香港" group-title="地方频道",凤凰香港
-http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="地方频道",凤凰香港
-https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 tvg-name="刑事侦缉档案" group-title="地方频道",刑事侦缉档案
 http://1.14.124.206:35455/huya/29465856
 #EXTINF:-1 tvg-name="刑事侦缉档案" group-title="地方频道",刑事侦缉档案
@@ -927,22 +879,18 @@ https://stream2.jlntv.cn/qg/sd/live.m3u8
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 #EXTINF:-1 tvg-name="北京新闻" group-title="地方频道",北京新闻
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="北京科教" group-title="地方频道",北京科教
-http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 tvg-name="华视" group-title="地方频道",华视
 http://211.72.174.95:8114/0.ts
-#EXTINF:-1 tvg-name="华视HD" group-title="地方频道",华视HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 tvg-name="华语影视✔原" group-title="地方频道",华语影视✔原
 https://live.ottiptv.cc/douyu/3928
 #EXTINF:-1 tvg-name="南京十八频道" group-title="地方频道",南京十八频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=20261103080255c6186b1ba0434135abcdd332caaed864&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20261103080255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=171.8.79.254&SecurityKey=20261103080255&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=77cf9eac0438c864596511ad40a27174
 #EXTINF:-1 tvg-name="南京十八频道" group-title="地方频道",南京十八频道
-http://103.236.77.86:29824/838151753
+http://222.213.105.65:7788/838151753
 #EXTINF:-1 tvg-name="南京教科" group-title="地方频道",南京教科
 http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 #EXTINF:-1 tvg-name="南京教科频道" group-title="地方频道",南京教科频道
-http://103.236.77.86:29824/838153729
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingkj/50/20230719/index.m3u8?msisdn=20261103080255c6a6af39cc744d66b406f304f9a3b302&mdspid=&spid=699067&netType=0&sid=5910021865&pid=2028597139&timestamp=20261103080255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838153729&ParentNodeID=-99&assertID=5910021865&client_ip=171.8.79.254&SecurityKey=20261103080255&promotionId=&mvid=5900006205&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=04a1a8346f6d05cadacb01fbb81fedbc
 #EXTINF:-1 tvg-name="南京教科频道" group-title="地方频道",南京教科频道
 http://222.213.105.65:7788/838153729
 #EXTINF:-1 tvg-name="南京新闻综合" group-title="地方频道",南京新闻综合
@@ -958,7 +906,7 @@ http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m
 #EXTINF:-1 tvg-name="南方影视" group-title="地方频道",南方影视
 http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=20261103080301b129ef479bc242c998dc16d29a0ba40a&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20261103080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.8.79.254&SecurityKey=20261103080301&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2c4cc942f73ded3c17219bb542a6486f
 #EXTINF:-1 tvg-name="南方影视" group-title="地方频道",南方影视
-http://103.236.77.86:29824/614961829
+http://222.213.105.65:7788/614961829
 #EXTINF:-1 tvg-name="厦门鼓浪屿" group-title="地方频道",厦门鼓浪屿
 https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
 #EXTINF:-1 tvg-name="双辽综合" group-title="地方频道",双辽综合
@@ -975,8 +923,6 @@ http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjian
 http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="台视" group-title="地方频道",台视
 http://211.72.174.95:8112/0.ts
-#EXTINF:-1 tvg-name="叶倩文-潇洒走一回" group-title="地方频道",叶倩文-潇洒走一回
-http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
 #EXTINF:-1 tvg-name="吉林乡村" group-title="地方频道",吉林乡村
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 #EXTINF:-1 tvg-name="吉林乡村频道" group-title="地方频道",吉林乡村频道
@@ -991,22 +937,16 @@ http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jlzywhpd/50/20261014/index.m
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jldspd/50/20261014/index.m3u8?msisdn=20261103080300c28bad2e38c046d19264f26eba06ebe3&mdspid=&spid=600572&netType=0&sid=5910022523&pid=2028597139&timestamp=20261103080300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553190&ParentNodeID=-99&assertID=5910022523&client_ip=171.8.79.254&SecurityKey=20261103080300&promotionId=&mvid=5900006889&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1b715979e0c1db22defaa73d3f861fc3
 #EXTINF:-1 tvg-name="名侦探柯南" group-title="地方频道",名侦探柯南
 https://live.ottiptv.cc/huya/30080236
-#EXTINF:-1 tvg-name="名山综合" group-title="地方频道",名山综合
-https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 #EXTINF:-1 tvg-name="和美乡途轮播台" group-title="地方频道",和美乡途轮播台
 http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002411/50/20210706/index.m3u8?msisdn=2026110308030136830df5b55846c7942a7c3c23ece453&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20261103080301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=171.8.79.254&SecurityKey=20261103080301&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=aeb936d7f8035a55e254bfc1ced42637
 #EXTINF:-1 tvg-name="和美乡途轮播台" group-title="地方频道",和美乡途轮播台
-http://103.236.77.86:29824/713591450
+http://222.213.105.65:7788/713591450
 #EXTINF:-1 tvg-name="哆啦A梦" group-title="地方频道",哆啦A梦
 https://live.ottiptv.cc/huya/11601963
 #EXTINF:-1 tvg-name="哈尔滨娱乐" group-title="地方频道",哈尔滨娱乐
 http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="哈尔滨娱乐" group-title="地方频道",哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="哈尔滨影视" group-title="地方频道",哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8
-#EXTINF:-1 tvg-name="哈尔滨影视" group-title="地方频道",哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="地方频道",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="哈尔滨生活" group-title="地方频道",哈尔滨生活
@@ -1038,15 +978,15 @@ https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" group-title="地方频道",四海钓鱼
 http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=202611031002562ba5ec233f6844acb3ee5ee5c91dbacf&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20261103100256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=171.8.79.254&SecurityKey=20261103100256&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3132e220c7c1bb0d9a77ab41ce905539
 #EXTINF:-1 tvg-name="四海钓鱼" group-title="地方频道",四海钓鱼
-http://120.76.248.139/live/bfgd/4200000229.m3u8
-#EXTINF:-1 tvg-name="固镇新闻" group-title="地方频道",固镇新闻
-http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+http://222.213.105.65:7788/637444975
 #EXTINF:-1 tvg-name="固镇新闻" group-title="地方频道",固镇新闻
 http://www.guzhenm.com:7001/hls/hd-live.m3u8
-#EXTINF:-1 tvg-name="国学频道" group-title="地方频道",国学频道
-http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=5c409eb254f045959b1049a3f054ba2c&wsTime=1793685843
+#EXTINF:-1 tvg-name="固镇新闻" group-title="地方频道",固镇新闻
+http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="国学频道" group-title="地方频道",国学频道
 http://38.75.136.137:98/gslb/dsdqpub/gxpd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="国学频道" group-title="地方频道",国学频道
+http://107.150.60.122/live/gxpd.m3u8
 #EXTINF:-1 tvg-name="士兵突击" group-title="地方频道",士兵突击
 https://live.ottiptv.cc/huya/11342430
 #EXTINF:-1 tvg-name="大宁综合" group-title="地方频道",大宁综合
@@ -1055,18 +995,14 @@ http://live.daningtv.com/aac_dngb/playlist.m3u8
 https://live.ottiptv.cc/huya/23903130
 #EXTINF:-1 tvg-name="大立电视台" group-title="地方频道",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="天映经典" group-title="地方频道",天映经典
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 #EXTINF:-1 tvg-name="天涯石" group-title="地方频道",天涯石
 https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 #EXTINF:-1 tvg-name="天龙八部" group-title="地方频道",天龙八部
-https://live.ottiptv.cc/yy/1351814644
-#EXTINF:-1 tvg-name="天龙八部" group-title="地方频道",天龙八部
-https://live.metshop.top/huya/20985816
-#EXTINF:-1 tvg-name="太谷新闻综合" group-title="地方频道",太谷新闻综合
-https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
+https://live.ottiptv.cc/huya/20985816
 #EXTINF:-1 tvg-name="太谷新闻综合" group-title="地方频道",太谷新闻综合
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+#EXTINF:-1 tvg-name="太谷新闻综合" group-title="地方频道",太谷新闻综合
+https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 #EXTINF:-1 tvg-name="夹江新闻综合" group-title="地方频道",夹江新闻综合
 http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="奇光主播" group-title="地方频道",奇光主播
@@ -1079,8 +1015,6 @@ http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 https://live.ottiptv.cc/douyu/747764
 #EXTINF:-1 tvg-name="如懿传" group-title="地方频道",如懿传
 https://live.ottiptv.cc/huya/29465868
-#EXTINF:-1 tvg-name="姜玉阳-刻骨的温柔" group-title="地方频道",姜玉阳-刻骨的温柔
-http://cloud.video.taobao.com/play/u/1748679248/p/2/e/3/t/1/15883785.m3u8
 #EXTINF:-1 tvg-name="安徽导视" group-title="地方频道",安徽导视
 http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 #EXTINF:-1 tvg-name="安徽池州九华山风景区九华山" group-title="地方频道",安徽池州九华山风景区九华山
@@ -1093,18 +1027,14 @@ https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
 https://live.ottiptv.cc/douyu/9817729
 #EXTINF:-1 tvg-name="定襄综合" group-title="地方频道",定襄综合
 http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
-#EXTINF:-1 tvg-name="宾阳综合" group-title="地方频道",宾阳综合
-http://pulls.myun.tv/live/0dkp33j5.m3u8
-#EXTINF:-1 tvg-name="宿州科教" group-title="地方频道",宿州科教
+#EXTINF:-1 tvg-name="宿州公共 [Not 24/7]" group-title="地方频道",宿州公共 [Not 24/7]
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 tvg-name="宿州科教 [Not 24/7]" group-title="地方频道",宿州科教 [Not 24/7]
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 #EXTINF:-1 tvg-name="封神榜" group-title="地方频道",封神榜
 http://1.14.124.206:35455/huya/29465849
 #EXTINF:-1 tvg-name="封神榜" group-title="地方频道",封神榜
-https://live.ottiptv.cc/huya/29465849
-#EXTINF:-1 tvg-name="射雕英雄传" group-title="地方频道",射雕英雄传
-https://live.ottiptv.cc/huya/23824164
-#EXTINF:-1 tvg-name="射雕英雄传" group-title="地方频道",射雕英雄传
-https://live.metshop.top/huya/23824164
+https://live.metshop.top/huya/29465849
 #EXTINF:-1 tvg-name="小毅主播e" group-title="地方频道",小毅主播e
 https://live.ottiptv.cc/douyu/11851549
 #EXTINF:-1 tvg-name="小毅主播q" group-title="地方频道",小毅主播q
@@ -1116,7 +1046,7 @@ https://live.ottiptv.cc/yy/1382736814
 #EXTINF:-1 tvg-name="少年包青天第二部" group-title="地方频道",少年包青天第二部
 https://live.ottiptv.cc/huya/11342425
 #EXTINF:-1 tvg-name="山东教育" group-title="地方频道",山东教育
-http://103.236.77.86:29824/609154353
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sdjyws/50/20250915/index.m3u8?msisdn=2026110308030224ee69f13a294c9891bedaca52d740f9&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20261103080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=171.8.79.254&SecurityKey=20261103080302&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e0549072d37664434363c6ad26654b7a
 #EXTINF:-1 tvg-name="山东教育" group-title="地方频道",山东教育
 http://222.213.105.65:7788/609154353
 #EXTINF:-1 tvg-name="山东新闻" group-title="地方频道",山东新闻
@@ -1137,12 +1067,6 @@ https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="广东民生" group-title="地方频道",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="广东民生" group-title="地方频道",广东民生
-http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="广东珠江" group-title="地方频道",广东珠江
-http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="广东珠江" group-title="地方频道",广东珠江
-http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东珠江频道" group-title="地方频道",广东珠江频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/szxwzh/50/20250604/index.m3u8?msisdn=202611030802595b64c392ea8c4020b8fff51efbbabb59&mdspid=&spid=600697&netType=0&sid=5910022410&pid=2028597139&timestamp=20261103080259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731952&ParentNodeID=-99&assertID=5910022410&client_ip=171.8.79.254&SecurityKey=20261103080259&promotionId=&mvid=5102012610&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8ca7ff14dc92b5dec802f4fea5d50519
 #EXTINF:-1 tvg-name="广元公共" group-title="地方频道",广元公共
@@ -1158,15 +1082,13 @@ http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b56237284
 #EXTINF:-1 tvg-name="广州竞赛" group-title="地方频道",广州竞赛
 http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 tvg-name="广州综合" group-title="地方频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 tvg-name="广州综合" group-title="地方频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 #EXTINF:-1 tvg-name="广德生活" group-title="地方频道",广德生活
 https://live.gdtv.ah.cn/live/newsTV.m3u8
 #EXTINF:-1 tvg-name="广西国际" group-title="地方频道",广西国际
-http://198.204.228.26/live/gxgj.m3u8
-#EXTINF:-1 tvg-name="广西国际" group-title="地方频道",广西国际
-http://192.151.150.154/live/gxgj.m3u8
+https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 #EXTINF:-1 tvg-name="广西桂林漓江景区" group-title="地方频道",广西桂林漓江景区
 https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 #EXTINF:-1 tvg-name="广西玉林大容山莲花山顶" group-title="地方频道",广西玉林大容山莲花山顶
@@ -1187,14 +1109,12 @@ http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002413/50/2021070
 https://live.ottiptv.cc/douyu/9018297
 #EXTINF:-1 tvg-name="张掖七彩丹霞" group-title="地方频道",张掖七彩丹霞
 https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
-#EXTINF:-1 tvg-name="张掖新闻综合" group-title="地方频道",张掖新闻综合
-https://play.kankanlive.com/live/1720583434627241.m3u8
 #EXTINF:-1 tvg-name="德惠综合" group-title="地方频道",德惠综合
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" group-title="地方频道",快乐垂钓
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=20261103100257657d9543d188409299a62fca315bcb91&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20261103100257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20261103100257&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9156767f015b8849b5a2312d11f9621a
 #EXTINF:-1 tvg-name="快乐垂钓" group-title="地方频道",快乐垂钓
-http://103.236.77.86:29824/961930263
+http://222.213.105.65:7788/961930263
 #EXTINF:-1 tvg-name="怀仁综合" group-title="地方频道",怀仁综合
 https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 #EXTINF:-1 tvg-name="怀旧剧专区" group-title="地方频道",怀旧剧专区
@@ -1202,15 +1122,15 @@ http://1.14.124.206:35455/huya/30080241
 #EXTINF:-1 tvg-name="恒山悬空寺全景" group-title="地方频道",恒山悬空寺全景
 https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 #EXTINF:-1 tvg-name="抗战经典影片" group-title="地方频道",抗战经典影片
-http://103.236.77.86:29824/617432318
-#EXTINF:-1 tvg-name="抗战经典影片" group-title="地方频道",抗战经典影片
 http://222.213.105.65:7788/617432318
+#EXTINF:-1 tvg-name="抗战经典影片" group-title="地方频道",抗战经典影片
+http://113.98.11.46:3000/617432318
 #EXTINF:-1 tvg-name="敦化一套" group-title="地方频道",敦化一套
 http://stream8.jlntv.cn/dhtv/playlist.m3u8
 #EXTINF:-1 tvg-name="敦化一套" group-title="地方频道",敦化一套
 http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 #EXTINF:-1 tvg-name="文物宝库" group-title="地方频道",文物宝库
-https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=920c26cda0e6ec75799e858119aac0a8&wsTime=1793685843
+https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=c34f154339954d7e25fdd4b790e8ac19&wsTime=1793689457
 #EXTINF:-1 tvg-name="斯诺克" group-title="地方频道",斯诺克
 http://8.155.43.98:35455/huya/880214
 #EXTINF:-1 tvg-name="斯诺克" group-title="地方频道",斯诺克
@@ -1230,15 +1150,15 @@ http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="新片放映厅" group-title="地方频道",新片放映厅
 http://hlsztemgsplive.miguvideo.com:8080/wd-virtuallive5100030975-75/index.m3u8?msisdn=20261103080300eb3909df1d464194a3998649571fdb19&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20261103080300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=171.8.79.254&SecurityKey=20261103080300&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c84300fdae39975d2cfa7b157e5c1c90
 #EXTINF:-1 tvg-name="新片放映厅" group-title="地方频道",新片放映厅
-http://103.236.77.86:29824/619495952
+http://222.213.105.65:7788/619495952
 #EXTINF:-1 tvg-name="新白娘子传奇" group-title="地方频道",新白娘子传奇
 https://live.ottiptv.cc/yy/1354490667
 #EXTINF:-1 tvg-name="新视觉HD" group-title="地方频道",新视觉HD
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 tvg-name="新野综合" group-title="地方频道",新野综合
-http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
-#EXTINF:-1 tvg-name="新野综合" group-title="地方频道",新野综合
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1 tvg-name="新野综合" group-title="地方频道",新野综合
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
 #EXTINF:-1 tvg-name="旺苍新闻综合" group-title="地方频道",旺苍新闻综合
 http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="旺苍新闻综合" group-title="地方频道",旺苍新闻综合
@@ -1256,21 +1176,19 @@ https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
 #EXTINF:-1 tvg-name="最强综艺趴" group-title="地方频道",最强综艺趴
 http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=20261103080304244aaf02c1de4c79b618047f61e5fe7c&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20261103080304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=171.8.79.254&SecurityKey=20261103080304&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d450e2866dfa4c74e6a5290ef7b8eccd
 #EXTINF:-1 tvg-name="最强综艺趴" group-title="地方频道",最强综艺趴
-http://103.236.77.86:29824/629942228
+http://113.98.11.46:3000/629942228
 #EXTINF:-1 tvg-name="月牙泉" group-title="地方频道",月牙泉
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
 #EXTINF:-1 tvg-name="望乡台" group-title="地方频道",望乡台
 https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
 #EXTINF:-1 tvg-name="朝天综合" group-title="地方频道",朝天综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-#EXTINF:-1 tvg-name="李圣杰-痴心绝对" group-title="地方频道",李圣杰-痴心绝对
-http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
 #EXTINF:-1 tvg-name="来宾综合" group-title="地方频道",来宾综合
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="松潘新闻综合" group-title="地方频道",松潘新闻综合
-http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
-#EXTINF:-1 tvg-name="松潘新闻综合" group-title="地方频道",松潘新闻综合
 http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 tvg-name="松潘新闻综合" group-title="地方频道",松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 #EXTINF:-1 tvg-name="松阳综合" group-title="地方频道",松阳综合
 http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="松阳综合" group-title="地方频道",松阳综合
@@ -1288,21 +1206,21 @@ https://live.ottiptv.cc/huya/26355765
 #EXTINF:-1 tvg-name="梨园" group-title="地方频道",梨园
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 #EXTINF:-1 tvg-name="梨园频道" group-title="地方频道",梨园频道
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmc/50/20251225/index.m3u8?msisdn=2026110308030451084e3f29f2428db979609680cb2a02&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20261103080304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=171.8.79.254&SecurityKey=20261103080304&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7aca945224d49f928121916db5df83ab
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=2a8dab8e687eb2e3e47df48d9944c316&wsTime=1793689457
 #EXTINF:-1 tvg-name="梨园频道" group-title="地方频道",梨园频道
-http://222.213.105.65:7788/961930369
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmc/50/20251225/index.m3u8?msisdn=2026110308030451084e3f29f2428db979609680cb2a02&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20261103080304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=171.8.79.254&SecurityKey=20261103080304&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7aca945224d49f928121916db5df83ab
 #EXTINF:-1 tvg-name="橙記港剧✔原" group-title="地方频道",橙記港剧✔原
 https://live.ottiptv.cc/douyu/4549169
 #EXTINF:-1 tvg-name="欢乐颂" group-title="地方频道",欢乐颂
 https://live.ottiptv.cc/yy/1382735624
 #EXTINF:-1 tvg-name="欢腾购物" group-title="地方频道",欢腾购物
-http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=ea438b73baa042e8be5685a94b2ec10c&wsTime=1793685843
+http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=3a1f73df3aad8fa6cea50705db022709&wsTime=1793689457
 #EXTINF:-1 tvg-name="武侠剧专区" group-title="地方频道",武侠剧专区
 http://1.14.124.206:35455/huya/20985816
 #EXTINF:-1 tvg-name="武术世界" group-title="地方频道",武术世界
 http://www.ikerobot.com:1234/958475359
 #EXTINF:-1 tvg-name="武术频道" group-title="地方频道",武术频道
-https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=cd034a3b22c68c17e3ad290c251c9b83&wsTime=1793685843
+https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=05ad542da7c4e0a40e516755c6ab7bca&wsTime=1793689457
 #EXTINF:-1 tvg-name="武汉一台新闻综合" group-title="地方频道",武汉一台新闻综合
 https://ls.qingting.fm/live/20198/64k.m3u8
 #EXTINF:-1 tvg-name="武进生活" group-title="地方频道",武进生活
@@ -1310,7 +1228,7 @@ http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-name="武进生活 [Not 24/7]" group-title="地方频道",武进生活 [Not 24/7]
 https://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-name="民生频道" group-title="地方频道",民生频道
-http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=d43fff9a60e63c92b0a0c6315bf1a2e6&wsTime=1793685843
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=5eb81cc6d67cadf7cb0eddbc884a7ba6&wsTime=1793689457
 #EXTINF:-1 tvg-name="民视" group-title="地方频道",民视
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 tvg-name="永城综合" group-title="地方频道",永城综合
@@ -1326,13 +1244,13 @@ https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
 #EXTINF:-1 tvg-name="江苏国际" group-title="地方频道",江苏国际
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=20261103080255b4fcb0d94b2948989567e120e522e5f5&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20261103080255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=171.8.79.254&SecurityKey=20261103080255&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a61c6e4554324f33b8464e3bb3ebdfe3
 #EXTINF:-1 tvg-name="江苏国际" group-title="地方频道",江苏国际
-http://222.213.105.65:7788/626064674
+http://113.98.11.46:3000/626064674
 #EXTINF:-1 tvg-name="江苏城市频道" group-title="地方频道",江苏城市频道
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202611030802554dc2aac61a5a4b98bf5233909a0b373a&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20261103080255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=171.8.79.254&SecurityKey=20261103080255&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=076b275a686b90ea0c6a29e99f7148a4
 #EXTINF:-1 tvg-name="江苏城市频道" group-title="地方频道",江苏城市频道
-http://103.236.77.86:29824/626064714
+http://222.213.105.65:7788/626064714
 #EXTINF:-1 tvg-name="江苏影视频道" group-title="地方频道",江苏影视频道
-http://103.236.77.86:29824/626064697
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=20261103080255c40cdb03defb473aaf304c02a8f66454&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20261103080255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=171.8.79.254&SecurityKey=20261103080255&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=417bf408738e9df370f302af6edd7703
 #EXTINF:-1 tvg-name="江苏影视频道" group-title="地方频道",江苏影视频道
 http://222.213.105.65:7788/626064697
 #EXTINF:-1 tvg-name="江苏徐州云龙湖风景区云龙山观景台西" group-title="地方频道",江苏徐州云龙湖风景区云龙山观景台西
@@ -1340,29 +1258,27 @@ https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 #EXTINF:-1 tvg-name="江苏教育" group-title="地方频道",江苏教育
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=20261103080255746847e8f0b24a21a1d85bb7df764e79&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20261103080255&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=171.8.79.254&SecurityKey=20261103080255&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=da2a0f95a1b30ded462f554fbceea310
 #EXTINF:-1 tvg-name="江苏教育" group-title="地方频道",江苏教育
-http://103.236.77.86:29824/628008321
+http://222.213.105.65:7788/628008321
 #EXTINF:-1 tvg-name="江苏综艺频道" group-title="地方频道",江苏综艺频道
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=2026110308025685bf789510b843a099b8c10e31b9e82e&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261103080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=171.8.79.254&SecurityKey=20261103080256&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=80e659580df912916af48b259b45f24b
 #EXTINF:-1 tvg-name="江苏综艺频道" group-title="地方频道",江苏综艺频道
-http://103.236.77.86:29824/626065193
+http://113.98.11.46:3000/626065193
 #EXTINF:-1 tvg-name="汪清综合" group-title="地方频道",汪清综合
 http://stream5.jlntv.cn/wq/sd/live.m3u8
 #EXTINF:-1 tvg-name="汶川新闻综合" group-title="地方频道",汶川新闻综合
-http://live.iwcmt.cn:90/live/zhxw.m3u8
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 #EXTINF:-1 tvg-name="汶川新闻综合" group-title="地方频道",汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 tvg-name="汾西综合" group-title="地方频道",汾西综合
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
-#EXTINF:-1 tvg-name="沭阳综合" group-title="地方频道",沭阳综合
-http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-#EXTINF:-1 tvg-name="河北" group-title="地方频道",河北
+#EXTINF:-1 tvg-name="河北4K" group-title="地方频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="河北公共" group-title="地方频道",河北公共
 http://1.94.31.214/php/hebei.php?id=hbgg
 #EXTINF:-1 tvg-name="河北农民" group-title="地方频道",河北农民
 http://ls.qingting.fm/live/1650.m3u8
 #EXTINF:-1 tvg-name="河北农民" group-title="地方频道",河北农民
-https://ls.qingting.fm/live/1650/64k.m3u8
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 tvg-name="河北影视" group-title="地方频道",河北影视
 http://1.94.31.214/php/hebei.php?id=hbys
 #EXTINF:-1 tvg-name="河北经济" group-title="地方频道",河北经济
@@ -1372,9 +1288,9 @@ https://radio.pull.hebtv.com/live/hebnczx.m3u8
 #EXTINF:-1 tvg-name="河北都市" group-title="地方频道",河北都市
 http://1.94.31.214/php/hebei.php?id=hbds
 #EXTINF:-1 tvg-name="河南乡村频道" group-title="地方频道",河南乡村频道
-http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=0306138ce078b14cbba8a0f510b15176&wsTime=1793685843
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=cfe6a5c22dbf97cf1e4dad162aae6f7e&wsTime=1793689457
 #EXTINF:-1 tvg-name="法治频道" group-title="地方频道",法治频道
-http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=5faec8699a281961570841ed6572d4e1&wsTime=1793685843
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=3980dc1297f77a1d5e688ba172e932b8&wsTime=1793689457
 #EXTINF:-1 tvg-name="泗洪新闻综合" group-title="地方频道",泗洪新闻综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="泰山主峰" group-title="地方频道",泰山主峰
@@ -1399,32 +1315,34 @@ https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
 http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 #EXTINF:-1 tvg-name="流水迢迢" group-title="地方频道",流水迢迢
 https://live.ottiptv.cc/huya/23865036
+#EXTINF:-1 tvg-name="浙江 Ⅰ 绍兴影视" group-title="地方频道",浙江 Ⅰ 绍兴影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 tvg-name="浙江 Ⅰ 绍兴综合" group-title="地方频道",浙江 Ⅰ 绍兴综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 tvg-name="浙江新闻" group-title="地方频道",浙江新闻
-http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
-#EXTINF:-1 tvg-name="浙江民生" group-title="地方频道",浙江民生
-http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江公共新闻" group-title="地方频道",浙江公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江生活" group-title="地方频道",浙江生活
 http://ls.qingting.fm/live/1099.m3u8
+#EXTINF:-1 tvg-name="浙江经济" group-title="地方频道",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江舟山东极岛" group-title="地方频道",浙江舟山东极岛
 https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" group-title="地方频道",浙江钱江都市
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 #EXTINF:-1 tvg-name="海南公共" group-title="地方频道",海南公共
 http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 #EXTINF:-1 tvg-name="海南广播电视总台文旅频道" group-title="地方频道",海南广播电视总台文旅频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=20261103080259baa70356f345409aa3451167bdd881a4&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20261103080259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=171.8.79.254&SecurityKey=20261103080259&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=33f978619f5388e61ff8a02d8be5a6d7
 #EXTINF:-1 tvg-name="海南广播电视总台文旅频道" group-title="地方频道",海南广播电视总台文旅频道
-http://222.213.105.65:7788/962067526
+http://113.98.11.46:3000/962067526
 #EXTINF:-1 tvg-name="海南广播电视总台社会与法频道" group-title="地方频道",海南广播电视总台社会与法频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=202611030802591eb580daddee40389ab72ef1d320da52&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20261103080259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20261103080259&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1a596b09220d3b360ef35338643e7102
 #EXTINF:-1 tvg-name="海南广播电视总台社会与法频道" group-title="地方频道",海南广播电视总台社会与法频道
-http://103.236.77.86:29824/962045223
+http://222.213.105.65:7788/962045223
 #EXTINF:-1 tvg-name="海南广播电视总台自贸频道" group-title="地方频道",海南广播电视总台自贸频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=202611030802580a8b6aca3aff4c4f80badcef8bd957bf&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20261103080258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=171.8.79.254&SecurityKey=20261103080258&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=80267027168eacedabfc7b2e026e8c66
 #EXTINF:-1 tvg-name="海南广播电视总台自贸频道" group-title="地方频道",海南广播电视总台自贸频道
-http://103.236.77.86:29824/962045226
+http://113.98.11.46:3000/962045226
 #EXTINF:-1 tvg-name="海南文旅" group-title="地方频道",海南文旅
 http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 #EXTINF:-1 tvg-name="海南新闻" group-title="地方频道",海南新闻
@@ -1433,18 +1351,14 @@ http://ls.qingting.fm/live/1861.m3u8
 http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 #EXTINF:-1 tvg-name="海宁新闻综合" group-title="地方频道",海宁新闻综合
 https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
-#EXTINF:-1 tvg-name="海洋里的神奇家族" group-title="地方频道",海洋里的神奇家族
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
 #EXTINF:-1 tvg-name="涟水电视台综合" group-title="地方频道",涟水电视台综合
-http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
+http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="涟水电视台综合" group-title="地方频道",涟水电视台综合
-https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8
-#EXTINF:-1 tvg-name="涟水综合" group-title="地方频道",涟水综合
-http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
-#EXTINF:-1 tvg-name="淮安影院娱乐" group-title="地方频道",淮安影院娱乐
-http://live1.habctv.com/ysylsl/sd/live.m3u8
+http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="淮安影院娱乐" group-title="地方频道",淮安影院娱乐
 http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="淮安影院娱乐" group-title="地方频道",淮安影院娱乐
+http://live1.habctv.com/ysylsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="清河经济综艺" group-title="地方频道",清河经济综艺
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="渭源新闻" group-title="地方频道",渭源新闻
@@ -1473,52 +1387,50 @@ https://live.ottiptv.cc/yy/1382735626
 https://ls.qingting.fm/live/5043/64k.m3u8
 #EXTINF:-1 tvg-name="热门港剧✔原" group-title="地方频道",热门港剧✔原
 https://live.ottiptv.cc/douyu/5522351
-#EXTINF:-1 tvg-name="熊猫直播" group-title="地方频道",熊猫直播
-https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道1" group-title="地方频道",熊猫频道1
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao01/1000/index.m3u8?msisdn=202611030803028a3bb7f848c748b4b01ebb912d587997&mdspid=&spid=699004&netType=0&sid=2200200699&pid=2028597139&timestamp=20261103080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608933610&ParentNodeID=-99&assertID=2200200699&client_ip=171.8.79.254&SecurityKey=20261103080302&promotionId=&mvid=2200200699&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eb751b51c8f8c75c7cca521863b05f6d
-#EXTINF:-1 tvg-name="熊猫频道1" group-title="地方频道",熊猫频道1
-http://103.236.77.86:29824/608933610
 #EXTINF:-1 tvg-name="熊猫频道01" group-title="地方频道",熊猫频道01
 http://hlsztemgsplive.miguvideo.com:8080/ws_x/2018/xiongmao/HD/1000/index.m3u8?msisdn=20261103080302c1f348763e28429f9566f25d9e227c78&mdspid=&spid=699004&netType=0&sid=2202634723&pid=2028597139&timestamp=20261103080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609158151&ParentNodeID=-99&assertID=2202634723&client_ip=171.8.79.254&SecurityKey=20261103080302&promotionId=&mvid=2202634723&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0713543faa3d356f97de21a0fa2c318d
 #EXTINF:-1 tvg-name="熊猫频道01" group-title="地方频道",熊猫频道01
-http://103.236.77.86:29824/609158151
+http://222.213.105.65:7788/609158151
+#EXTINF:-1 tvg-name="熊猫频道1" group-title="地方频道",熊猫频道1
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao01/1000/index.m3u8?msisdn=202611030803028a3bb7f848c748b4b01ebb912d587997&mdspid=&spid=699004&netType=0&sid=2200200699&pid=2028597139&timestamp=20261103080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608933610&ParentNodeID=-99&assertID=2200200699&client_ip=171.8.79.254&SecurityKey=20261103080302&promotionId=&mvid=2200200699&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eb751b51c8f8c75c7cca521863b05f6d
+#EXTINF:-1 tvg-name="熊猫频道1" group-title="地方频道",熊猫频道1
+http://222.213.105.65:7788/608933610
 #EXTINF:-1 tvg-name="熊猫频道2" group-title="地方频道",熊猫频道2
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao02/1000/index.m3u8?msisdn=20261103080302a313d86f9de04b2c874cc3a85263aad2&mdspid=&spid=699004&netType=0&sid=2200200717&pid=2028597139&timestamp=20261103080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608933640&ParentNodeID=-99&assertID=2200200717&client_ip=171.8.79.254&SecurityKey=20261103080302&promotionId=&mvid=2200200717&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=adda184d387ef66dd380e916da0e5c22
 #EXTINF:-1 tvg-name="熊猫频道2" group-title="地方频道",熊猫频道2
-http://103.236.77.86:29824/608933640
+http://222.213.105.65:7788/608933640
 #EXTINF:-1 tvg-name="熊猫频道3" group-title="地方频道",熊猫频道3
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao03/1000/index.m3u8?msisdn=20261103080302f368526517d045608a32d7e826c4aec6&mdspid=&spid=699004&netType=0&sid=2200200738&pid=2028597139&timestamp=20261103080302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608934619&ParentNodeID=-99&assertID=2200200738&client_ip=171.8.79.254&SecurityKey=20261103080302&promotionId=&mvid=2200200738&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e7a1e1c0dc9b2a67fe77901e00a40a62
 #EXTINF:-1 tvg-name="熊猫频道3" group-title="地方频道",熊猫频道3
-http://103.236.77.86:29824/608934619
+http://113.98.11.46:3000/608934619
 #EXTINF:-1 tvg-name="熊猫频道4" group-title="地方频道",熊猫频道4
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao04/1000/index.m3u8?msisdn=20261103080303e3f44f2d6b074151a28910417a9d3662&mdspid=&spid=699004&netType=0&sid=2200200771&pid=2028597139&timestamp=20261103080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608934721&ParentNodeID=-99&assertID=2200200771&client_ip=171.8.79.254&SecurityKey=20261103080303&promotionId=&mvid=2200200771&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=55d8deb47653604f4100057de495b446
 #EXTINF:-1 tvg-name="熊猫频道4" group-title="地方频道",熊猫频道4
-http://113.98.11.46:3000/608934721
+http://222.213.105.65:7788/608934721
 #EXTINF:-1 tvg-name="熊猫频道5" group-title="地方频道",熊猫频道5
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao05/1000/index.m3u8?msisdn=2026110308030346240101978644c38ae42deb146e9838&mdspid=&spid=699004&netType=0&sid=2200200791&pid=2028597139&timestamp=20261103080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608935104&ParentNodeID=-99&assertID=2200200791&client_ip=171.8.79.254&SecurityKey=20261103080303&promotionId=&mvid=2200200791&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=716b823d88219cbb8e63727c784bf5dd
 #EXTINF:-1 tvg-name="熊猫频道5" group-title="地方频道",熊猫频道5
-http://103.236.77.86:29824/608935104
+http://222.213.105.65:7788/608935104
 #EXTINF:-1 tvg-name="熊猫频道6" group-title="地方频道",熊猫频道6
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao06/1000/index.m3u8?msisdn=20261103080303f817cce607004ddc81c72a992ea62c96&mdspid=&spid=699004&netType=0&sid=2200200817&pid=2028597139&timestamp=20261103080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608935797&ParentNodeID=-99&assertID=2200200817&client_ip=171.8.79.254&SecurityKey=20261103080303&promotionId=&mvid=2200200817&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=64d939886c9d055713e6f863358bf323
 #EXTINF:-1 tvg-name="熊猫频道6" group-title="地方频道",熊猫频道6
-http://103.236.77.86:29824/608935797
+http://222.213.105.65:7788/608935797
 #EXTINF:-1 tvg-name="熊猫频道7" group-title="地方频道",熊猫频道7
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao07/1000/index.m3u8?msisdn=202611030803034f195cb4a34f4698992935d877e63015&mdspid=&spid=699004&netType=0&sid=2200192831&pid=2028597139&timestamp=20261103080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169286&ParentNodeID=-99&assertID=2200192831&client_ip=171.8.79.254&SecurityKey=20261103080303&promotionId=&mvid=2200192831&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d3a43210f62b583bb97130096c886db5
 #EXTINF:-1 tvg-name="熊猫频道7" group-title="地方频道",熊猫频道7
-http://103.236.77.86:29824/609169286
+http://222.213.105.65:7788/609169286
 #EXTINF:-1 tvg-name="熊猫频道8" group-title="地方频道",熊猫频道8
-http://103.236.77.86:29824/609169287
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao08/1000/index.m3u8?msisdn=202611030803035d7e4cb2615e4d6081688379b6941da0&mdspid=&spid=699004&netType=0&sid=2200192881&pid=2028597139&timestamp=20261103080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169287&ParentNodeID=-99&assertID=2200192881&client_ip=171.8.79.254&SecurityKey=20261103080303&promotionId=&mvid=2200192881&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8dcc724c00b1eff589db81deaf34b2a3
 #EXTINF:-1 tvg-name="熊猫频道8" group-title="地方频道",熊猫频道8
 http://222.213.105.65:7788/609169287
 #EXTINF:-1 tvg-name="熊猫频道9" group-title="地方频道",熊猫频道9
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=20261103080303c9be1ddbc7464df894b77dd01c4a5bef&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20261103080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=171.8.79.254&SecurityKey=20261103080303&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9326e20d150a01b094c63baacf9c663a
 #EXTINF:-1 tvg-name="熊猫频道9" group-title="地方频道",熊猫频道9
-http://103.236.77.86:29824/609169226
+http://222.213.105.65:7788/609169226
 #EXTINF:-1 tvg-name="熊猫频道10" group-title="地方频道",熊猫频道10
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao10/1000/index.m3u8?msisdn=2026110308030360a00425bd0547a2a8d943d736d8e8b2&mdspid=&spid=699004&netType=0&sid=2200192937&pid=2028597139&timestamp=20261103080303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169285&ParentNodeID=-99&assertID=2200192937&client_ip=171.8.79.254&SecurityKey=20261103080303&promotionId=&mvid=2200192937&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=89a250ae7fe1cf21a9adba0a8e97f6dc
 #EXTINF:-1 tvg-name="熊猫频道10" group-title="地方频道",熊猫频道10
-http://103.236.77.86:29824/609169285
+http://113.98.11.46:3000/609169285
 #EXTINF:-1 tvg-name="爱情公寓" group-title="地方频道",爱情公寓
 https://live.ottiptv.cc/huya/11336726
 #EXTINF:-1 tvg-name="爱情公寓(斗鱼)" group-title="地方频道",爱情公寓(斗鱼)
@@ -1531,18 +1443,12 @@ https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
 https://live.ottiptv.cc/huya/11352879
 #EXTINF:-1 tvg-name="猫和老鼠" group-title="地方频道",猫和老鼠
 https://live.metshop.top/huya/11352879
-#EXTINF:-1 tvg-name="王菲-容易受伤的女人" group-title="地方频道",王菲-容易受伤的女人
-http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
-#EXTINF:-1 tvg-name="王菲-执迷不悔" group-title="地方频道",王菲-执迷不悔
-http://vodcdn.video.taobao.com/oss/ali-video/15bf7da88b44048edaabe73d6b17c00b/video.m3u8
-#EXTINF:-1 tvg-name="王麟-伤不起" group-title="地方频道",王麟-伤不起
-http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
 #EXTINF:-1 tvg-name="玛纳斯综合" group-title="地方频道",玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 #EXTINF:-1 tvg-name="玫瑰的故事" group-title="地方频道",玫瑰的故事
 https://live.ottiptv.cc/huya/23865142
 #EXTINF:-1 tvg-name="环球旅游" group-title="地方频道",环球旅游
-http://120.76.248.139/live/bfgd/4200000147.m3u8
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/hqly/50/20250915/index.m3u8?msisdn=20261103080304c4c5f5296bdd438db22e6c8531e9d33c&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20261103080304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=171.8.79.254&SecurityKey=20261103080304&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dab20b52c63c37410f3995ca58cd6bbe
 #EXTINF:-1 tvg-name="环球旅游" group-title="地方频道",环球旅游
 http://222.213.105.65:7788/958475356
 #EXTINF:-1 tvg-name="环球电视" group-title="地方频道",环球电视
@@ -1558,17 +1464,15 @@ https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 #EXTINF:-1 tvg-name="甘肃都市" group-title="地方频道",甘肃都市
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 #EXTINF:-1 tvg-name="电视剧频道" group-title="地方频道",电视剧频道
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=cd78c2c66817b941db6e1d48f8a00940&wsTime=1793685843
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=1fd6869811abe713e65f2bc66d71d782&wsTime=1793689457
 #EXTINF:-1 tvg-name="番禺综合" group-title="地方频道",番禺综合
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-#EXTINF:-1 tvg-name="白银综合" group-title="地方频道",白银综合
-http://play.kankanlive.com/live/1720408089419110.m3u8
 #EXTINF:-1 tvg-name="直播中国" group-title="地方频道",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="直播中国精编直播" group-title="地方频道",直播中国精编直播
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:-1 tvg-name="睛彩中原" group-title="地方频道",睛彩中原
-https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=14ca4b56cb9635d1e6f7b47fcad284d5&wsTime=1793685843
+https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=30d4a6ba73dde005268023fc466adbe1&wsTime=1793689457
 #EXTINF:-1 tvg-name="磐石综合" group-title="地方频道",磐石综合
 http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
 #EXTINF:-1 tvg-name="祁门综合" group-title="地方频道",祁门综合
@@ -1591,10 +1495,8 @@ https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 #EXTINF:-1 tvg-name="福建经济" group-title="地方频道",福建经济
 http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
-#EXTINF:-1 tvg-name="秦安综合" group-title="地方频道",秦安综合
-https://play.kankanlive.com/live/1659926941626981.m3u8
 #EXTINF:-1 tvg-name="笑傲江湖" group-title="地方频道",笑傲江湖
-https://live.metshop.top/huya/26355790
+https://live.ottiptv.cc/huya/26355790
 #EXTINF:-1 tvg-name="笑傲江湖" group-title="地方频道",笑傲江湖
 https://live.metshop.top/huya/23865142
 #EXTINF:-1 tvg-name="笑看风云" group-title="地方频道",笑看风云
@@ -1614,9 +1516,9 @@ http://1.14.124.206:35455/huya/11602081
 #EXTINF:-1 tvg-name="缙云新闻综合" group-title="地方频道",缙云新闻综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 tvg-name="缙云综合" group-title="地方频道",缙云综合
-http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
-#EXTINF:-1 tvg-name="缙云综合" group-title="地方频道",缙云综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="缙云综合" group-title="地方频道",缙云综合
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="网神影厅" group-title="地方频道",网神影厅
 https://live.ottiptv.cc/douyu/508118
 #EXTINF:-1 tvg-name="美亚C+" group-title="地方频道",美亚C+
@@ -1652,9 +1554,7 @@ https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.
 #EXTINF:-1 tvg-name="荥阳综合" group-title="地方频道",荥阳综合
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 #EXTINF:-1 tvg-name="荥阳综合" group-title="地方频道",荥阳综合
-http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-#EXTINF:-1 tvg-name="菏泽经济生活" group-title="地方频道",菏泽经济生活
-http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 #EXTINF:-1 tvg-name="萧山新闻综合" group-title="地方频道",萧山新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-name="萧山新闻综合" group-title="地方频道",萧山新闻综合
@@ -1662,7 +1562,7 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="萧山生活" group-title="地方频道",萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-name="萧山生活" group-title="地方频道",萧山生活
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="萧山综合" group-title="地方频道",萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-name="衡水公共" group-title="地方频道",衡水公共
@@ -1675,8 +1575,6 @@ http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 #EXTINF:-1 tvg-name="西峰综合" group-title="地方频道",西峰综合
 https://play.kankanlive.com/live/1683944827526991.m3u8
-#EXTINF:-1 tvg-name="西游记" group-title="地方频道",西游记
-http://173.208.234.146/live/vlxyj.m3u8
 #EXTINF:-1 tvg-name="西游记" group-title="地方频道",西游记
 https://live.ottiptv.cc/huya/26355861
 #EXTINF:-1 tvg-name="西游记后传" group-title="地方频道",西游记后传
@@ -1698,7 +1596,7 @@ https://live.ottiptv.cc/douyu/4332
 #EXTINF:-1 tvg-name="财富天下" group-title="地方频道",财富天下
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cftx/50/20250804/index.m3u8?msisdn=2026110308025866be05224fb14777ab6f3d9b07dcd955&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20261103080258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=171.8.79.254&SecurityKey=20261103080258&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=64dc958d8a151af9f2a30624c65507ba
 #EXTINF:-1 tvg-name="财富天下" group-title="地方频道",财富天下
-http://103.236.77.86:29824/956923159
+http://222.213.105.65:7788/956923159
 #EXTINF:-1 tvg-name="贵州省兴义市万峰林" group-title="地方频道",贵州省兴义市万峰林
 https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 #EXTINF:-1 tvg-name="赵本删不删" group-title="地方频道",赵本删不删
@@ -1743,16 +1641,12 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="都市剧场" group-title="地方频道",都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="都市剧场" group-title="地方频道",都市剧场
-http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="都市频道" group-title="地方频道",都市频道
-http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=e4c35d5e83046882d5f175d37858a1e7&wsTime=1793685843
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=d5722e1aaa601f0f13c7a0f27725388a&wsTime=1793689457
 #EXTINF:-1 tvg-name="都江堰鱼嘴" group-title="地方频道",都江堰鱼嘴
 https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" group-title="地方频道",重温经典
 http://8.138.7.223/tv/cwjd.php
-#EXTINF:-1 tvg-name="野生白狮" group-title="地方频道",野生白狮
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a9a5e806d97d41f5827532f1cb3f9afa/1200.m3u8
 #EXTINF:-1 tvg-name="金川乡村" group-title="地方频道",金川乡村
 http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 #EXTINF:-1 tvg-name="金川新闻综合" group-title="地方频道",金川新闻综合
@@ -1767,6 +1661,10 @@ http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 https://ls.qingting.fm/live/21303/64k.m3u8
 #EXTINF:-1 tvg-name="镇江二套社会民生" group-title="地方频道",镇江二套社会民生
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 tvg-name="镇江新闻综合" group-title="地方频道",镇江新闻综合
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 tvg-name="镇江新闻综合" group-title="地方频道",镇江新闻综合
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=202611030802587a3ae6425dac407f8c53afcfcdcc4fc1&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20261103080258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=171.8.79.254&SecurityKey=20261103080258&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6c05a52a07c14056701bde6e76a767a8
 #EXTINF:-1 tvg-name="长子综合" group-title="地方频道",长子综合
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="长影频道" group-title="地方频道",长影频道
@@ -1777,22 +1675,16 @@ https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 http://ls.qingting.fm/live/4877.m3u8
 #EXTINF:-1 tvg-name="长白山电视台" group-title="地方频道",长白山电视台
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="闯关东" group-title="地方频道",闯关东
-http://173.208.234.146/live/lbchuangguandong.m3u8
+#EXTINF:-1 tvg-name="长白朝语" group-title="地方频道",长白朝语
+http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 #EXTINF:-1 tvg-name="阿七点歌台" group-title="地方频道",阿七点歌台
 https://live.ottiptv.cc/douyu/3186217
 #EXTINF:-1 tvg-name="陀枪师姐" group-title="地方频道",陀枪师姐
 http://1.14.124.206:35455/huya/29465857
 #EXTINF:-1 tvg-name="陀枪师姐" group-title="地方频道",陀枪师姐
 https://live.metshop.top/huya/29465857
-#EXTINF:-1 tvg-name="陈倩倩-婴儿" group-title="地方频道",陈倩倩-婴儿
-http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
 #EXTINF:-1 tvg-name="陈情令" group-title="地方频道",陈情令
 https://live.ottiptv.cc/huya/29465862
-#EXTINF:-1 tvg-name="陈慧娴-千千阙歌" group-title="地方频道",陈慧娴-千千阙歌
-http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
-#EXTINF:-1 tvg-name="陈慧娴-归来吧" group-title="地方频道",陈慧娴-归来吧
-http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
 #EXTINF:-1 tvg-name="陕西公共" group-title="地方频道",陕西公共
 http://ls.qingting.fm/live/1222.m3u8
 #EXTINF:-1 tvg-name="陕西洋县国宝朱鹮02" group-title="地方频道",陕西洋县国宝朱鹮02
@@ -1800,15 +1692,15 @@ https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
 #EXTINF:-1 tvg-name="陕西秦腔频道" group-title="地方频道",陕西秦腔频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxqqpd/50/20250804/index.m3u8?msisdn=2026110308025886117592ea2240dabf2f657969dd973b&mdspid=&spid=600572&netType=0&sid=5910022188&pid=2028597139&timestamp=20261103080258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909303&ParentNodeID=-99&assertID=5910022188&client_ip=171.8.79.254&SecurityKey=20261103080258&promotionId=&mvid=5900006711&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b89db1cb88841bdec068b570660c988f
 #EXTINF:-1 tvg-name="陕西秦腔频道" group-title="地方频道",陕西秦腔频道
-http://103.236.77.86:29824/956909303
+http://222.213.105.65:7788/956909303
 #EXTINF:-1 tvg-name="陕西都市青春频道" group-title="地方频道",陕西都市青春频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxdsqc/50/20250804/index.m3u8?msisdn=20261103080258b00e541e1bef4bccb432a622fee5f2fd&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20261103080258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=171.8.79.254&SecurityKey=20261103080258&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=468474698372ce92a432932856d86894
 #EXTINF:-1 tvg-name="陕西都市青春频道" group-title="地方频道",陕西都市青春频道
-http://103.236.77.86:29824/956909358
+http://222.213.105.65:7788/956909358
 #EXTINF:-1 tvg-name="陕西银龄频道" group-title="地方频道",陕西银龄频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxylpd/50/20250804/index.m3u8?msisdn=20261103080257c0d82b8a7e3b49948714426ae2138a8c&mdspid=&spid=600572&netType=0&sid=5910022191&pid=2028597139&timestamp=20261103080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909362&ParentNodeID=-99&assertID=5910022191&client_ip=171.8.79.254&SecurityKey=20261103080257&promotionId=&mvid=5900006714&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=269edec04e54976f397b75091c24bbae
 #EXTINF:-1 tvg-name="陕西银龄频道" group-title="地方频道",陕西银龄频道
-http://103.236.77.86:29824/956909362
+http://222.213.105.65:7788/956909362
 #EXTINF:-1 tvg-name="隋唐英雄传" group-title="地方频道",隋唐英雄传
 https://live.ottiptv.cc/yy/1352475619
 #EXTINF:-1 tvg-name="雅安新闻综合" group-title="地方频道",雅安新闻综合
@@ -1829,10 +1721,6 @@ https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 #EXTINF:-1 tvg-name="青田电视台" group-title="地方频道",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 tvg-name="靖天戏剧" group-title="地方频道",靖天戏剧
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
-#EXTINF:-1 tvg-name="靖天映画" group-title="地方频道",靖天映画
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 #EXTINF:-1 tvg-name="靖宇综合" group-title="地方频道",靖宇综合
 http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
 #EXTINF:-1 tvg-name="靖江新闻综合" group-title="地方频道",靖江新闻综合
@@ -1855,8 +1743,6 @@ https://live.ottiptv.cc/huya/11352871
 https://live.ottiptv.cc/huya/29465863
 #EXTINF:-1 tvg-name="鸣沙山" group-title="地方频道",鸣沙山
 https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-#EXTINF:-1 tvg-name="鹿鼎记" group-title="地方频道",鹿鼎记
-https://live.ottiptv.cc/yy/28265277
 #EXTINF:-1 tvg-name="黄山" group-title="地方频道",黄山
 https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 #EXTINF:-1 tvg-name="黄山始信新道" group-title="地方频道",黄山始信新道
@@ -1888,21 +1774,17 @@ http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="龙游新闻综合" group-title="地方频道",龙游新闻综合
 https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 #EXTINF:-1 tvg-name="龙游生活娱乐" group-title="地方频道",龙游生活娱乐
-https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-#EXTINF:-1 tvg-name="龙游生活娱乐" group-title="地方频道",龙游生活娱乐
 http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="龙游生活娱乐" group-title="地方频道",龙游生活娱乐
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 #EXTINF:-1 tvg-name="体育休闲频道" group-title="体育频道",体育休闲频道
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=20261103100300836c1d864d8a4749b271a7916c4c7d8e&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20261103100300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20261103100300&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=38aea9b0f76b702a7f4b8c2ee9142be0
 #EXTINF:-1 tvg-name="体育休闲频道" group-title="体育频道",体育休闲频道
-http://113.98.11.46:3000/626064707
-#EXTINF:-1 tvg-name="天津体育" group-title="体育频道",天津体育
-http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="天津体育" group-title="体育频道",天津体育
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-#EXTINF:-1 tvg-name="广东体育" group-title="体育频道",广东体育
-https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+http://222.213.105.65:7788/626064707
+#EXTINF:-1 tvg-name="精品体育" group-title="体育频道",精品体育
+https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 #EXTINF:-1 tvg-name="赛事最经典" group-title="体育频道",赛事最经典
-http://222.213.105.65:7788/646596895
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/saishijingdian/600/index.m3u8?msisdn=202611031002565cc4f913e83945c1b33f245687901540&mdspid=&spid=699004&netType=0&sid=5500592947&pid=2028597139&timestamp=20261103100256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=646596895&ParentNodeID=-99&assertID=5500592947&client_ip=171.8.79.254&SecurityKey=20261103100256&promotionId=&mvid=5101034296&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=14c340c28eeca15cfdcca8a7001e700a
 #EXTINF:-1 tvg-name="赛事最经典" group-title="体育频道",赛事最经典
 http://113.98.11.46:3000/646596895
 #EXTINF:-1 tvg-name="辽宁体育" group-title="体育频道",辽宁体育
@@ -1910,21 +1792,19 @@ http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲频道" group-title="体育频道",陕西体育休闲频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=2026110310025658f8bca1eed14f9abd3f5d9b263529ae&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20261103100256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20261103100256&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=47704e752f2d587c207f554ea41c6f05
 #EXTINF:-1 tvg-name="陕西体育休闲频道" group-title="体育频道",陕西体育休闲频道
-http://103.236.77.86:29824/956909356
-#EXTINF:-1 tvg-name="NOW新闻台" group-title="新闻财经",NOW新闻台
-http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
+http://222.213.105.65:7788/956909356
 #EXTINF:-1 tvg-name="TVBS新闻" group-title="新闻财经",TVBS新闻
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-name="三立新闻" group-title="新闻财经",三立新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" group-title="新闻财经",上海新闻综合
 http://222.213.105.65:7788/651632657
 #EXTINF:-1 tvg-name="上海新闻综合" group-title="新闻财经",上海新闻综合
-http://113.98.11.46:3000/651632657
+http://www.ikerobot.com:1234/651632657
 #EXTINF:-1 tvg-name="上海第一财经" group-title="新闻财经",上海第一财经
 http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2026110310030043157060c9c44e08961955f8c84d49f4&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261103100300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261103100300&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e20c98f80fc5fe3ce05558679308673c
 #EXTINF:-1 tvg-name="上海第一财经" group-title="新闻财经",上海第一财经
-http://www.ikerobot.com:1234/608780988
+http://222.213.105.65:7788/608780988
 #EXTINF:-1 tvg-name="上虞1新闻综合 [Not 24/7]" group-title="新闻财经",上虞1新闻综合 [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-name="上视新闻综合" group-title="新闻财经",上视新闻综合
@@ -1933,24 +1813,20 @@ http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8
 http://211.72.174.95:8138/0.ts
 #EXTINF:-1 tvg-name="东森新闻" group-title="新闻财经",东森新闻
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-#EXTINF:-1 tvg-name="东森财经新闻" group-title="新闻财经",东森财经新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-name="中天新闻" group-title="新闻财经",中天新闻
 http://111.0.115.129:8081/live/000ztxw.m3u8
 #EXTINF:-1 tvg-name="中天新闻" group-title="新闻财经",中天新闻
 http://iactive-clink.com:8081/live/111ztxw.m3u8
 #EXTINF:-1 tvg-name="中视新闻" group-title="新闻财经",中视新闻
 https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-name="中视新闻" group-title="新闻财经",中视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-name="义乌新闻综合" group-title="新闻财经",义乌新闻综合
-https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 #EXTINF:-1 tvg-name="公共新闻频道" group-title="新闻财经",公共新闻频道
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=202611030802566cfbd10fd30c41a1a711e2573df60d11&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20261103080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=171.8.79.254&SecurityKey=20261103080256&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=656f2631e33f34f472dae245ffe9361f
 #EXTINF:-1 tvg-name="公共新闻频道" group-title="新闻财经",公共新闻频道
-http://103.236.77.86:29824/626064693
+http://113.98.11.46:3000/626064693
 #EXTINF:-1 tvg-name="农安新闻综合 [Geo-blocked]" group-title="新闻财经",农安新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/naxw/sd/live.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="新闻财经",凤凰资讯
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-name="半·新闻" group-title="新闻财经",半·新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="华视新闻" group-title="新闻财经",华视新闻
@@ -1958,45 +1834,35 @@ https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合频道" group-title="新闻财经",南京新闻综合频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=20261103100300feeae3c9b62f476ea98794b80e2deedd&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20261103100300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=171.8.79.254&SecurityKey=20261103100300&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a83bb1cc2fad41c4af23521398fe2bbf
 #EXTINF:-1 tvg-name="南京新闻综合频道" group-title="新闻财经",南京新闻综合频道
-http://103.236.77.86:29824/838109047
+http://222.213.105.65:7788/838109047
 #EXTINF:-1 tvg-name="南通新闻综合" group-title="新闻财经",南通新闻综合
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ntxwzh/50/20250604/index.m3u8?msisdn=20261103080257a25e0999c84745bea710dc40f58d951a&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20261103080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=171.8.79.254&SecurityKey=20261103080257&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f130e6f0582d6323a0a4ddf6870ecf10
 #EXTINF:-1 tvg-name="南通新闻综合" group-title="新闻财经",南通新闻综合
-http://103.236.77.86:29824/955227985
+http://222.213.105.65:7788/955227985
 #EXTINF:-1 tvg-name="台视新闻" group-title="新闻财经",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="吉林市新闻综合 [Geo-blocked]" group-title="新闻财经",吉林市新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 tvg-name="四平新闻综合 [Geo-blocked]" group-title="新闻财经",四平新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/sptv/sd/live.m3u8
-#EXTINF:-1 tvg-name="安顺新闻" group-title="新闻财经",安顺新闻
-https://hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 tvg-name="宜兴新闻综合" group-title="新闻财经",宜兴新闻综合
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/50/20250604/index.m3u8?msisdn=20261103080257ffcb10ff0385413587e79f66efc7efef&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20261103080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20261103080257&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=40c574e50890757e4f25a3ce141e4645
 #EXTINF:-1 tvg-name="宜兴新闻综合" group-title="新闻财经",宜兴新闻综合
-http://103.236.77.86:29824/955227996
-#EXTINF:-1 tvg-name="宿州新闻综合" group-title="新闻财经",宿州新闻综合
+http://222.213.105.65:7788/955227996
+#EXTINF:-1 tvg-name="宿州新闻综合 [Not 24/7]" group-title="新闻财经",宿州新闻综合 [Not 24/7]
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:-1 tvg-name="宿迁新闻综合" group-title="新闻财经",宿迁新闻综合
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=20261103080256ed49624458f04460b5cc432caf1a28dd&mdspid=&spid=699067&netType=0&sid=5500469357&pid=2028597139&timestamp=20261103080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731832&ParentNodeID=-99&assertID=5500469357&client_ip=171.8.79.254&SecurityKey=20261103080256&promotionId=&mvid=5102012616&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d3508c43d83b985f83404f9ddeced4d4
 #EXTINF:-1 tvg-name="宿迁新闻综合" group-title="新闻财经",宿迁新闻综合
-http://103.236.77.86:29824/639731832
-#EXTINF:-1 tvg-name="寰宇新闻台" group-title="新闻财经",寰宇新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-name="广东新闻" group-title="新闻财经",广东新闻
-http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="广西新闻" group-title="新闻财经",广西新闻
-http://192.151.150.154/live/gxxw.m3u8
-#EXTINF:-1 tvg-name="广西新闻" group-title="新闻财经",广西新闻
-http://198.204.228.26/live/gxxw.m3u8
+http://222.213.105.65:7788/639731832
 #EXTINF:-1 tvg-name="延边新闻综合 [Geo-blocked]" group-title="新闻财经",延边新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/jlyb/sd/live.m3u8
 #EXTINF:-1 tvg-name="徐州新闻综合" group-title="新闻财经",徐州新闻综合
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/xzxinwenzonghe/600/index.m3u8?msisdn=20261103080257bf9b61ff882a4fc89c2c1750be5302e5&mdspid=&spid=699067&netType=0&sid=5500469368&pid=2028597139&timestamp=20261103080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731747&ParentNodeID=-99&assertID=5500469368&client_ip=171.8.79.254&SecurityKey=20261103080257&promotionId=&mvid=5102012620&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c488a5e56d1729cd017a57434bfa5f63
 #EXTINF:-1 tvg-name="徐州新闻综合" group-title="新闻财经",徐州新闻综合
-http://103.236.77.86:29824/639731747
+http://222.213.105.65:7788/639731747
 #EXTINF:-1 tvg-name="新闻频道" group-title="新闻财经",新闻频道
-http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=e77e9074631ebc201f1b051ddaa9c3f2&wsTime=1793685843
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=9ddf5c1d6a0444af0f47e3e5e8d8ee8b&wsTime=1793689457
 #EXTINF:-1 tvg-name="朝阳新闻综合" group-title="新闻财经",朝阳新闻综合
 http://120.76.248.139/live/bfgd/4200000282.m3u8
 #EXTINF:-1 tvg-name="松原新闻综合 [Geo-blocked]" group-title="新闻财经",松原新闻综合 [Geo-blocked]
@@ -2007,8 +1873,6 @@ https://live.wjyanghu.com/live/CH1.m3u8
 http://211.72.174.95:8117/0.ts
 #EXTINF:-1 tvg-name="民视新闻" group-title="新闻财经",民视新闻
 https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-name="民视新闻HD" group-title="新闻财经",民视新闻HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-name="江津新闻综合" group-title="新闻财经",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 tvg-name="泰州新闻综合" group-title="新闻财经",泰州新闻综合
@@ -2018,17 +1882,17 @@ http://222.213.105.65:7788/639731818
 #EXTINF:-1 tvg-name="海南广播电视总台新闻频道" group-title="新闻财经",海南广播电视总台新闻频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=20261103080258e8019b5a4a2343e48a64c891725ad2a1&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261103080258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20261103080258&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2f49796729a1d1666fcdf2768aace7b7
 #EXTINF:-1 tvg-name="海南广播电视总台新闻频道" group-title="新闻财经",海南广播电视总台新闻频道
-http://www.ikerobot.com:1234/962067517
+http://222.213.105.65:7788/962067517
 #EXTINF:-1 tvg-name="淮安新闻综合" group-title="新闻财经",淮安新闻综合
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=20261103080256628d0261ab0d405b877a9b0d8d9faa36&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20261103080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=171.8.79.254&SecurityKey=20261103080256&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4a24fb9b4b303c032031787d385e78c6
 #EXTINF:-1 tvg-name="淮安新闻综合" group-title="新闻财经",淮安新闻综合
-http://103.236.77.86:29824/639731826
+http://222.213.105.65:7788/639731826
 #EXTINF:-1 tvg-name="湘潭新闻综合" group-title="新闻财经",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="溧水新闻综合" group-title="新闻财经",溧水新闻综合
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/50/20250604/index.m3u8?msisdn=20261103080257dbe97adacfcc4dc6a4075d9b0236cc04&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20261103080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20261103080257&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d4ddced74db241a385c821b5b06d37ae
 #EXTINF:-1 tvg-name="溧水新闻综合" group-title="新闻财经",溧水新闻综合
-http://103.236.77.86:29824/639737327
+http://222.213.105.65:7788/639737327
 #EXTINF:-1 tvg-name="白城新闻综合 [Geo-blocked]" group-title="新闻财经",白城新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 #EXTINF:-1 tvg-name="白山新闻综合 [Geo-blocked]" group-title="新闻财经",白山新闻综合 [Geo-blocked]
@@ -2036,25 +1900,17 @@ https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 #EXTINF:-1 tvg-name="盐城新闻综合" group-title="新闻财经",盐城新闻综合
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ycxwzh/50/20250604/index.m3u8?msisdn=202611030802569233036b3a5c4822bd863701fac162b3&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20261103080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=171.8.79.254&SecurityKey=20261103080256&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=168151c58b446e4ff95da8df753a9595
 #EXTINF:-1 tvg-name="盐城新闻综合" group-title="新闻财经",盐城新闻综合
-http://103.236.77.86:29824/639731825
+http://113.98.11.46:3000/639731825
 #EXTINF:-1 tvg-name="耀才财经" group-title="新闻财经",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-#EXTINF:-1 tvg-name="菏泽新闻综合" group-title="新闻财经",菏泽新闻综合
-http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 #EXTINF:-1 tvg-name="辽源新闻综合 [Geo-blocked]" group-title="新闻财经",辽源新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 #EXTINF:-1 tvg-name="连云港新闻综合" group-title="新闻财经",连云港新闻综合
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=202611030802569eeadca2605248d3b5e70917abee42c0&mdspid=&spid=699067&netType=0&sid=5500469369&pid=2028597139&timestamp=20261103080256&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731715&ParentNodeID=-99&assertID=5500469369&client_ip=171.8.79.254&SecurityKey=20261103080256&promotionId=&mvid=5102012621&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=963405da2f79af64471900408b39ae58
 #EXTINF:-1 tvg-name="连云港新闻综合" group-title="新闻财经",连云港新闻综合
-http://103.236.77.86:29824/639731715
+http://222.213.105.65:7788/639731715
 #EXTINF:-1 tvg-name="通化新闻 [Geo-blocked]" group-title="新闻财经",通化新闻 [Geo-blocked]
 https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:-1 tvg-name="重庆新闻" group-title="新闻财经",重庆新闻
-http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="镇江新闻综合" group-title="新闻财经",镇江新闻综合
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=202611030802587a3ae6425dac407f8c53afcfcdcc4fc1&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20261103080258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=171.8.79.254&SecurityKey=20261103080258&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6c05a52a07c14056701bde6e76a767a8
-#EXTINF:-1 tvg-name="镇江新闻综合" group-title="新闻财经",镇江新闻综合
-http://103.236.77.86:29824/639731783
 #EXTINF:-1 tvg-name="陕西新闻资讯频道" group-title="新闻财经",陕西新闻资讯频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxxwzx/50/20250804/index.m3u8?msisdn=202611030802584653ba205d8349d08e6f3bd7f26d1472&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20261103080258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=171.8.79.254&SecurityKey=20261103080258&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=810dd11cd6c7540345f147d791d7a811
 #EXTINF:-1 tvg-name="陕西新闻资讯频道" group-title="新闻财经",陕西新闻资讯频道
@@ -2066,9 +1922,9 @@ http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="电影频道",CHC动作电影
 http://192.151.150.154/live/chcdz.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影频道",CHC家庭影院
-http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="电影频道",CHC家庭影院
-http://192.151.150.154/live/chcjt.m3u8
+http://107.150.60.122/live/chcjt.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电影频道",CHC影迷电影
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202611030803005a20d97d18dc4efcb78e9365227eba7e&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261103080300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20261103080300&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=35ba8c762bf11482764dcb5ada43b8cb
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="电影频道",CHC影迷电影
@@ -2077,6 +1933,10 @@ http://222.213.105.65:7788/952383261
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="HBO SIGNATURE" group-title="电影频道",HBO SIGNATURE
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-name="人在囧途" group-title="电影频道",人在囧途
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+#EXTINF:-1 tvg-name="人在囧途之泰囧" group-title="电影频道",人在囧途之泰囧
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 #EXTINF:-1 tvg-name="倚天屠龙记" group-title="电影频道",倚天屠龙记
 https://live.metshop.top/huya/23734246
 #EXTINF:-1 tvg-name="刘德华电影" group-title="电影频道",刘德华电影
@@ -2087,8 +1947,6 @@ https://live.metshop.top/huya/29465852
 https://live.metshop.top/huya/11352941
 #EXTINF:-1 tvg-name="南宁影视娱乐" group-title="电影频道",南宁影视娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 tvg-name="南宁影院" group-title="电影频道",南宁影院
-http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 #EXTINF:-1 tvg-name="古天乐电影" group-title="电影频道",古天乐电影
 https://live.metshop.top/huya/29982675
 #EXTINF:-1 tvg-name="周星驰电影" group-title="电影频道",周星驰电影
@@ -2099,6 +1957,8 @@ http://107.150.60.122/live/lbzxc.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/lbzrf.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="周润发电影" group-title="电影频道",周润发电影
 http://192.151.150.154/live/lbzrf.m3u8
+#EXTINF:-1 tvg-name="哈尔滨影视" group-title="电影频道",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="大唐双龙传" group-title="电影频道",大唐双龙传
 https://live.metshop.top/huya/29465850
 #EXTINF:-1 tvg-name="大时代" group-title="电影频道",大时代
@@ -2109,6 +1969,8 @@ https://live.metshop.top/huya/29465853
 https://live.metshop.top/huya/11342428
 #EXTINF:-1 tvg-name="寻秦记" group-title="电影频道",寻秦记
 https://live.metshop.top/huya/29465848
+#EXTINF:-1 tvg-name="射雕英雄传" group-title="电影频道",射雕英雄传
+https://live.metshop.top/huya/23824164
 #EXTINF:-1 tvg-name="强森电影" group-title="电影频道",强森电影
 https://live.metshop.top/huya/21059581
 #EXTINF:-1 tvg-name="怡宝影院" group-title="电影频道",怡宝影院
@@ -2118,7 +1980,7 @@ https://live.metshop.top/huya/21059577
 #EXTINF:-1 tvg-name="成龙电影" group-title="电影频道",成龙电影
 http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="成龙电影" group-title="电影频道",成龙电影
-http://107.150.60.122/live/lbcl.m3u8
+http://192.151.150.154/live/lbcl.m3u8
 #EXTINF:-1 tvg-name="战争电影" group-title="电影频道",战争电影
 https://live.metshop.top/huya/21059574
 #EXTINF:-1 tvg-name="扫黄先锋" group-title="电影频道",扫黄先锋
@@ -2134,15 +1996,13 @@ https://live.metshop.top/huya/11342390
 #EXTINF:-1 tvg-name="林正英影院" group-title="电影频道",林正英影院
 http://38.75.136.137:98/gslb/dsdqpub/lblzy.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="林正英影院" group-title="电影频道",林正英影院
-http://198.204.228.26/live/lblzy.m3u8
+http://107.150.60.122/live/lblzy.m3u8
 #EXTINF:-1 tvg-name="林正英电影" group-title="电影频道",林正英电影
 https://live.metshop.top/huya/11342421
 #EXTINF:-1 tvg-name="枪战电影" group-title="电影频道",枪战电影
 https://live.metshop.top/huya/21059579
 #EXTINF:-1 tvg-name="楚汉骄雄" group-title="电影频道",楚汉骄雄
 https://live.metshop.top/huya/29465854
-#EXTINF:-1 tvg-name="欢笑剧场" group-title="电影频道",欢笑剧场
-http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="武侠电影" group-title="电影频道",武侠电影
 https://live.metshop.top/huya/11342427
 #EXTINF:-1 tvg-name="沈腾电影" group-title="电影频道",沈腾电影
@@ -2172,17 +2032,21 @@ http://8.155.43.98:35455/huya/11336587
 #EXTINF:-1 tvg-name="电影_周星星" group-title="电影频道",电影_周星星
 http://1.14.124.206:35455/huya/11336587
 #EXTINF:-1 tvg-name="电影_喜剧" group-title="电影频道",电影_喜剧
+http://8.155.43.98:35455/huya/11352877
+#EXTINF:-1 tvg-name="电影_喜剧" group-title="电影频道",电影_喜剧
 http://1.14.124.206:35455/huya/11352877
 #EXTINF:-1 tvg-name="电影_国产" group-title="电影频道",电影_国产
-http://8.155.43.98:35455/huya/11352973
-#EXTINF:-1 tvg-name="电影_国产" group-title="电影频道",电影_国产
 http://1.14.124.206:35455/huya/11352973
+#EXTINF:-1 tvg-name="电影_国产" group-title="电影频道",电影_国产
+http://8.155.43.98:35455/huya/11352973
 #EXTINF:-1 tvg-name="电影_宇宙" group-title="电影频道",电影_宇宙
 http://8.155.43.98:35455/huya/11342428
 #EXTINF:-1 tvg-name="电影_强森" group-title="电影频道",电影_强森
 http://8.155.43.98:35455/huya/21059581
 #EXTINF:-1 tvg-name="电影_强森" group-title="电影频道",电影_强森
 http://1.14.124.206:35455/huya/21059581
+#EXTINF:-1 tvg-name="电影_怪兽" group-title="电影频道",电影_怪兽
+http://8.155.43.98:35455/huya/21059577
 #EXTINF:-1 tvg-name="电影_成龙" group-title="电影频道",电影_成龙
 http://8.155.43.98:35455/huya/11342386
 #EXTINF:-1 tvg-name="电影_成龙" group-title="电影频道",电影_成龙
@@ -2199,10 +2063,12 @@ http://1.14.124.206:35455/huya/11342412
 http://8.155.43.98:35455/huya/11342390
 #EXTINF:-1 tvg-name="电影_李连杰" group-title="电影频道",电影_李连杰
 http://1.14.124.206:35455/huya/11342390
-#EXTINF:-1 tvg-name="电影_梁家辉" group-title="电影频道",电影_梁家辉
-http://8.155.43.98:35455/huya/11342429
+#EXTINF:-1 tvg-name="电影_枪战" group-title="电影频道",电影_枪战
+http://1.14.124.206:35455/huya/21059579
 #EXTINF:-1 tvg-name="电影_梁家辉" group-title="电影频道",电影_梁家辉
 http://1.14.124.206:35455/huya/11342429
+#EXTINF:-1 tvg-name="电影_梁家辉" group-title="电影频道",电影_梁家辉
+http://live.metshop.top/huya/11342429?cdn=alicdn
 #EXTINF:-1 tvg-name="电影_武侠" group-title="电影频道",电影_武侠
 http://8.155.43.98:35455/huya/11342427
 #EXTINF:-1 tvg-name="电影_沈腾" group-title="电影频道",电影_沈腾
@@ -2210,13 +2076,13 @@ http://8.155.43.98:35455/huya/11601968
 #EXTINF:-1 tvg-name="电影_沈腾" group-title="电影频道",电影_沈腾
 http://1.14.124.206:35455/huya/11601968
 #EXTINF:-1 tvg-name="电影_洪金宝" group-title="电影频道",电影_洪金宝
-http://1.14.124.206:35455/huya/11279251
-#EXTINF:-1 tvg-name="电影_洪金宝" group-title="电影频道",电影_洪金宝
 http://8.155.43.98:35455/huya/11279251
-#EXTINF:-1 tvg-name="电影_海盗" group-title="电影频道",电影_海盗
-http://1.14.124.206:35455/huya/21059595
+#EXTINF:-1 tvg-name="电影_洪金宝" group-title="电影频道",电影_洪金宝
+http://1.14.124.206:35455/huya/11279251
 #EXTINF:-1 tvg-name="电影_海盗" group-title="电影频道",电影_海盗
 http://8.155.43.98:35455/huya/21059595
+#EXTINF:-1 tvg-name="电影_港片" group-title="电影频道",电影_港片
+http://1.14.124.206:35455/huya/11602043
 #EXTINF:-1 tvg-name="电影_港片" group-title="电影频道",电影_港片
 http://8.155.43.98:35455/huya/11602043
 #EXTINF:-1 tvg-name="电影_玄幻" group-title="电影频道",电影_玄幻
@@ -2227,30 +2093,20 @@ http://1.14.124.206:35455/huya/11342414
 http://8.155.43.98:35455/huya/11602058
 #EXTINF:-1 tvg-name="电影_王晶" group-title="电影频道",电影_王晶
 http://1.14.124.206:35455/huya/11602058
-#EXTINF:-1 tvg-name="电影_盗墓" group-title="电影频道",电影_盗墓
-http://1.14.124.206:35455/huya/21059552
-#EXTINF:-1 tvg-name="电影_盗墓" group-title="电影频道",电影_盗墓
-http://8.155.43.98:35455/huya/21059552
-#EXTINF:-1 tvg-name="电影_罪犯" group-title="电影频道",电影_罪犯
-http://8.155.43.98:35455/huya/11352962
-#EXTINF:-1 tvg-name="电影_罪犯" group-title="电影频道",电影_罪犯
-http://1.14.124.206:35455/huya/11352962
-#EXTINF:-1 tvg-name="电影_英叔" group-title="电影频道",电影_英叔
-http://1.14.124.206:35455/huya/11342421
 #EXTINF:-1 tvg-name="电影_英叔" group-title="电影频道",电影_英叔
 http://8.155.43.98:35455/huya/11342421
-#EXTINF:-1 tvg-name="电影_谍战" group-title="电影频道",电影_谍战
-http://8.155.43.98:35455/huya/21059585
+#EXTINF:-1 tvg-name="电影_英叔" group-title="电影频道",电影_英叔
+http://1.14.124.206:35455/huya/11342421
 #EXTINF:-1 tvg-name="电影_谍战" group-title="电影频道",电影_谍战
 http://1.14.124.206:35455/huya/21059585
-#EXTINF:-1 tvg-name="电影_贺岁" group-title="电影频道",电影_贺岁
-http://8.155.43.98:35455/huya/11601971
+#EXTINF:-1 tvg-name="电影_谍战" group-title="电影频道",电影_谍战
+http://8.155.43.98:35455/huya/21059585
 #EXTINF:-1 tvg-name="电影_贺岁" group-title="电影频道",电影_贺岁
 http://1.14.124.206:35455/huya/11601971
+#EXTINF:-1 tvg-name="电影_贺岁" group-title="电影频道",电影_贺岁
+http://live.metshop.top/huya/11601971?cdn=alicdn
 #EXTINF:-1 tvg-name="电影_赛车" group-title="电影频道",电影_赛车
 http://8.155.43.98:35455/huya/11279247
-#EXTINF:-1 tvg-name="电影_赛车" group-title="电影频道",电影_赛车
-http://1.14.124.206:35455/huya/11279247
 #EXTINF:-1 tvg-name="电影_黄渤" group-title="电影频道",电影_黄渤
 http://8.155.43.98:35455/huya/11352876
 #EXTINF:-1 tvg-name="电影_黄渤" group-title="电影频道",电影_黄渤
@@ -2263,10 +2119,8 @@ http://live.metshop.top/huya/11601977?cdn=alicdn
 http://live.metshop.top/huya/21059574?cdn=alicdn
 #EXTINF:-1 tvg-name="粤语电影" group-title="电影频道",粤语电影
 https://live.ottiptv.cc/douyu/1226741
-#EXTINF:-1 tvg-name="绍兴影院" group-title="电影频道",绍兴影院
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 tvg-name="经典香港电影" group-title="电影频道",经典香港电影
-http://103.236.77.86:29824/625703337
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=20261103080134bfb7ecb07189470d92704c6c65a886f4&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20261103080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20261103080134&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2679226642f35d975991b12f48b491bb
 #EXTINF:-1 tvg-name="经典香港电影" group-title="电影频道",经典香港电影
 http://222.213.105.65:7788/625703337
 #EXTINF:-1 tvg-name="罪犯电影" group-title="电影频道",罪犯电影
@@ -2297,20 +2151,24 @@ https://live.ottiptv.cc/douyu/1274132
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 #EXTINF:-1 tvg-name="黄渤电影" group-title="电影频道",黄渤电影
 https://live.metshop.top/huya/11352876
-#EXTINF:-1 tvg-name="黑莓电影" group-title="电影频道",黑莓电影
-https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="纪录频道",CGTN纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="纪录频道",CGTN纪录
+https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="RT Doc-Русский(俄语纪录)" group-title="纪录频道",RT Doc-Русский(俄语纪录)
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-name="RT Documentary(英语纪录)" group-title="纪录频道",RT Documentary(英语纪录)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="东丰" group-title="纪录频道",东丰
 http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="之江纪录" group-title="纪录频道",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 #EXTINF:-1 tvg-name="九台" group-title="纪录频道",九台
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="北京纪实科教" group-title="纪录频道",北京纪实科教
 http://38.75.136.137:98/gslb/dsdqpub/btv3.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="北京纪实科教" group-title="纪录频道",北京纪实科教
-http://192.151.150.154/live/btv3.m3u8
+http://198.204.228.26/live/btv3.m3u8
 #EXTINF:-1 tvg-name="双辽" group-title="纪录频道",双辽
 http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="奎屯汉语" group-title="纪录频道",奎屯汉语
@@ -2331,6 +2189,8 @@ http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 #EXTINF:-1 tvg-name="磐石" group-title="纪录频道",磐石
 http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="纪实科教" group-title="纪录频道",纪实科教
+http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 tvg-name="舒兰新闻" group-title="纪录频道",舒兰新闻
 http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="辉南新闻" group-title="纪录频道",辉南新闻
@@ -2346,31 +2206,27 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965
 #EXTINF:-1 tvg-name="优漫卡通" group-title="儿童频道",优漫卡通
 http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="优漫卡通" group-title="儿童频道",优漫卡通
-http://107.150.60.122/live/ymkt.m3u8
+http://198.204.228.26/live/ymkt.m3u8
 #EXTINF:-1 tvg-name="优漫卡通频道" group-title="儿童频道",优漫卡通频道
-http://222.213.105.65:7788/626064703
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=202611030802576f04077fc98e46aaa6cc0e057d1f9799&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20261103080257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=171.8.79.254&SecurityKey=20261103080257&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=31d458c77164d2a030ac24fc82aa9317
 #EXTINF:-1 tvg-name="优漫卡通频道" group-title="儿童频道",优漫卡通频道
-http://www.ikerobot.com:1234/626064703
+http://113.98.11.46:3000/626064703
 #EXTINF:-1 tvg-name="北京卡酷少儿" group-title="儿童频道",北京卡酷少儿
 http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="北京卡酷少儿" group-title="儿童频道",北京卡酷少儿
-http://198.204.228.26/live/btvkk.m3u8
+http://107.150.60.122/live/btvkk.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="儿童频道",嘉佳卡通
 http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20261103080304136d827b4e6044ddb9ebfa92ad180969&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20261103080304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=171.8.79.254&SecurityKey=20261103080304&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=43cbea1d236390b56c3f7eeaa18a3895
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="儿童频道",嘉佳卡通
-http://103.236.77.86:29824/614952364
-#EXTINF:-1 tvg-name="广东少儿" group-title="儿童频道",广东少儿
-http://gmxw.7766.org:808/hls/175/index.m3u8
+http://222.213.105.65:7788/614952364
 #EXTINF:-1 tvg-name="河北少儿" group-title="儿童频道",河北少儿
 http://1.94.31.214/php/hebei.php?id=sekj
-#EXTINF:-1 tvg-name="浙江少儿" group-title="儿童频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 #EXTINF:-1 tvg-name="海南少儿" group-title="儿童频道",海南少儿
 http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 #EXTINF:-1 tvg-name="海南广播电视总台少儿频道" group-title="儿童频道",海南广播电视总台少儿频道
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=2026110308025912490b3cc2b841abbcf497066e7214c1&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261103080259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20261103080259&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=16f6ef375937afe4bbfeb82eb28f516d
 #EXTINF:-1 tvg-name="海南广播电视总台少儿频道" group-title="儿童频道",海南广播电视总台少儿频道
-http://103.236.77.86:29824/962067523
+http://222.213.105.65:7788/962067523
 #EXTINF:-1 tvg-name="海绵宝宝" group-title="儿童频道",海绵宝宝
 https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-name="福州少儿" group-title="儿童频道",福州少儿
@@ -2378,7 +2234,7 @@ http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="经典动画大集合" group-title="儿童频道",经典动画大集合
 http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=20261103080304167f140bb55941b297e6b9258d7b3b2d&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20261103080304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=171.8.79.254&SecurityKey=20261103080304&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ca4f035e1c8616518295c8e783a81fbb
 #EXTINF:-1 tvg-name="经典动画大集合" group-title="儿童频道",经典动画大集合
-http://103.236.77.86:29824/629942219
+http://113.98.11.46:3000/629942219
 #EXTINF:-1 tvg-name="韩国EBS少儿" group-title="儿童频道",韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" group-title="儿童频道",黑龙江少儿
