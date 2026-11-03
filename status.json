@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 01:59:57",
- "duration_s": 301.0,
+ "updated": "2026-11-04 02:34:43",
+ "duration_s": 272.1,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,54 +8,54 @@
   },
   "vbskycn/iptv": {
    "entries": 499,
-   "alive": 242
+   "alive": 241
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1903,
-   "alive": 59
+   "alive": 58
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 8
+   "alive": 7
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
    "alive": 3
   },
   "Supprise0901/TVBox_live": {
-   "entries": 265,
-   "alive": 130
+   "entries": 264,
+   "alive": 131
   },
   "zilong7728/Collect-IPTV": {
    "entries": 670,
-   "alive": 135
+   "alive": 151
   },
   "iptv-org/cn": {
    "entries": 518,
-   "alive": 63
+   "alive": 65
   },
   "mavin521/syiptv": {
    "entries": 229,
-   "alive": 84
+   "alive": 119
   },
   "hdangezz/iptv-api": {
    "entries": 438,
-   "alive": 85
+   "alive": 82
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
-   "alive": 47
+   "alive": 46
   },
   "istevenweb/Live": {
    "entries": 94,
-   "alive": 33
+   "alive": 6
   }
  },
  "failed_sources": [],
- "tested": 4574,
- "raw_entries": 5430,
+ "tested": 4573,
+ "raw_entries": 5429,
  "excluded": 16,
- "frozen_removed": 177,
+ "frozen_removed": 254,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -459,22 +459,22 @@
   }
  ],
  "deep_check": false,
- "alive": 2143,
- "alive_raw": 2320,
- "discarded": 2254,
+ "alive": 2110,
+ "alive_raw": 2364,
+ "discarded": 2209,
  "deep_rejected": 0,
- "channels": 801,
- "streams": 1021,
+ "channels": 824,
+ "streams": 1032,
  "groups": {
   "香港": 15,
   "央视": 38,
   "卫视": 46,
   "山东": 9,
-  "电影": 77,
-  "其他": 65,
+  "电影": 78,
+  "其他": 73,
   "广西": 8,
-  "黑龙江": 16,
-  "国内其他": 154,
+  "黑龙江": 15,
+  "国内其他": 174,
   "少儿": 10,
   "福建": 8,
   "韩国": 1,
@@ -484,29 +484,31 @@
   "浙江": 36,
   "吉林": 37,
   "广东": 15,
-  "四川": 21,
+  "四川": 22,
   "河北": 23,
   "新疆": 9,
   "安徽": 20,
   "北京": 5,
   "江苏": 41,
-  "甘肃": 8,
-  "河南": 4,
+  "甘肃": 6,
+  "河南": 6,
   "云南": 6,
   "湖北": 4,
   "天津": 4,
   "海南": 12,
-  "湖南": 24,
+  "湖南": 25,
   "青海": 1,
   "江西": 1,
   "陕西": 7,
-  "体育": 18,
+  "体育": 15,
   "辽宁": 9,
   "教育": 3,
-  "台湾": 20,
+  "台湾": 13,
   "宁夏": 1,
+  "美国": 1,
   "西藏": 1,
-  "贵州": 3
+  "贵州": 3,
+  "法国": 2
  },
- "median_ms": 408
+ "median_ms": 334
 }
