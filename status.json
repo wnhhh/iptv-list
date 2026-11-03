@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-03 17:09:59",
- "duration_s": 236.4,
+ "updated": "2026-11-03 17:13:53",
+ "duration_s": 209.1,
  "sources": {
   "手动补充": {
-   "entries": 2,
-   "alive": 1
+   "entries": 3,
+   "alive": 2
   },
   "vbskycn/iptv": {
    "entries": 560,
-   "alive": 416
+   "alive": 420
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1915,
-   "alive": 105
+   "alive": 104
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 7
+   "alive": 10
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
@@ -24,11 +24,11 @@
   },
   "Supprise0901/TVBox_live": {
    "entries": 266,
-   "alive": 134
+   "alive": 136
   },
   "zilong7728/Collect-IPTV": {
    "entries": 667,
-   "alive": 122
+   "alive": 129
   },
   "iptv-org/cn": {
    "entries": 518,
@@ -40,11 +40,11 @@
   },
   "hdangezz/iptv-api": {
    "entries": 434,
-   "alive": 113
+   "alive": 107
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
-   "alive": 71
+   "alive": 61
   },
   "istevenweb/Live": {
    "entries": 94,
@@ -53,25 +53,25 @@
  },
  "failed_sources": [],
  "tested": 4633,
- "raw_entries": 5651,
+ "raw_entries": 5652,
  "excluded": 170,
  "deep_check": false,
- "alive": 2411,
- "alive_raw": 2411,
- "discarded": 2222,
+ "alive": 2416,
+ "alive_raw": 2416,
+ "discarded": 2217,
  "deep_rejected": 0,
  "channels": 1248,
  "groups": {
   "香港": 24,
-  "央视": 66,
-  "卫视": 90,
+  "广东": 29,
+  "央视": 65,
+  "卫视": 92,
   "山东": 15,
   "电影": 106,
   "浙江": 121,
   "广西": 11,
   "黑龙江": 19,
-  "广东": 41,
-  "国内其他": 278,
+  "国内其他": 279,
   "数字": 1,
   "少儿": 13,
   "福建": 11,
@@ -89,7 +89,7 @@
   "江苏": 57,
   "甘肃": 10,
   "云南": 9,
-  "河南": 8,
+  "河南": 9,
   "湖北": 6,
   "天津": 5,
   "海南": 14,
@@ -99,15 +99,16 @@
   "辽宁": 15,
   "陕西": 8,
   "体育": 7,
-  "台湾": 14,
+  "台湾": 16,
   "音乐": 4,
-  "其他": 69,
+  "其他": 75,
   "教育": 3,
   "宁夏": 1,
   "文旅": 1,
+  "美国": 1,
   "西藏": 1,
   "贵州": 3,
   "法国": 2
  },
- "median_ms": 195
+ "median_ms": 174
 }
