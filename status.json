@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 23:39:47",
- "duration_s": 300.4,
+ "updated": "2026-11-03 23:57:24",
+ "duration_s": 313.3,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,54 +8,54 @@
   },
   "vbskycn/iptv": {
    "entries": 561,
-   "alive": 258
+   "alive": 260
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1903,
-   "alive": 59
+   "alive": 60
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 12
+   "alive": 7
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 3
+   "alive": 4
   },
   "Supprise0901/TVBox_live": {
    "entries": 265,
-   "alive": 137
+   "alive": 133
   },
   "zilong7728/Collect-IPTV": {
-   "entries": 669,
+   "entries": 670,
    "alive": 129
   },
   "iptv-org/cn": {
    "entries": 518,
-   "alive": 66
+   "alive": 65
   },
   "mavin521/syiptv": {
    "entries": 229,
-   "alive": 92
+   "alive": 90
   },
   "hdangezz/iptv-api": {
    "entries": 438,
-   "alive": 78
+   "alive": 82
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
-   "alive": 44
+   "alive": 45
   },
   "istevenweb/Live": {
    "entries": 94,
-   "alive": 8
+   "alive": 6
   }
  },
  "failed_sources": [],
- "tested": 4601,
- "raw_entries": 5568,
- "excluded": 93,
- "frozen_removed": 251,
+ "tested": 4599,
+ "raw_entries": 5492,
+ "excluded": 16,
+ "frozen_removed": 250,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -459,35 +459,36 @@
   }
  ],
  "deep_check": false,
- "alive": 2109,
- "alive_raw": 2360,
- "discarded": 2241,
+ "alive": 2107,
+ "alive_raw": 2357,
+ "discarded": 2242,
  "deep_rejected": 0,
- "channels": 800,
- "streams": 1006,
+ "channels": 795,
+ "streams": 1002,
  "groups": {
   "香港": 15,
   "体育": 16,
   "央视": 38,
   "卫视": 46,
   "山东": 9,
-  "电影": 95,
+  "电影": 94,
+  "其他": 75,
   "广西": 8,
   "黑龙江": 14,
-  "国内其他": 150,
+  "国内其他": 146,
   "少儿": 10,
   "福建": 8,
   "韩国": 1,
   "重庆": 9,
   "山西": 9,
   "上海": 3,
-  "浙江": 36,
+  "浙江": 37,
   "吉林": 37,
   "广东": 16,
   "四川": 20,
-  "安徽": 21,
   "河北": 23,
   "新疆": 9,
+  "安徽": 19,
   "北京": 5,
   "江苏": 41,
   "甘肃": 7,
@@ -502,11 +503,10 @@
   "陕西": 7,
   "辽宁": 9,
   "教育": 3,
-  "其他": 74,
   "台湾": 13,
   "宁夏": 1,
   "西藏": 1,
   "贵州": 3
  },
- "median_ms": 343
+ "median_ms": 307
 }
