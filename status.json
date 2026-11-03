@@ -1,30 +1,30 @@
 {
- "updated": "2026-11-03 12:02:22",
- "duration_s": 143.5,
+ "updated": "2026-11-03 12:06:21",
+ "duration_s": 131.6,
  "sources": {
   "vbskycn/iptv": {
    "entries": 481,
-   "alive": 419
+   "alive": 415
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 56
+   "alive": 31
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 7
+   "alive": 6
   },
   "Supprise0901/TVBox_live": {
    "entries": 277,
-   "alive": 206
+   "alive": 182
   },
   "zilong7728/Collect-IPTV": {
    "entries": 656,
-   "alive": 170
+   "alive": 168
   },
   "iptv-org/cn": {
    "entries": 518,
-   "alive": 87
+   "alive": 85
   }
  },
  "failed_sources": [],
@@ -32,16 +32,16 @@
  "raw_entries": 2244,
  "excluded": 154,
  "deep_check": false,
- "alive": 1046,
- "alive_raw": 1046,
- "discarded": 586,
+ "alive": 1041,
+ "alive_raw": 1041,
+ "discarded": 591,
  "deep_rejected": 0,
- "channels": 945,
+ "channels": 887,
  "groups": {
-  "央视": 96,
+  "央视": 39,
   "卫视": 81,
   "广东": 2,
-  "香港": 3,
+  "香港": 4,
   "台湾": 7,
   "体育": 4,
   "电影": 89,
@@ -52,7 +52,7 @@
   "文旅": 2,
   "教育": 3,
   "数字": 1,
-  "其他": 84,
+  "其他": 85,
   "北京": 3,
   "河北": 12,
   "辽宁": 9,
@@ -65,7 +65,7 @@
   "福建": 2,
   "江西": 1,
   "山东": 3,
-  "河南": 2,
+  "河南": 1,
   "湖北": 1,
   "湖南": 15,
   "广西": 2,
@@ -77,8 +77,9 @@
   "甘肃": 3,
   "宁夏": 1,
   "新疆": 9,
-  "国内其他": 381,
+  "国内其他": 378,
+  "美国": 1,
   "韩国": 1
  },
- "median_ms": 141
+ "median_ms": 150
 }
