@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 20:37:26",
- "duration_s": 305.2,
+ "updated": "2026-11-03 21:12:58",
+ "duration_s": 315.2,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,7 +8,7 @@
   },
   "vbskycn/iptv": {
    "entries": 561,
-   "alive": 273
+   "alive": 267
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1919,
@@ -16,7 +16,7 @@
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 10
+   "alive": 18
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
@@ -24,11 +24,11 @@
   },
   "Supprise0901/TVBox_live": {
    "entries": 265,
-   "alive": 127
+   "alive": 130
   },
   "zilong7728/Collect-IPTV": {
    "entries": 669,
-   "alive": 111
+   "alive": 109
   },
   "iptv-org/cn": {
    "entries": 518,
@@ -40,22 +40,22 @@
   },
   "hdangezz/iptv-api": {
    "entries": 438,
-   "alive": 82
+   "alive": 79
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
-   "alive": 45
+   "alive": 47
   },
   "istevenweb/Live": {
    "entries": 94,
-   "alive": 6
+   "alive": 7
   }
  },
  "failed_sources": [],
  "tested": 4619,
  "raw_entries": 5584,
  "excluded": 93,
- "frozen_removed": 267,
+ "frozen_removed": 272,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -459,11 +459,11 @@
   }
  ],
  "deep_check": false,
- "alive": 2079,
- "alive_raw": 2346,
- "discarded": 2273,
+ "alive": 2050,
+ "alive_raw": 2322,
+ "discarded": 2297,
  "deep_rejected": 0,
- "channels": 781,
+ "channels": 783,
  "streams": 986,
  "groups": {
   "香港": 15,
@@ -471,10 +471,10 @@
   "央视": 38,
   "卫视": 46,
   "山东": 9,
-  "电影": 94,
+  "电影": 95,
   "广西": 8,
   "黑龙江": 14,
-  "国内其他": 146,
+  "国内其他": 149,
   "少儿": 10,
   "福建": 8,
   "韩国": 1,
@@ -490,7 +490,7 @@
   "安徽": 20,
   "北京": 5,
   "江苏": 41,
-  "甘肃": 9,
+  "甘肃": 7,
   "河南": 6,
   "云南": 7,
   "湖北": 4,
@@ -498,16 +498,16 @@
   "海南": 12,
   "湖南": 7,
   "青海": 1,
-  "江西": 2,
+  "辽宁": 10,
   "陕西": 7,
-  "辽宁": 9,
+  "江西": 1,
   "教育": 3,
-  "其他": 62,
+  "其他": 61,
   "台湾": 9,
   "宁夏": 1,
   "西藏": 1,
   "贵州": 3,
-  "法国": 1
+  "法国": 2
  },
- "median_ms": 371
+ "median_ms": 472
 }
