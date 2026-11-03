@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03 23:57:24",
- "duration_s": 313.3,
+ "updated": "2026-11-04 00:14:44",
+ "duration_s": 281.2,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,7 +8,7 @@
   },
   "vbskycn/iptv": {
    "entries": 561,
-   "alive": 260
+   "alive": 266
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1903,
@@ -16,19 +16,19 @@
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 7
+   "alive": 9
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 4
+   "alive": 3
   },
   "Supprise0901/TVBox_live": {
    "entries": 265,
-   "alive": 133
+   "alive": 128
   },
   "zilong7728/Collect-IPTV": {
    "entries": 670,
-   "alive": 129
+   "alive": 115
   },
   "iptv-org/cn": {
    "entries": 518,
@@ -36,15 +36,15 @@
   },
   "mavin521/syiptv": {
    "entries": 229,
-   "alive": 90
+   "alive": 120
   },
   "hdangezz/iptv-api": {
    "entries": 438,
-   "alive": 82
+   "alive": 80
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
-   "alive": 45
+   "alive": 46
   },
   "istevenweb/Live": {
    "entries": 94,
@@ -55,7 +55,7 @@
  "tested": 4599,
  "raw_entries": 5492,
  "excluded": 16,
- "frozen_removed": 250,
+ "frozen_removed": 247,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -459,36 +459,35 @@
   }
  ],
  "deep_check": false,
- "alive": 2107,
- "alive_raw": 2357,
- "discarded": 2242,
+ "alive": 2106,
+ "alive_raw": 2353,
+ "discarded": 2246,
  "deep_rejected": 0,
- "channels": 795,
- "streams": 1002,
+ "channels": 815,
+ "streams": 1022,
  "groups": {
   "香港": 15,
   "体育": 16,
   "央视": 38,
   "卫视": 46,
   "山东": 9,
-  "电影": 94,
-  "其他": 75,
+  "电影": 95,
   "广西": 8,
-  "黑龙江": 14,
-  "国内其他": 146,
+  "黑龙江": 15,
+  "国内其他": 174,
   "少儿": 10,
   "福建": 8,
   "韩国": 1,
   "重庆": 9,
   "山西": 9,
   "上海": 3,
-  "浙江": 37,
+  "浙江": 36,
   "吉林": 37,
   "广东": 16,
-  "四川": 20,
+  "四川": 21,
   "河北": 23,
   "新疆": 9,
-  "安徽": 19,
+  "安徽": 20,
   "北京": 5,
   "江苏": 41,
   "甘肃": 7,
@@ -503,10 +502,13 @@
   "陕西": 7,
   "辽宁": 9,
   "教育": 3,
-  "台湾": 13,
+  "其他": 65,
+  "台湾": 9,
   "宁夏": 1,
+  "美国": 1,
   "西藏": 1,
-  "贵州": 3
+  "贵州": 3,
+  "法国": 2
  },
- "median_ms": 307
+ "median_ms": 313
 }
