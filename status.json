@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-03 08:23:42",
- "duration_s": 75.7,
+ "updated": "2026-11-03 08:43:02",
+ "duration_s": 168.4,
  "sources": {
   "vbskycn/iptv": {
    "entries": 557,
-   "alive": 248
+   "alive": 320
   },
   "best-fan/iptv-sources": {
    "entries": 128,
-   "alive": 11
+   "alive": 8
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 5
+   "alive": 1
   },
   "Supprise0901/TVBox_live": {
    "entries": 280,
-   "alive": 127
+   "alive": 132
   },
   "iptv-org/cn": {
    "entries": 518,
@@ -24,69 +24,42 @@
   },
   "zilong7728/Collect-IPTV": {
    "entries": 733,
-   "alive": 120
+   "alive": 114
   },
   "niubihu1/tvbox": {
    "entries": 2075,
-   "alive": 244
+   "alive": 0
+  },
+  "niubihu1/tvbox#lives": {
+   "entries": 4283,
+   "alive": 292
+  },
+  "mrgaoshuiquan/tvbox-config#lives": {
+   "entries": 0,
+   "alive": 0,
+   "skipped": "仓库 70 天未更新（阈值 45 天）"
   }
  },
  "failed_sources": [],
- "tested": 3237,
- "raw_entries": 4130,
+ "tested": 4782,
+ "raw_entries": 8598,
  "deep_check": false,
- "alive": 2112,
- "alive_raw": 2112,
- "discarded": 1125,
+ "alive": 2955,
+ "alive_raw": 2955,
+ "discarded": 1827,
  "deep_rejected": 0,
- "channels": 817,
+ "channels": 929,
  "groups": {
-  "央视频道": 64,
-  "卫视频道": 46,
-  "新闻财经": 54,
-  "电影频道": 100,
-  "儿童频道": 18,
+  "央视频道": 63,
+  "卫视频道": 73,
+  "地方频道": 602,
   "体育频道": 7,
-  "地方/广东": 10,
-  "地方/香港": 8,
-  "地方/北京": 2,
-  "地方/河北": 14,
-  "地方/山西": 5,
-  "地方/内蒙古": 2,
-  "地方/辽宁": 8,
-  "地方/吉林": 29,
-  "地方/黑龙江": 12,
-  "地方/江苏": 26,
-  "地方/浙江": 35,
-  "地方/安徽": 9,
-  "地方/福建": 6,
-  "地方/山东": 10,
-  "地方/河南": 4,
-  "地方/湖北": 4,
-  "地方/湖南": 3,
-  "地方/广西": 3,
-  "地方/海南": 7,
-  "地方/重庆": 5,
-  "地方/四川": 19,
-  "地方/云南": 3,
-  "地方/西藏": 1,
-  "地方/陕西": 4,
-  "地方/甘肃": 8,
-  "地方/青海": 1,
-  "地方/新疆": 10,
-  "地方/台湾": 10,
-  "地方频道": 120,
-  "影视轮播": 89,
+  "新闻财经": 53,
+  "电影频道": 92,
   "纪录频道": 21,
-  "音乐频道": 3,
-  "国际/美国": 4,
-  "国际/韩国": 25,
-  "国际/加拿大": 1,
-  "国际/奥地利": 1,
-  "国际/俄罗斯": 4,
-  "国际/法国": 1,
-  "国际/印度": 1
+  "儿童频道": 15,
+  "音乐频道": 3
  },
- "dead_known": 1044,
- "median_ms": 265
+ "dead_known": 1105,
+ "median_ms": 198
 }
