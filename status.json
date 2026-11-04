@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 09:31:06",
- "duration_s": 279.4,
+ "updated": "2026-11-04 09:44:02",
+ "duration_s": 300.5,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,15 +8,15 @@
   },
   "vbskycn/iptv": {
    "entries": 403,
-   "alive": 183
+   "alive": 185
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1945,
-   "alive": 54
+   "alive": 50
   },
   "best-fan/iptv-sources": {
    "entries": 142,
-   "alive": 3
+   "alive": 4
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
@@ -24,7 +24,7 @@
   },
   "Supprise0901/TVBox_live": {
    "entries": 931,
-   "alive": 173
+   "alive": 180
   },
   "zilong7728/Collect-IPTV": {
    "entries": 653,
@@ -32,15 +32,15 @@
   },
   "iptv-org/cn": {
    "entries": 518,
-   "alive": 66
+   "alive": 65
   },
   "mavin521/syiptv": {
    "entries": 227,
-   "alive": 91
+   "alive": 92
   },
   "hdangezz/iptv-api": {
    "entries": 437,
-   "alive": 77
+   "alive": 76
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
@@ -55,7 +55,7 @@
  "tested": 5206,
  "raw_entries": 6033,
  "excluded": 13,
- "frozen_removed": 237,
+ "frozen_removed": 240,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -434,6 +434,10 @@
    "url": "http://hplayer1.juyun.tv:80/camera/11344136.m3u8"
   },
   {
+   "name": "黑龙江都市",
+   "url": "https://idclive.hljtv.com:4430/live/dushi_hd.m3u8"
+  },
+  {
    "name": "航拍中国第二季",
    "url": "http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8"
   },
@@ -452,86 +456,82 @@
   {
    "name": "之江纪录",
    "url": "http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
-  },
-  {
-   "name": "人与自然",
-   "url": "http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8"
   }
  ],
  "deep_check": false,
- "alive": 2729,
- "alive_raw": 2966,
- "discarded": 2240,
+ "alive": 2708,
+ "alive_raw": 2948,
+ "discarded": 2258,
  "deep_rejected": 0,
- "channels": 761,
- "streams": 979,
+ "channels": 762,
+ "streams": 980,
  "rules": {
-  "name-group": 341,
+  "name-group": 410,
   "name": 59,
-  "vod": 199,
-  "host": 97,
-  "geo": 65,
+  "vod": 128,
+  "host": 98,
+  "geo": 67,
   "renamed": 13
  },
  "groups": {
   "香港": 14,
-  "央视": 35,
-  "卫视": 46,
+  "央视": 43,
+  "卫视": 49,
   "数字付费": 11,
   "广西": 9,
-  "轮播点播": 200,
+  "轮播点播": 128,
   "福建": 8,
-  "黑龙江": 16,
+  "黑龙江": 15,
   "山东": 14,
   "重庆": 9,
   "山西": 9,
-  "浙江": 35,
-  "吉林": 38,
-  "广东": 19,
-  "四川": 25,
+  "上海": 7,
+  "浙江": 36,
+  "吉林": 43,
+  "广东": 21,
+  "四川": 26,
   "河北": 21,
   "新疆": 14,
   "安徽": 17,
-  "北京": 7,
-  "江苏": 25,
+  "北京": 8,
+  "江苏": 42,
   "甘肃": 9,
   "河南": 19,
-  "云南": 3,
+  "云南": 5,
   "湖北": 5,
   "天津": 5,
-  "海南": 6,
-  "电台": 2,
-  "湖南": 9,
+  "海南": 11,
+  "湖南": 31,
   "青海": 2,
-  "国内其他": 4,
-  "江西": 2,
-  "上海": 4,
-  "陕西": 3,
-  "体育": 11,
-  "少儿": 3,
-  "辽宁": 9,
-  "其他": 3,
+  "辽宁": 10,
+  "陕西": 7,
+  "内蒙古": 5,
+  "体育": 15,
+  "江西": 1,
+  "教育": 3,
   "澳大利亚": 1,
   "台湾": 14,
   "奥地利": 2,
   "卡塔尔": 1,
   "俄罗斯": 8,
-  "美国": 35,
+  "少儿": 1,
+  "美国": 36,
   "加拿大": 3,
   "新加坡": 1,
   "法国": 1,
   "南非": 1,
   "印度": 1,
-  "全国频道": 2,
+  "其他": 1,
+  "全国频道": 1,
   "贵州": 3,
-  "内蒙古": 4,
   "西藏": 1,
   "韩国": 2,
   "德国": 2,
   "英国": 3,
   "土耳其": 2,
   "泰国": 1,
+  "国内其他": 2,
   "电影": 2
  },
- "median_ms": 287
+ "median_ms": 232
 }
