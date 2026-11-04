@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 07:47:38",
- "duration_s": 279.4,
+ "updated": "2026-11-04 08:22:33",
+ "duration_s": 281.5,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,39 +8,39 @@
   },
   "vbskycn/iptv": {
    "entries": 403,
-   "alive": 188
+   "alive": 184
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1945,
-   "alive": 54
+   "alive": 49
   },
   "best-fan/iptv-sources": {
    "entries": 142,
-   "alive": 5
+   "alive": 4
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 3
+   "alive": 4
   },
   "Supprise0901/TVBox_live": {
-   "entries": 930,
-   "alive": 175
+   "entries": 931,
+   "alive": 177
   },
   "zilong7728/Collect-IPTV": {
    "entries": 653,
-   "alive": 161
+   "alive": 162
   },
   "iptv-org/cn": {
    "entries": 518,
-   "alive": 64
+   "alive": 65
   },
   "mavin521/syiptv": {
    "entries": 227,
-   "alive": 125
+   "alive": 98
   },
   "hdangezz/iptv-api": {
    "entries": 437,
-   "alive": 76
+   "alive": 77
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
@@ -52,10 +52,10 @@
   }
  },
  "failed_sources": [],
- "tested": 5205,
- "raw_entries": 6032,
+ "tested": 5206,
+ "raw_entries": 6033,
  "excluded": 13,
- "frozen_removed": 239,
+ "frozen_removed": 255,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -170,6 +170,10 @@
    "url": "http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8"
   },
   {
+   "name": "天祝综合",
+   "url": "https://play.kankanlive.com/live/1656487214793905.m3u8"
+  },
+  {
    "name": "嵊泗综合",
    "url": "http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8"
   },
@@ -208,10 +212,6 @@
   {
    "name": "开化新闻综合",
    "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed"
-  },
-  {
-   "name": "张掖新闻综合",
-   "url": "https://play.kankanlive.com/live/1720583434627241.m3u8"
   },
   {
    "name": "文山州公共",
@@ -418,12 +418,20 @@
    "url": "http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8"
   },
   {
+   "name": "白银综合",
+   "url": "http://play.kankanlive.com/live/1720408089419110.m3u8"
+  },
+  {
    "name": "苍南新闻综合",
    "url": "https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8"
   },
   {
    "name": "营山电视台",
    "url": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8"
+  },
+  {
+   "name": "西峰综合",
+   "url": "https://play.kankanlive.com/live/1683944827526991.m3u8"
   },
   {
    "name": "遂昌综合",
@@ -448,47 +456,39 @@
   {
    "name": "之江纪录",
    "url": "https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8"
-  },
-  {
-   "name": "之江纪录",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
-  },
-  {
-   "name": "人与自然",
-   "url": "http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8"
   }
  ],
  "deep_check": false,
- "alive": 2755,
- "alive_raw": 2994,
- "discarded": 2211,
+ "alive": 2685,
+ "alive_raw": 2940,
+ "discarded": 2266,
  "deep_rejected": 0,
- "channels": 800,
- "streams": 1020,
+ "channels": 775,
+ "streams": 993,
  "groups": {
   "香港": 15,
   "央视": 42,
-  "卫视": 49,
+  "卫视": 48,
   "电影": 32,
   "广西": 9,
-  "国内其他": 170,
+  "国内其他": 146,
   "福建": 8,
   "黑龙江": 14,
   "山东": 8,
   "重庆": 9,
   "山西": 9,
   "上海": 3,
-  "浙江": 40,
+  "浙江": 41,
   "吉林": 36,
-  "广东": 18,
+  "广东": 17,
   "四川": 23,
-  "安徽": 19,
   "河北": 20,
   "新疆": 11,
+  "安徽": 17,
   "北京": 7,
   "江苏": 40,
   "甘肃": 7,
-  "河南": 4,
+  "河南": 6,
   "云南": 5,
   "湖北": 5,
   "天津": 4,
@@ -498,7 +498,7 @@
   "江西": 2,
   "陕西": 7,
   "体育": 16,
-  "少儿": 10,
+  "少儿": 9,
   "辽宁": 10,
   "教育": 3,
   "其他": 85,
@@ -506,7 +506,8 @@
   "宁夏": 1,
   "西藏": 1,
   "内蒙古": 2,
-  "贵州": 2
+  "贵州": 2,
+  "法国": 1
  },
- "median_ms": 339
+ "median_ms": 422
 }
