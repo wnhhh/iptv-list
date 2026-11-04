@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 09:44:02",
- "duration_s": 300.5,
+ "updated": "2026-11-04 09:51:35",
+ "duration_s": 290.1,
  "sources": {
   "手动补充": {
    "entries": 2,
@@ -8,15 +8,15 @@
   },
   "vbskycn/iptv": {
    "entries": 403,
-   "alive": 185
+   "alive": 186
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1945,
-   "alive": 50
+   "alive": 52
   },
   "best-fan/iptv-sources": {
    "entries": 142,
-   "alive": 4
+   "alive": 3
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
@@ -24,11 +24,11 @@
   },
   "Supprise0901/TVBox_live": {
    "entries": 931,
-   "alive": 180
+   "alive": 184
   },
   "zilong7728/Collect-IPTV": {
    "entries": 653,
-   "alive": 161
+   "alive": 163
   },
   "iptv-org/cn": {
    "entries": 518,
@@ -40,7 +40,7 @@
   },
   "hdangezz/iptv-api": {
    "entries": 437,
-   "alive": 76
+   "alive": 78
   },
   "zwssina/yunduanyuan": {
    "entries": 638,
@@ -55,7 +55,7 @@
  "tested": 5206,
  "raw_entries": 6033,
  "excluded": 13,
- "frozen_removed": 240,
+ "frozen_removed": 239,
  "frozen_urls": [
   {
    "name": "CCTV13",
@@ -426,6 +426,10 @@
    "url": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8"
   },
   {
+   "name": "西峰综合",
+   "url": "https://play.kankanlive.com/live/1683944827526991.m3u8"
+  },
+  {
    "name": "遂昌综合",
    "url": "http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed"
   },
@@ -452,23 +456,19 @@
   {
    "name": "之江纪录",
    "url": "https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8"
-  },
-  {
-   "name": "之江纪录",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
   }
  ],
  "deep_check": false,
- "alive": 2708,
- "alive_raw": 2948,
- "discarded": 2258,
+ "alive": 2691,
+ "alive_raw": 2930,
+ "discarded": 2276,
  "deep_rejected": 0,
  "channels": 762,
- "streams": 980,
+ "streams": 982,
  "rules": {
-  "name-group": 410,
-  "name": 59,
-  "vod": 128,
+  "name-group": 385,
+  "name": 60,
+  "vod": 152,
   "host": 98,
   "geo": 67,
   "renamed": 13
@@ -479,7 +479,7 @@
   "卫视": 49,
   "数字付费": 11,
   "广西": 9,
-  "轮播点播": 128,
+  "轮播点播": 152,
   "福建": 8,
   "黑龙江": 15,
   "山东": 14,
@@ -488,7 +488,7 @@
   "上海": 7,
   "浙江": 36,
   "吉林": 43,
-  "广东": 21,
+  "广东": 20,
   "四川": 26,
   "河北": 21,
   "新疆": 14,
@@ -497,11 +497,11 @@
   "江苏": 42,
   "甘肃": 9,
   "河南": 19,
-  "云南": 5,
+  "云南": 3,
   "湖北": 5,
   "天津": 5,
   "海南": 11,
-  "湖南": 31,
+  "湖南": 9,
   "青海": 2,
   "辽宁": 10,
   "陕西": 7,
@@ -509,6 +509,7 @@
   "体育": 15,
   "江西": 1,
   "教育": 3,
+  "其他": 2,
   "澳大利亚": 1,
   "台湾": 14,
   "奥地利": 2,
@@ -521,7 +522,6 @@
   "法国": 1,
   "南非": 1,
   "印度": 1,
-  "其他": 1,
   "全国频道": 1,
   "贵州": 3,
   "西藏": 1,
@@ -533,5 +533,5 @@
   "国内其他": 2,
   "电影": 2
  },
- "median_ms": 232
+ "median_ms": 237
 }
