@@ -1,154 +1,166 @@
 {
- "updated": "2026-11-05 22:17:19",
- "duration_s": 120.5,
+ "updated": "2026-11-05 22:22:05",
+ "duration_s": 129.9,
  "sources": {
   "手动补充": {
    "entries": 2,
    "alive": 1,
-   "median_ms": 2771
+   "median_ms": 2957
   },
   "vbskycn/iptv": {
    "entries": 557,
-   "alive": 286,
-   "median_ms": 262
+   "alive": 280,
+   "median_ms": 293
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1874,
    "alive": 35,
-   "median_ms": 796
+   "median_ms": 802
   },
   "best-fan/iptv-sources": {
    "entries": 339,
-   "alive": 36,
-   "median_ms": 126
+   "alive": 20,
+   "median_ms": 135
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 4,
-   "median_ms": 151
+   "alive": 5,
+   "median_ms": 73
   },
   "Supprise0901/TVBox_live": {
    "entries": 674,
-   "alive": 102,
-   "median_ms": 702
+   "alive": 107,
+   "median_ms": 546
   },
   "zilong7728/Collect-IPTV": {
    "entries": 636,
-   "alive": 89,
-   "median_ms": 1683
+   "alive": 80,
+   "median_ms": 1751
   },
   "iptv-org/cn": {
    "entries": 511,
-   "alive": 65,
-   "median_ms": 343
+   "alive": 60,
+   "median_ms": 414
   },
   "mavin521/syiptv": {
    "entries": 231,
-   "alive": 49,
-   "median_ms": 2963
+   "alive": 51,
+   "median_ms": 2589
   },
   "hdangezz/iptv-api": {
    "entries": 403,
-   "alive": 77,
-   "median_ms": 172
+   "alive": 78,
+   "median_ms": 149
   },
   "zwssina/yunduanyuan": {
    "entries": 634,
-   "alive": 25,
-   "median_ms": 818
+   "alive": 19,
+   "median_ms": 869
   },
   "istevenweb/Live": {
    "entries": 73,
-   "alive": 31,
-   "median_ms": 2111
+   "alive": 30,
+   "median_ms": 1939
   },
   "leimao2333/leimaotv-sources": {
    "entries": 4149,
-   "alive": 344,
-   "median_ms": 526
+   "alive": 357,
+   "median_ms": 331
   },
   "simon-lzw/iptv-scraper": {
    "entries": 16970,
-   "alive": 2667,
-   "median_ms": 2842
+   "alive": 2327,
+   "median_ms": 3011
   }
  },
  "failed_sources": [],
- "tested": 8922,
- "dead_skipped": 14229,
- "slow_removed": 2765,
+ "tested": 8758,
+ "dead_skipped": 14393,
+ "slow_removed": 2925,
  "max_ms": 3000,
+ "country_min": 30,
+ "small_countries": 97,
  "raw_entries": 27265,
  "excluded": 182,
  "frozen_removed": 0,
  "frozen_urls": [],
  "deep_check": false,
- "alive": 5993,
- "alive_raw": 8758,
- "discarded": 14393,
+ "alive": 5526,
+ "alive_raw": 8451,
+ "discarded": 14700,
  "deep_rejected": 0,
- "channels": 3593,
- "streams": 4139,
+ "channels": 3242,
+ "streams": 3731,
  "rules": {
-  "name-group": 2275,
-  "name": 85,
-  "host": 138,
-  "vod": 210,
-  "geo": 964,
-  "renamed": 461,
-  "renamed_merged": 79
+  "name-group": 791,
+  "name": 84,
+  "host": 143,
+  "vod": 202,
+  "geo": 2098,
+  "renamed": 431,
+  "renamed_merged": 76
  },
  "groups": {
-  "香港": 20,
+  "香港": 19,
   "央视": 45,
-  "体育": 21,
-  "卫视": 46,
-  "吉林": 46,
+  "体育": 20,
+  "卫视": 45,
+  "吉林": 48,
   "内蒙古": 8,
-  "山东": 17,
-  "数字付费": 12,
+  "山东": 19,
+  "数字付费": 11,
   "浙江": 89,
-  "轮播点播": 210,
-  "广西": 13,
-  "黑龙江": 18,
-  "广东": 25,
+  "轮播点播": 202,
+  "广西": 14,
+  "黑龙江": 17,
+  "广东": 24,
   "少儿": 20,
   "重庆": 8,
   "山西": 12,
-  "福建": 10,
-  "四川": 31,
-  "河北": 21,
+  "福建": 9,
+  "上海": 9,
+  "四川": 33,
+  "河北": 22,
   "新疆": 13,
-  "安徽": 17,
-  "北京": 4,
-  "江苏": 41,
-  "甘肃": 11,
-  "云南": 4,
+  "安徽": 19,
+  "北京": 5,
+  "江苏": 43,
+  "甘肃": 9,
+  "云南": 5,
   "河南": 16,
   "国内其他": 6,
-  "上海": 10,
   "湖北": 8,
-  "天津": 5,
   "海南": 9,
+  "天津": 3,
   "湖南": 16,
-  "青海": 2,
+  "青海": 1,
   "辽宁": 12,
   "陕西": 5,
-  "其他": 3,
-  "境外其他": 1768,
+  "境外其他": 965,
   "台湾": 38,
-  "俄罗斯": 183,
-  "美国": 403,
-  "韩国": 27,
-  "法国": 51,
-  "印度": 87,
+  "俄罗斯": 167,
+  "其他": 2,
+  "法国": 46,
+  "印度": 78,
   "全国频道": 2,
   "西藏": 1,
-  "德国": 118,
-  "贵州": 7,
-  "日本": 5,
-  "江西": 13,
-  "英国": 36
+  "德国": 98,
+  "美国": 351,
+  "土耳其": 42,
+  "加拿大": 42,
+  "宁夏": 1,
+  "贵州": 3,
+  "意大利": 104,
+  "江西": 14,
+  "瑞典": 73,
+  "阿根廷": 37,
+  "巴西": 35,
+  "伊朗": 50,
+  "荷兰": 45,
+  "乌克兰": 34,
+  "罗马尼亚": 41,
+  "多米尼加": 59,
+  "西班牙": 70
  },
- "median_ms": 1764
+ "median_ms": 1665
 }
