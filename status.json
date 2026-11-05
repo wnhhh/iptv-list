@@ -1,208 +1,159 @@
 {
- "updated": "2026-11-05 22:06:38",
- "duration_s": 141.5,
+ "updated": "2026-11-05 22:13:35",
+ "duration_s": 130.6,
  "sources": {
   "手动补充": {
    "entries": 2,
-   "alive": 1
+   "alive": 0,
+   "median_ms": 3131
   },
   "vbskycn/iptv": {
    "entries": 557,
-   "alive": 295
+   "alive": 294,
+   "median_ms": 337
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1874,
-   "alive": 27
+   "alive": 26,
+   "median_ms": 812
   },
   "best-fan/iptv-sources": {
    "entries": 339,
-   "alive": 30
+   "alive": 35,
+   "median_ms": 111
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 5
+   "alive": 4,
+   "median_ms": 78
   },
   "Supprise0901/TVBox_live": {
    "entries": 674,
-   "alive": 116
+   "alive": 97,
+   "median_ms": 509
   },
   "zilong7728/Collect-IPTV": {
    "entries": 636,
-   "alive": 104
+   "alive": 77,
+   "median_ms": 2049
   },
   "iptv-org/cn": {
    "entries": 511,
-   "alive": 66
+   "alive": 63,
+   "median_ms": 373
   },
   "mavin521/syiptv": {
    "entries": 231,
-   "alive": 97
+   "alive": 45,
+   "median_ms": 3119
   },
   "hdangezz/iptv-api": {
    "entries": 403,
-   "alive": 81
+   "alive": 70,
+   "median_ms": 240
   },
   "zwssina/yunduanyuan": {
    "entries": 634,
-   "alive": 26
+   "alive": 22,
+   "median_ms": 885
   },
   "istevenweb/Live": {
    "entries": 73,
-   "alive": 39
+   "alive": 26,
+   "median_ms": 2331
   },
   "leimao2333/leimaotv-sources": {
    "entries": 4149,
-   "alive": 382
+   "alive": 374,
+   "median_ms": 374
   },
   "niuinyang/niuin-s-iptv": {
    "entries": 271,
-   "alive": 0
+   "alive": 0,
+   "median_ms": 0
   },
   "simon-lzw/iptv-scraper": {
-   "entries": 17093,
-   "alive": 4848
+   "entries": 16970,
+   "alive": 2730,
+   "median_ms": 2860
   }
  },
  "failed_sources": [],
- "tested": 9427,
- "dead_skipped": 14111,
- "raw_entries": 27659,
+ "tested": 9139,
+ "dead_skipped": 14283,
+ "slow_removed": 2911,
+ "max_ms": 3000,
+ "raw_entries": 27536,
  "excluded": 182,
- "frozen_removed": 16,
- "frozen_urls": [
-  {
-   "name": "天祝综合",
-   "url": "https://play.kankanlive.com/live/1656487214793905.m3u8"
-  },
-  {
-   "name": "永昌综合",
-   "url": "https://play.kankanlive.com/live/1652755738635915.m3u8"
-  },
-  {
-   "name": "邢台生活",
-   "url": "https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8"
-  },
-  {
-   "name": "邢台综合",
-   "url": "http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8"
-  },
-  {
-   "name": "邢台综合",
-   "url": "https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8"
-  },
-  {
-   "name": "CCTV2财经",
-   "url": "https://66-b41.pages.dev/play?id=cctv2"
-  },
-  {
-   "name": "天津卫视",
-   "url": "https://66-b41.pages.dev/play?id=tjws"
-  },
-  {
-   "name": "湖南卫视",
-   "url": "https://66-b41.pages.dev/play?id=hnws"
-  },
-  {
-   "name": "Ando TV (1080p)",
-   "url": "http://play.kankanlive.com/live/1711956137852982.m3u8"
-  },
-  {
-   "name": "嘉峪关综合",
-   "url": "https://play.kankanlive.com/live/1754465670263218.m3u8"
-  },
-  {
-   "name": "江西新闻",
-   "url": "http://192.151.150.154/live/jxtv7.m3u8"
-  },
-  {
-   "name": "ORF III HD (720p)",
-   "url": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-  },
-  {
-   "name": "Kvartal TV International",
-   "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
-  },
-  {
-   "name": "PTC Punjabi Gold (1080p)",
-   "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8"
-  },
-  {
-   "name": "Hír TV",
-   "url": "https://onlinestream.live/play.m3u?id=4740&ext=.m3u"
-  },
-  {
-   "name": "NBCU Telemundo North East (1080p)",
-   "url": "https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8"
-  }
- ],
+ "frozen_removed": 0,
+ "frozen_urls": [],
  "deep_check": false,
- "alive": 9119,
- "alive_raw": 9135,
- "discarded": 14403,
+ "alive": 6011,
+ "alive_raw": 8922,
+ "discarded": 14500,
  "deep_rejected": 0,
- "channels": 5881,
- "streams": 6768,
+ "channels": 3660,
+ "streams": 4202,
  "rules": {
-  "name-group": 3776,
-  "name": 89,
-  "host": 139,
-  "vod": 252,
-  "geo": 1820,
-  "renamed": 900,
-  "renamed_merged": 195
+  "name-group": 2314,
+  "name": 85,
+  "host": 138,
+  "vod": 217,
+  "geo": 971,
+  "renamed": 464,
+  "renamed_merged": 65
  },
  "groups": {
-  "香港": 19,
   "央视": 47,
-  "体育": 23,
+  "体育": 21,
   "卫视": 46,
-  "吉林": 48,
+  "吉林": 47,
   "内蒙古": 8,
-  "山东": 19,
+  "山东": 17,
   "数字付费": 12,
   "浙江": 93,
-  "轮播点播": 252,
-  "广西": 15,
-  "黑龙江": 18,
+  "轮播点播": 217,
+  "广西": 11,
+  "黑龙江": 17,
   "广东": 25,
-  "少儿": 21,
-  "重庆": 8,
+  "少儿": 20,
+  "重庆": 7,
   "山西": 12,
   "福建": 10,
-  "上海": 11,
-  "四川": 35,
+  "上海": 10,
+  "四川": 31,
   "河北": 22,
   "新疆": 14,
-  "安徽": 20,
+  "安徽": 17,
   "北京": 5,
-  "江苏": 43,
-  "甘肃": 13,
-  "云南": 9,
-  "河南": 15,
-  "国内其他": 6,
+  "江苏": 42,
+  "云南": 6,
+  "河南": 16,
+  "国内其他": 5,
   "湖北": 8,
-  "天津": 5,
+  "甘肃": 11,
   "海南": 9,
+  "天津": 3,
   "湖南": 16,
   "青海": 2,
   "辽宁": 12,
   "陕西": 6,
+  "香港": 18,
   "其他": 3,
-  "境外其他": 3207,
-  "台湾": 47,
-  "俄罗斯": 245,
-  "美国": 848,
-  "韩国": 33,
-  "法国": 71,
-  "印度": 172,
+  "境外其他": 1804,
+  "台湾": 38,
+  "俄罗斯": 187,
+  "韩国": 29,
+  "美国": 421,
   "全国频道": 2,
-  "贵州": 8,
   "西藏": 1,
-  "德国": 232,
-  "英国": 65,
-  "宁夏": 1,
-  "日本": 6,
-  "江西": 13
+  "德国": 122,
+  "贵州": 7,
+  "日本": 4,
+  "江西": 14,
+  "英国": 31,
+  "印度": 88,
+  "法国": 46
  },
- "median_ms": 2623
+ "median_ms": 1765
 }
