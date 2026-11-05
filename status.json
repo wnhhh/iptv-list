@@ -1,352 +1,162 @@
 {
- "updated": "2026-11-06 00:33:58",
- "duration_s": 86.7,
+ "updated": "2026-11-06 00:38:20",
+ "duration_s": 90.4,
  "sources": {
   "手动补充": {
    "entries": 2,
    "alive": 0,
-   "median_ms": 3787
+   "median_ms": 4633
   },
   "vbskycn/iptv": {
    "entries": 521,
-   "alive": 244,
-   "median_ms": 259
+   "alive": 308,
+   "median_ms": 252
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1874,
-   "alive": 28,
-   "median_ms": 345
+   "alive": 40,
+   "median_ms": 634
   },
   "best-fan/iptv-sources": {
    "entries": 339,
-   "alive": 31,
-   "median_ms": 107
+   "alive": 34,
+   "median_ms": 173
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 4,
-   "median_ms": 94
+   "alive": 5,
+   "median_ms": 61
   },
   "Supprise0901/TVBox_live": {
    "entries": 675,
-   "alive": 83,
-   "median_ms": 615
+   "alive": 91,
+   "median_ms": 981
   },
   "zilong7728/Collect-IPTV": {
    "entries": 636,
-   "alive": 61,
-   "median_ms": 2553
+   "alive": 45,
+   "median_ms": 2873
   },
   "iptv-org/cn": {
    "entries": 511,
-   "alive": 60,
-   "median_ms": 787
+   "alive": 58,
+   "median_ms": 1164
   },
   "mavin521/syiptv": {
    "entries": 231,
-   "alive": 36,
-   "median_ms": 2814
+   "alive": 14,
+   "median_ms": 3302
   },
   "hdangezz/iptv-api": {
    "entries": 403,
    "alive": 63,
-   "median_ms": 294
+   "median_ms": 601
   },
   "zwssina/yunduanyuan": {
    "entries": 634,
-   "alive": 15,
-   "median_ms": 901
+   "alive": 20,
+   "median_ms": 1230
   },
   "istevenweb/Live": {
    "entries": 73,
-   "alive": 29,
-   "median_ms": 2198
+   "alive": 25,
+   "median_ms": 2933
   },
   "leimao2333/leimaotv-sources": {
    "entries": 4149,
-   "alive": 321,
-   "median_ms": 295
+   "alive": 278,
+   "median_ms": 853
   },
   "simon-lzw/iptv-scraper": {
    "entries": 16970,
-   "alive": 1753,
-   "median_ms": 2420
+   "alive": 1626,
+   "median_ms": 2492
   }
  },
  "failed_sources": [],
- "tested": 6254,
- "dead_skipped": 16899,
- "slow_removed": 1412,
+ "tested": 5828,
+ "dead_skipped": 17325,
+ "slow_removed": 1424,
  "max_ms": 3000,
  "country_min": 30,
- "small_countries": 97,
+ "small_countries": 100,
  "raw_entries": 27230,
  "excluded": 182,
- "frozen_removed": 47,
- "frozen_urls": [
-  {
-   "name": "拆弹专家1",
-   "url": "https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8"
-  },
-  {
-   "name": "南宁都市生活",
-   "url": "http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d"
-  },
-  {
-   "name": "平遥新闻综合",
-   "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd"
-  },
-  {
-   "name": "人与自然",
-   "url": "http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8"
-  },
-  {
-   "name": "飞碟之谜01",
-   "url": "https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8"
-  },
-  {
-   "name": "飞碟之谜02",
-   "url": "https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8"
-  },
-  {
-   "name": "音乐欣赏",
-   "url": "http://61.221.215.25:8800/hls/49/index.m3u8"
-  },
-  {
-   "name": "1988年春晚",
-   "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8"
-  },
-  {
-   "name": "1989年春晚",
-   "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8"
-  },
-  {
-   "name": "东方卫视",
-   "url": "https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8"
-  },
-  {
-   "name": "凤凰香港",
-   "url": "https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8"
-  },
-  {
-   "name": "寰宇新闻台",
-   "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"
-  },
-  {
-   "name": "CTi News",
-   "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8"
-  },
-  {
-   "name": "ET Mall 60",
-   "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8"
-  },
-  {
-   "name": "Momo 2",
-   "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8"
-  },
-  {
-   "name": "NU",
-   "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8"
-  },
-  {
-   "name": "春晚2025",
-   "url": "https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8"
-  },
-  {
-   "name": "Ando TV (1080p)",
-   "url": "http://play.kankanlive.com/live/1711956137852982.m3u8"
-  },
-  {
-   "name": "Fox News Channel",
-   "url": "http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
-  },
-  {
-   "name": "[HD]中天亚洲",
-   "url": "https://epg.pw/stream/be8f735f8310f3f3435e8331072d38ec6957817f35a03ac533e86633699616f2.m3u8"
-  },
-  {
-   "name": "[BD]台视新闻@@1",
-   "url": "https://epg.pw/stream/1e6f4fea556314599d76bcf7a81101aa774142e1bd344e2354f552f5ca2ea562.m3u8"
-  },
-  {
-   "name": "[BD]民视新闻 hd",
-   "url": "https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8"
-  },
-  {
-   "name": "[BD]鏡新聞[geo-blocked]",
-   "url": "https://epg.pw/stream/c8fb26710ac04a8e3742b1646b59b85967ac0b9ec67e4bb215ebe4d9f45ff2e8.m3u8"
-  },
-  {
-   "name": "平遥新闻综合",
-   "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8"
-  },
-  {
-   "name": "精品体育",
-   "url": "https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8"
-  },
-  {
-   "name": "纬来体育",
-   "url": "https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8"
-  },
-  {
-   "name": "五星体育",
-   "url": "https://cdn15.163189.xyz/163189/wxty"
-  },
-  {
-   "name": "广东体育",
-   "url": "https://2.fast.hidns.vip/163189/gdty"
-  },
-  {
-   "name": "八大综合台",
-   "url": "http://61.221.215.25:8800/hls/56/index.m3u8"
-  },
-  {
-   "name": "三立新闻台",
-   "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8"
-  },
-  {
-   "name": "MBC Mood (1080p)",
-   "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8"
-  },
-  {
-   "name": "Televisión Consciente (1080p)",
-   "url": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8"
-  },
-  {
-   "name": "Север",
-   "url": "https://live.mediacdn.ru/sr1/sever/playlist.m3u8"
-  },
-  {
-   "name": "Суспільне Житомир Ⓢ",
-   "url": "http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8"
-  },
-  {
-   "name": "Drool (1080p)",
-   "url": "https://d119f55zk8yovc.cloudfront.net/Drool.m3u8"
-  },
-  {
-   "name": "广东珠江",
-   "url": "https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=2"
-  },
-  {
-   "name": "南京十八",
-   "url": "https://iptv.catvod.com/live.php?id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&line=1"
-  },
-  {
-   "name": "睛彩广场舞",
-   "url": "https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E"
-  },
-  {
-   "name": "云南卫视",
-   "url": "https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=1"
-  },
-  {
-   "name": "云南卫视",
-   "url": "https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86"
-  },
-  {
-   "name": "北京卫视",
-   "url": "https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6"
-  },
-  {
-   "name": "安徽卫视",
-   "url": "https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86"
-  },
-  {
-   "name": "广东卫视",
-   "url": "https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1"
-  },
-  {
-   "name": "广西卫视",
-   "url": "https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86"
-  },
-  {
-   "name": "新疆卫视",
-   "url": "https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=2"
-  },
-  {
-   "name": "江西卫视",
-   "url": "https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1"
-  },
-  {
-   "name": "东森洋片",
-   "url": "https://live.catvod.com/live.php?id=ettvwestern"
-  }
- ],
+ "frozen_removed": 0,
+ "frozen_urls": [],
  "deep_check": false,
- "alive": 4369,
- "alive_raw": 5828,
- "discarded": 17325,
+ "alive": 4240,
+ "alive_raw": 5664,
+ "discarded": 17489,
  "deep_rejected": 0,
- "channels": 2548,
- "streams": 2958,
+ "channels": 2419,
+ "streams": 2807,
  "rules": {
-  "name-group": 656,
+  "name-group": 557,
   "name": 77,
-  "host": 144,
-  "vod": 127,
-  "geo": 1580,
-  "renamed": 310,
-  "renamed_merged": 36
+  "host": 137,
+  "vod": 154,
+  "geo": 1536,
+  "renamed": 303,
+  "renamed_merged": 42
  },
  "groups": {
-  "体育": 18,
-  "央视": 44,
+  "体育": 20,
+  "央视": 42,
   "卫视": 45,
   "吉林": 46,
   "内蒙古": 8,
-  "山东": 19,
+  "山东": 15,
   "数字付费": 9,
-  "浙江": 92,
-  "轮播点播": 127,
-  "广西": 11,
+  "浙江": 88,
+  "轮播点播": 154,
+  "广西": 9,
   "黑龙江": 17,
-  "广东": 23,
+  "广东": 24,
   "少儿": 19,
   "重庆": 7,
   "山西": 11,
-  "福建": 10,
-  "四川": 26,
-  "河北": 22,
-  "新疆": 12,
-  "安徽": 19,
-  "江苏": 44,
-  "云南": 6,
-  "河南": 15,
-  "国内其他": 5,
+  "福建": 9,
   "上海": 8,
+  "四川": 28,
+  "河北": 19,
+  "新疆": 13,
+  "安徽": 17,
+  "江苏": 43,
+  "甘肃": 8,
+  "云南": 7,
+  "河南": 12,
+  "国内其他": 5,
   "湖北": 8,
   "海南": 9,
-  "甘肃": 10,
   "天津": 1,
-  "湖南": 15,
   "青海": 2,
   "辽宁": 12,
-  "陕西": 6,
-  "香港": 15,
-  "其他": 3,
-  "台湾": 37,
-  "境外其他": 845,
+  "湖南": 14,
+  "陕西": 5,
+  "香港": 16,
+  "其他": 2,
+  "境外其他": 762,
+  "台湾": 34,
   "北京": 4,
-  "俄罗斯": 177,
-  "美国": 147,
-  "德国": 41,
+  "俄罗斯": 164,
+  "美国": 130,
   "全国频道": 2,
   "西藏": 1,
-  "贵州": 7,
-  "江西": 13,
-  "阿根廷": 32,
-  "印度": 51,
-  "伊朗": 40,
-  "巴西": 30,
-  "荷兰": 41,
-  "意大利": 94,
-  "乌克兰": 41,
-  "土耳其": 30,
-  "多米尼加": 61,
-  "西班牙": 43,
-  "希腊": 33,
-  "罗马尼亚": 34
+  "土耳其": 35,
+  "贵州": 3,
+  "意大利": 106,
+  "江西": 12,
+  "印度": 53,
+  "伊朗": 38,
+  "法国": 32,
+  "荷兰": 42,
+  "德国": 38,
+  "乌克兰": 35,
+  "罗马尼亚": 35,
+  "多米尼加": 65,
+  "西班牙": 42,
+  "希腊": 34
  },
- "median_ms": 1503
+ "median_ms": 1423
 }
