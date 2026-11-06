@@ -1,568 +1,568 @@
 {
- "updated": "2026-11-06 18:14:12",
- "duration_s": 103.4,
+ "updated": "2026-11-06 18:46:18",
+ "duration_s": 108.4,
  "sources": {
   "手动补充": {
    "entries": 2,
    "alive": 1,
-   "median_ms": 2615
+   "median_ms": 1989
   },
   "vbskycn/iptv": {
-   "entries": 451,
-   "alive": 184,
-   "median_ms": 187
+   "entries": 540,
+   "alive": 278,
+   "median_ms": 281
   },
   "yanghanhanyingshi/iptv": {
    "entries": 1380,
-   "alive": 21,
-   "median_ms": 677
+   "alive": 23,
+   "median_ms": 710
   },
   "best-fan/iptv-sources": {
    "entries": 214,
-   "alive": 26,
-   "median_ms": 118
+   "alive": 27,
+   "median_ms": 119
   },
   "zwc456baby/iptv_alive": {
    "entries": 30,
-   "alive": 3,
-   "median_ms": 104
+   "alive": 2,
+   "median_ms": 400
   },
   "Supprise0901/TVBox_live": {
    "entries": 762,
    "alive": 125,
-   "median_ms": 374
+   "median_ms": 360
   },
   "zilong7728/Collect-IPTV": {
    "entries": 425,
-   "alive": 104,
-   "median_ms": 1881
+   "alive": 85,
+   "median_ms": 1376
   },
   "iptv-org/cn": {
    "entries": 511,
-   "alive": 56,
-   "median_ms": 420
+   "alive": 61,
+   "median_ms": 330
   },
   "mavin521/syiptv": {
    "entries": 228,
-   "alive": 16,
-   "median_ms": 5737
+   "alive": 47,
+   "median_ms": 2651
   },
   "hdangezz/iptv-api": {
    "entries": 341,
-   "alive": 73,
-   "median_ms": 222
+   "alive": 84,
+   "median_ms": 225
   },
   "zwssina/yunduanyuan": {
    "entries": 634,
-   "alive": 19,
-   "median_ms": 825
+   "alive": 24,
+   "median_ms": 900
   },
   "istevenweb/Live": {
    "entries": 73,
-   "alive": 35,
-   "median_ms": 1706
+   "alive": 6,
+   "median_ms": 2430
   },
   "leimao2333/leimaotv-sources": {
    "entries": 3802,
-   "alive": 280,
-   "median_ms": 373
+   "alive": 279,
+   "median_ms": 746
   },
   "simon-lzw/iptv-scraper": {
    "entries": 16970,
-   "alive": 2172,
-   "median_ms": 2766
+   "alive": 2007,
+   "median_ms": 2866
   }
  },
  "failed_sources": [],
- "tested": 7399,
- "dead_skipped": 14821,
- "slow_removed": 2099,
+ "tested": 7408,
+ "dead_skipped": 14817,
+ "slow_removed": 2139,
  "max_ms": 3000,
  "country_min": 30,
- "small_countries": 93,
- "raw_entries": 25918,
+ "small_countries": 92,
+ "raw_entries": 26007,
  "excluded": 95,
- "frozen_removed": 267,
+ "frozen_removed": 100,
  "frozen_urls": [
   {
-   "name": "CCTV13",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8"
-  },
-  {
-   "name": "湖南卫视",
-   "url": "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8"
-  },
-  {
-   "name": "山西卫视",
-   "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8"
-  },
-  {
-   "name": "延边卫视",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+   "name": "浙江卫视",
+   "url": "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8"
   },
   {
    "name": "浙江卫视",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8"
+   "url": "http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8"
   },
   {
-   "name": "浙江卫视",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8"
+   "name": "人在囧途之泰囧",
+   "url": "https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8"
   },
   {
-   "name": "大湾区卫视",
-   "url": "http://222.128.55.152:9080/live/dwq.m3u8"
+   "name": "拆弹专家2",
+   "url": "https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8"
   },
   {
-   "name": "东阳影视生活",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8"
+   "name": "让子弹飞",
+   "url": "https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8"
   },
   {
-   "name": "倩女幽魂人间道",
-   "url": "http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8"
+   "name": "精品体育",
+   "url": "https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8"
   },
   {
-   "name": "倩女幽魂妖魔道",
-   "url": "http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8"
+   "name": "纬来体育",
+   "url": "https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8"
   },
   {
-   "name": "倩女幽魂道道道",
-   "url": "http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8"
+   "name": "纬来体育",
+   "url": "https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8"
   },
   {
-   "name": "我不是药神",
-   "url": "https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8"
+   "name": "CCTV1综合",
+   "url": "https://66-b41.pages.dev/play?id=cctv1"
   },
   {
-   "name": "拆弹专家1",
-   "url": "https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8"
+   "name": "辽宁卫视",
+   "url": "https://66-b41.pages.dev/play?id=lnws"
   },
   {
-   "name": "浙江教科影视",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+   "name": "四川卫视",
+   "url": "https://66-b41.pages.dev/play?id=scws"
   },
   {
-   "name": "浙江教科影视",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8"
+   "name": "东方卫视",
+   "url": "https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8"
   },
   {
-   "name": "浙江教科影视",
-   "url": "http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8"
+   "name": "湘潭公共 (576p)",
+   "url": "http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8"
   },
   {
-   "name": "龙门飞甲",
-   "url": "http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8"
+   "name": "[BD]tvbs aisa",
+   "url": "https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8"
   },
   {
-   "name": "浙江少儿",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
+   "name": "[BD]discovery hd world",
+   "url": "https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8"
   },
   {
-   "name": "浙江少儿",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
+   "name": "[BD]lovenature4k",
+   "url": "https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8"
   },
   {
-   "name": "浙江少儿",
-   "url": "http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8"
+   "name": "[HD]made in hollywood",
+   "url": "https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8"
   },
   {
-   "name": "浙江少儿",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?"
+   "name": "[HD]my tv channel (720p) [not 24/7][geo-blocked]",
+   "url": "https://epg.pw/stream/3ebff41632881150053367c024f24ad12ca50e20a3cae0d08f7ce808238e5994.m3u8"
   },
   {
-   "name": "中国蓝新闻",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8"
+   "name": "[HD]next hd",
+   "url": "https://epg.pw/stream/b4db1c12e53e81854ea92cd85f2cf4cf0743e975d47d1198d8733c09f74cb8d6.m3u8"
   },
   {
-   "name": "余姚姚江文化",
-   "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
+   "name": "[SD]rock extreme (576p) [geo-blocked][geo-blocked]",
+   "url": "https://epg.pw/stream/6421fa5c023c01d1e5839581e5d4e13069c81a20ddd07b0c9cc1d2fc68826b1c.m3u8"
   },
   {
-   "name": "余姚姚江文化",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed"
+   "name": "[HD]东森电影",
+   "url": "https://epg.pw/stream/d49e9dca478b402e1943272ecd07fa8becf59329ffab68cbb84a9ba591de3203.m3u8"
   },
   {
-   "name": "余姚新闻综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
+   "name": "[BD]东森电影@@1[geo-blocked]",
+   "url": "https://epg.pw/stream/74785bf69149b1494171cc0524ca43d84ae80a3ede60f85a0891b05212ae816a.m3u8"
   },
   {
-   "name": "余姚新闻综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl"
+   "name": "[HD]中天亚洲台",
+   "url": "https://epg.pw/stream/040b1df4a80f3ff115c6518629c88215a3010366c6ef4383519887b3eb8b7fae.ctv"
   },
   {
-   "name": "余姚综合",
-   "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
+   "name": "[HD]中视",
+   "url": "https://epg.pw/stream/6478902e04ad499ce467058635c654d97c58f48c47a2d4083253e79c6ecc2429.m3u8"
   },
   {
-   "name": "余姚综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?"
+   "name": "[HD]卫视中文",
+   "url": "https://epg.pw/stream/30922057cc07ca267843fdf350156bc53b97607dcb27ed3103407cff51650bee.ctv"
   },
   {
-   "name": "余姚综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed"
+   "name": "[HD]台视",
+   "url": "https://epg.pw/stream/b6ef139af72b61f7963bb54d0bf7c1c33f13d61f4eb50c9346e2c8ce8812c3e9.m3u8"
   },
   {
-   "name": "余杭未来E",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8"
+   "name": "[BD]台视新闻@@2",
+   "url": "https://epg.pw/stream/d3230731a96387dccb11e86bafb66b5715c55e8b3033cbf183d4972995cea362.m3u8"
   },
   {
-   "name": "余杭未来E",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed"
+   "name": "[BD]台视新闻台@@1",
+   "url": "https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8"
   },
   {
-   "name": "余杭综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8"
+   "name": "[BD]台视新闻@@3",
+   "url": "https://epg.pw/stream/d388b721bbe24174167197bd8df71614187bcb174879a301f1bc24ff2d8d6136.m3u8"
   },
   {
-   "name": "余杭综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed"
+   "name": "[HD]國會頻道1@@1",
+   "url": "https://epg.pw/stream/6895b2419005288c3351b470fce0e6c8259100008b97e92fd7ecd4824bdd6f2b.m3u8"
   },
   {
-   "name": "兰溪新闻综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8"
+   "name": "[HD]大愛2",
+   "url": "https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8"
   },
   {
-   "name": "可克达拉综合",
-   "url": "http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8"
+   "name": "[HD]大爱1台",
+   "url": "https://epg.pw/stream/3a4000775739454382a189ab508d3e8df3de8b3a1745b1b22db1e9d40f10c7b4.m3u8"
   },
   {
-   "name": "嵊泗综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8"
+   "name": "[HD]大愛2台 hd[geo-blocked]",
+   "url": "https://epg.pw/stream/aea0710e4f460c4341b816de7c2dbaf86089ab44984490c5a431276d52dec44d.ctv"
   },
   {
-   "name": "平湖民生休闲",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8"
+   "name": "[HD]好消息 hd[geo-blocked]",
+   "url": "https://epg.pw/stream/428036b831181576c33f7ffdd37f5ffc285f5777227ead4b5d349a67a105bd06.ctv"
   },
   {
-   "name": "平湖民生休闲",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed"
+   "name": "[BD]寰宇新闻台[geo-blocked]",
+   "url": "https://epg.pw/stream/07098b4eb528ac93e7e5389511fe9e46ddcc020eec1e120c9542af71fba338fb.m3u8"
   },
   {
-   "name": "庆元新闻综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl="
+   "name": "[HD]成龙",
+   "url": "https://epg.pw/stream/399ead0247211727dbc10805df54fbc29e4298fdde428567fc6abcea3cde059f.ctv"
   },
   {
-   "name": "庆元综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8"
+   "name": "[HD]东森戏剧",
+   "url": "https://epg.pw/stream/d022283dd82f8a32737a6a8400d8e0e2f4d38e672492bb7966c25ac4950b25a3.m3u8"
   },
   {
-   "name": "庆元综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?"
+   "name": "[BD]東森戲劇台",
+   "url": "https://epg.pw/stream/4c36b690fa2985f1a0a2c1d6c74b3d2a27cd236de857f9c31b30eed2ecfb4a55.m3u8"
   },
   {
-   "name": "开化国家公园",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed"
+   "name": "[BD]东森卫视",
+   "url": "https://epg.pw/stream/0770e12df6a3aa1917c90c7082d6774177201e8e77a9a6d420c8ca8e555e2183.ctv"
   },
   {
-   "name": "开化国家公园",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8"
+   "name": "[HD]民視 hd[geo-blocked]",
+   "url": "https://epg.pw/stream/874a06687ba0ef80e63712b5f2bbfaeade672def0cdee8950ad77b6067cf9a54.ctv"
   },
   {
-   "name": "开化国家公园",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed"
+   "name": "[HD]民視台灣 hd[geo-blocked]",
+   "url": "https://epg.pw/stream/943e85de022a9df4ada1c79d43b5b42356e70a1f133ce210ba433c4d0ca3bcb6.ctv"
   },
   {
-   "name": "开化新闻综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed"
+   "name": "[BD]民视新闻HD",
+   "url": "https://epg.pw/stream/87e718a1049a57e28fe2ece3b63ffe7addf2ada8131973e606ff2e17e9ccb792.m3u8"
   },
   {
-   "name": "文山州公共",
-   "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8"
+   "name": "[BD]民視新聞",
+   "url": "https://epg.pw/stream/be529ea1748f48465787a8085087d4f3f6809911daa618e6d4d3ad9c5a4a2586.m3u8"
   },
   {
-   "name": "文山州公共",
-   "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund"
+   "name": "[HD]民視第一 hd[geo-blocked]",
+   "url": "https://epg.pw/stream/bbd5e7b76583762ea814f543dd934ea8e0839df892638fc2d49a4d4d826903f6.ctv"
   },
   {
-   "name": "文山州新闻综合",
-   "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund"
+   "name": "[BD]民视新闻 hd",
+   "url": "https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8"
   },
   {
-   "name": "文成新闻综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8"
-  },
-  {
-   "name": "文成综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed"
-  },
-  {
-   "name": "文成综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?"
-  },
-  {
-   "name": "新昌新闻综合",
-   "url": "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
-  },
-  {
-   "name": "新闻综合",
-   "url": "https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8"
-  },
-  {
-   "name": "普陀电视台",
-   "url": "https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8"
-  },
-  {
-   "name": "普陀电视台",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8"
-  },
-  {
-   "name": "武义新闻综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8"
-  },
-  {
-   "name": "武义新闻综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed"
-  },
-  {
-   "name": "永嘉新闻综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8"
-  },
-  {
-   "name": "泸县新闻综合",
-   "url": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8"
-  },
-  {
-   "name": "泸县新闻综合",
-   "url": "http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8"
-  },
-  {
-   "name": "泸县新闻综合",
-   "url": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd"
-  },
-  {
-   "name": "洞头综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?"
-  },
-  {
-   "name": "洞头综合",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8"
-  },
-  {
-   "name": "浙江休闲台",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8"
-  },
-  {
-   "name": "浙江公共新闻",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
-  },
-  {
-   "name": "浙江公共新闻",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
-  },
-  {
-   "name": "浙江公共新闻",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8"
-  },
-  {
-   "name": "浙江国际",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?"
-  },
-  {
-   "name": "浙江国际",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8"
-  },
-  {
-   "name": "浙江国际",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
-  },
-  {
-   "name": "浙江国际",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
-  },
-  {
-   "name": "浙江国际",
-   "url": "http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8"
-  },
-  {
-   "name": "浙江教科",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
-  },
-  {
-   "name": "浙江教育",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8"
-  },
-  {
-   "name": "浙江数码时代",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8"
-  },
-  {
-   "name": "浙江数码时代",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed"
-  },
-  {
-   "name": "浙江新闻",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8"
-  },
-  {
-   "name": "浙江新闻",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8"
-  },
-  {
-   "name": "浙江新闻",
-   "url": "http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8"
-  },
-  {
-   "name": "浙江新闻",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?"
-  },
-  {
-   "name": "浙江民生",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
-  },
-  {
-   "name": "浙江民生",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8"
-  },
-  {
-   "name": "浙江民生",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?"
-  },
-  {
-   "name": "浙江民生",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8"
-  },
-  {
-   "name": "浙江民生休闲",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
-  },
-  {
-   "name": "浙江民生休闲",
-   "url": "http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8"
+   "name": "[BD]纬来综合",
+   "url": "https://epg.pw/stream/35977b6d6949604387ec2eef890876cda04cd06dcbc1d89c6d2fa0664da01c7f.m3u8"
   },
   {
    "name": "浙江留学",
-   "url": "http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8"
+   "url": "https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8"
   },
   {
-   "name": "浙江经济",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8"
+   "name": "五星体育",
+   "url": "https://cdn15.163189.xyz/163189/wxty"
   },
   {
-   "name": "浙江经济",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+   "name": "中天娱乐台",
+   "url": "http://61.221.215.25:8800/hls/47/index.m3u8"
   },
   {
-   "name": "浙江经济",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?"
+   "name": "Belros Ⓢ",
+   "url": "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
   },
   {
-   "name": "浙江经济生活",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8"
+   "name": "Kaifa TV (576p)",
+   "url": "http://82.212.74.2:8000/live/7311.m3u8"
   },
   {
-   "name": "浙江经济生活",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+   "name": "Chamame TV",
+   "url": "https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8"
   },
   {
-   "name": "浙江经济生活",
-   "url": "http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8"
+   "name": "MBC Mood (1080p)",
+   "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8"
   },
   {
-   "name": "浙江经视",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8"
+   "name": "Al Arabiya English (1080p)",
+   "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8"
   },
   {
-   "name": "浙江遂昌",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8"
+   "name": "Podium.TV 2 (1080p) [Not 24/7]",
+   "url": "https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live"
   },
   {
-   "name": "浙江钱江",
-   "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
+   "name": "Podium.TV 3 (1080p) [Not 24/7]",
+   "url": "https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live"
   },
   {
-   "name": "浙江钱江",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?"
+   "name": "WTVJ-DT1 (1080p)",
+   "url": "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8"
   },
   {
-   "name": "浙江钱江都市",
-   "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
+   "name": "南京新闻综合",
+   "url": "https://iptv.catvod.com/live.php?id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&line=1"
   },
   {
-   "name": "浙江钱江频道",
-   "url": "http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8"
+   "name": "浙江新闻",
+   "url": "https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8"
   },
   {
-   "name": "苍南新闻综合",
-   "url": "https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8"
+   "name": "内蒙古卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86"
+  },
+  {
+   "name": "天津卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86"
+  },
+  {
+   "name": "新疆卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=2"
+  },
+  {
+   "name": "江苏卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=1"
+  },
+  {
+   "name": "河北卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=2"
+  },
+  {
+   "name": "河南卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=4"
+  },
+  {
+   "name": "浙江卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=8"
+  },
+  {
+   "name": "海南卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&line=3"
+  },
+  {
+   "name": "湖南卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3"
+  },
+  {
+   "name": "西藏卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=3"
+  },
+  {
+   "name": "重庆卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=2"
+  },
+  {
+   "name": "重庆卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=1"
+  },
+  {
+   "name": "陕西卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86"
+  },
+  {
+   "name": "青海卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=2"
+  },
+  {
+   "name": "青海卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=1"
+  },
+  {
+   "name": "黑龙江卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2"
+  },
+  {
+   "name": "黑龙江卫视",
+   "url": "https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5"
+  },
+  {
+   "name": "CCTV-10",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV10&line=3"
+  },
+  {
+   "name": "CCTV-11",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV11&line=5"
+  },
+  {
+   "name": "CCTV-13",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV13&line=13"
+  },
+  {
+   "name": "CCTV-13",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV13&line=12"
+  },
+  {
+   "name": "CCTV-13",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV13&line=2"
+  },
+  {
+   "name": "CCTV-14",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV14&line=3"
+  },
+  {
+   "name": "CCTV-14",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV14&line=6"
+  },
+  {
+   "name": "CCTV-15",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV15&line=4"
+  },
+  {
+   "name": "CCTV-16",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV16&line=1"
+  },
+  {
+   "name": "CCTV-17",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV17&line=3"
+  },
+  {
+   "name": "CCTV-2",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV2&line=5"
+  },
+  {
+   "name": "CCTV-3",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV3&line=7"
+  },
+  {
+   "name": "CCTV-3",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV3&line=5"
+  },
+  {
+   "name": "CCTV-4",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV4&line=6"
+  },
+  {
+   "name": "CCTV-5",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV5&line=1"
+  },
+  {
+   "name": "CCTV-7",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV7&line=3"
+  },
+  {
+   "name": "CCTV-8",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV8&line=11"
+  },
+  {
+   "name": "CCTV-9",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV9&line=3"
+  },
+  {
+   "name": "CETV-1",
+   "url": "https://iptv.catvod.com/live.php?id=CETV1"
+  },
+  {
+   "name": "CETV-2",
+   "url": "https://iptv.catvod.com/live.php?id=CETV2&line=1"
+  },
+  {
+   "name": "CCTV-1",
+   "url": "https://iptv.catvod.com/live.php?id=CCTV1&line=4"
+  },
+  {
+   "name": "新动漫",
+   "url": "https://iptv.catvod.com/live.php?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=1"
+  },
+  {
+   "name": "纬来育乐",
+   "url": "https://live.catvod.com/live.php?id=videolandyule"
+  },
+  {
+   "name": "纬来育乐",
+   "url": "https://live.catvod.com/live.php?id=videolandmax"
   }
  ],
  "deep_check": false,
- "alive": 4932,
- "alive_raw": 7298,
- "discarded": 14922,
+ "alive": 4890,
+ "alive_raw": 7129,
+ "discarded": 15096,
  "deep_rejected": 0,
- "channels": 2925,
- "streams": 3312,
+ "channels": 2831,
+ "streams": 3238,
  "rules": {
-  "name-group": 673,
-  "name": 74,
-  "vod": 149,
-  "host": 102,
-  "geo": 1976,
-  "renamed": 390,
-  "renamed_merged": 49
+  "name-group": 710,
+  "name": 73,
+  "host": 137,
+  "vod": 167,
+  "geo": 1789,
+  "renamed": 344,
+  "renamed_merged": 45
  },
  "groups": {
-  "香港": 16,
+  "香港": 18,
   "央视": 43,
-  "卫视": 44,
-  "吉林": 46,
+  "卫视": 43,
+  "吉林": 47,
   "内蒙古": 8,
-  "山东": 16,
+  "山东": 17,
   "数字付费": 10,
-  "轮播点播": 149,
-  "广西": 9,
+  "浙江": 89,
+  "轮播点播": 167,
+  "广西": 12,
   "黑龙江": 16,
-  "广东": 20,
+  "广东": 23,
   "少儿": 19,
-  "重庆": 8,
+  "重庆": 9,
   "山西": 13,
-  "福建": 8,
-  "上海": 7,
-  "浙江": 48,
-  "四川": 28,
-  "河北": 18,
-  "新疆": 13,
-  "安徽": 13,
+  "福建": 9,
+  "上海": 10,
+  "四川": 30,
+  "河北": 23,
+  "新疆": 15,
+  "安徽": 18,
+  "北京": 4,
   "江苏": 41,
-  "甘肃": 6,
-  "河南": 16,
-  "湖北": 5,
+  "甘肃": 8,
+  "云南": 12,
+  "河南": 15,
+  "国内其他": 6,
+  "湖北": 8,
   "海南": 9,
   "天津": 3,
   "湖南": 15,
   "青海": 1,
-  "国内其他": 7,
   "辽宁": 11,
   "陕西": 5,
   "体育": 20,
+  "境外其他": 881,
+  "台湾": 20,
+  "俄罗斯": 177,
   "其他": 2,
-  "境外其他": 919,
-  "北京": 4,
-  "台湾": 34,
-  "俄罗斯": 184,
-  "德国": 46,
   "全国频道": 2,
-  "云南": 2,
   "西藏": 1,
-  "土耳其": 37,
-  "美国": 245,
-  "加拿大": 53,
-  "法国": 36,
-  "贵州": 2,
+  "美国": 201,
+  "加拿大": 57,
+  "宁夏": 1,
   "江西": 13,
+  "土耳其": 32,
+  "法国": 35,
+  "贵州": 2,
+  "阿根廷": 42,
   "印度": 65,
-  "阿根廷": 53,
-  "西班牙": 55,
-  "乌克兰": 34,
-  "伊朗": 49,
-  "巴西": 61,
-  "多米尼加": 82,
-  "意大利": 76,
-  "墨西哥": 33,
-  "罗马尼亚": 34,
-  "荷兰": 37,
-  "智利": 42,
-  "希腊": 33
+  "西班牙": 48,
+  "乌克兰": 43,
+  "伊朗": 31,
+  "巴西": 53,
+  "德国": 38,
+  "智利": 31,
+  "墨西哥": 30,
+  "荷兰": 31,
+  "多米尼加": 74,
+  "意大利": 90,
+  "罗马尼亚": 34
  },
- "median_ms": 1599
+ "median_ms": 1546
 }
